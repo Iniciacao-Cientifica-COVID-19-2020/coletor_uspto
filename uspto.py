@@ -27,7 +27,7 @@ class UsptoSpider(scrapy.Spider):
                 response.urljoin(pages_url),
                 callback=self.parse
             )            
-        print("Teste paginação >>>>>> " + pages_url)
+        #print("Teste paginação >>>>>> " + pages_url)
             
         
     def parse_link(self, response):
