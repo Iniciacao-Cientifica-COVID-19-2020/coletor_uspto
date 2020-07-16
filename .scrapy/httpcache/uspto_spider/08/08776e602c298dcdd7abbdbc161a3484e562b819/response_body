@@ -1,0 +1,447 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results:  ((ttl/aspirin or abst/aspirin)) in US Patent Collection</TITLE>
+<script language="javascript">
+var clicked = false;
+// Shamelessly adapted from http://www.randomsnippets.com/2008/02/21/how-to-dynamically-add-form-elements-via-javascript/ 09-04-14. jh
+function addInput(divName,btnName,btnLabel) {
+   var newdiv = document.createElement('div');
+   newdiv.innerHTML = "<input type='hidden' name='" + btnName +
+			"' value='" + btnLabel + "'>";
+   divName.appendChild(newdiv);
+}
+// -- 09-04-14.
+function check(form1,formBtn) {
+   // if submitted by <enter> key, add a submit button lookalike to prevent
+   // 1003 errs from BRS. 9-4-14 jh
+   if (!clicked)
+      addInput (form1,formBtn.name,formBtn.value);
+   return true;
+}
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   if (srchForm.Srch2)
+      srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   if (srchForm2.Srch2)
+      srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+function decod(){
+   document.title = decodeURIComponent(document.title);
+   refine.Query.value = decodeURIComponent(refine.Query.value);
+   var x = document.getElementById("srchtext").childNodes[0];
+   x.data = decodeURIComponent(x.data);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" onload="decod()">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="/netahtml/PTO/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="/netahtml/PTO/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Page=Next&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26p%3D1%26f%3DS%26l%3D50%26Query%3D%2528%2528ttl%252Faspirin%252Bor%252Babst%252Faspirin%2529%2529%26d%3DPTXT&backLabel1=Back%20to%20Document%3A%20 ((ttl/aspirin or abst/aspirin))"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shopping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> <span id="srchtext">(TTL/aspirin OR ABST/aspirin)</span></B>: 291 patents.
+<BR><I>Hits <strong>1</strong> through <strong>50
+</strong> out of <strong>291</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE=" ((ttl/aspirin or abst/aspirin))">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/aspirin OR ABST/aspirin)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE=" ((ttl/aspirin or abst/aspirin))">
+
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="291">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(aspirin.TI. OR aspirin.ABTX.)">
+<INPUT TYPE=submit NAME=NextList2 VALUE="Next 50 Hits"><BR><BR>
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET"
+	onsubmit="unesc2();check(this,this.StartAt)">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/aspirin OR ABST/aspirin)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE=" ((ttl/aspirin or abst/aspirin))">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="291">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(aspirin.TI. OR aspirin.ABTX.)">
+
+<INPUT TYPE=submit name=StartAt VALUE="Jump To" onclick="clicked=true;">
+&nbsp;
+<INPUT size=6 name="StartNum" title="Record Number">	<!-- 2/21/14 508 -->
+</form>
+<BR><BR>
+<form name="refine" action="/netacgi/nph-Parser" method="GET" onsubmit="check(this,this.Refine)">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/aspirin OR ABST/aspirin)">
+<INPUT type="submit" name="Refine" value="Refine Search" onclick="clicked=true;">
+<INPUT size=50 name="Query" value=" ((ttl/aspirin or abst/aspirin))" title="Query">	<!-- 2/21/14 508 -->
+</FORM>
+<TABLE><TR><TD></TD><TH scope="col">PAT. NO.</TH><TD></TD><TH scope="col">Title</TH></TR>
+<TR><TD valign=top>1</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,688,075</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=1&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method of treating patients with a factor Xa inhibitor, aspirin, and
+     verapamil
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>2</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,624,907</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=2&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Production of aspirin-triggered resolvins without the use of aspirin in a
+     dietary omega-3 supplement
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>3</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,441,599</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=3&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Pharmaceutical composition containing Ginkgolide B and blood platelet
+     prostaglandin cyclooxygenase inhibitor and method for preparation thereof
+     and use thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>4</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,420,843</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=4&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compositions and methods relating to salts of specialized pro-resolving
+     mediators
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>5</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,398,712</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=5&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compositions and methods for treating multiple sclerosis
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>6</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,335,454</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=6&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Combination and use
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>7</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,258,562</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=7&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Effervescent tablet containing high level of aspirin
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>8</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,183,996</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=8&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Methods and compositions for treating Siglec-8 associated diseases
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>9</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,130,719</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=9&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compositions and methods relating to salts of specialized pro-resolving
+     mediators
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>10</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,098,913</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=10&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Composition of stem cells having highly expressed FAS ligand
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>11</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>10,071,981</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=11&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method of priming plants against abiotic stress factors
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>12</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,975,684</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=12&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Interactive dispensing bottle cap
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>13</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,950,987</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=13&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin derivatives and uses thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>14</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,895,409</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=14&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Remedy for gastritis and gastric ulcer
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>15</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,850,195</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=15&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin derivatives and uses thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>16</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,745,248</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=16&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin derivatives and uses thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>17</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,670,223</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=17&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compounds with super-aspirin effects
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>18</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,604,971</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=18&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Co-crystal of the PAR-1 receptor antagonists vorapaxar and aspirin
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>19</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,433,645</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=19&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method and composition for preventing stem cell disruption and aggregation
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>20</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,422,701</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=20&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Toilet water splash inhibiting device
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>21</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,351,980</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=21&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Di-aspirin derivatives
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>22</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,226,891</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=22&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Anti-flush compositions
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>23</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,187,402</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=23&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin derivatives and uses thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>24</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,149,424</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=24&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compositions and methods for reducing hepatotoxicity associated with drug
+     administration
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>25</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,107,835</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=25&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Chewable enteric coated aspirin tablets
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>26</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,023,402</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=26&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method for treating a mammal by administration of a compound having the
+     ability to release CO
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>27</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>9,012,411</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=27&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Formulations from derivatives of curcumin, paclitaxel, and aspirin
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>28</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,933,270</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=28&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Use of docasatrienes, resolvins, and their stable analogs in the treatment
+     of airway diseases and asthma
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>29</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,889,157</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=29&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Composition for cardiovascular treatment
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>30</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,841,129</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=30&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method for monitoring inhibition of platelet function
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>31</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,758,814</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=31&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Chewable enteric coated aspirin tablets
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>32</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,722,654</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=32&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Lipoxin analogs as novel inhibitors of angiogenesis
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>33</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>D693,998</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=33&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin carrier
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>34</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,595,165</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=34&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method for diagnosing urticaria and angioedema
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>35</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,580,853</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=35&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Analgesic composition and method of making the same
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>36</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,569,542</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=36&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Use of docosatrienes, resolvins, and their stable analogs in the treatment
+     of airway diseases and asthma
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>37</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,569,325</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=37&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Method of treatment with coadministration of aspirin and prasugrel
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>38</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,551,958</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=38&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Galactosylated pro-drugs of non-steroidal anti-inflammatories with
+     improved pharmacokinetic characteristics and reduced toxicity of the
+     starting drug
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>39</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,486,974</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=39&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Efficient aspirin prodrugs
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>40</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,481,600</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=40&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Formulation of aspirin that is stable and showing minimal hydrolysis for
+     parenteral administration for the treatment of cardiovascular and other
+     disease states
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>41</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,461,377</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=41&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>High shear process for aspirin production
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>42</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,420,132</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=42&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Synergistic anti-inflammatory and antioxidant dietary supplement
+     compositions
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>43</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,404,703</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=43&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Medicinal compositions containing aspirin
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>44</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,377,989</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=44&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Room temperature stable non-crystalline aspirin and method for the
+     preparation thereof
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>45</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,349,896</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=45&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Aspirin-triggered lipid mediators
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>46</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,304,404</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=46&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Intravenous formulation with water-soluble cocrystals of acetylsalicylic
+     acid and theanine
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>47</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,287,904</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=47&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Stable soft capsule dosage form for acetylsalicylic acid
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>48</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,192,768</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=48&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Synergistic anti-inflammatory and antioxidant dietary supplement
+     compositions
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>49</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,183,284</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=49&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Compositions for reducing the incidence of drug induced arrhythmia
+</A></TD>
+<DOCS: 291>
+<TR><TD valign=top>50</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>8,173,625</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=50&p=1&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)>Intravenous formulation with water-soluble cocrystals of acetylsalicylic
+     acid and theanine
+</A></TD>
+   </TABLE><HR><br>
+   <center>
+   <table>
+   <tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Page=Next&OS=+((ttl/aspirin+or+abst/aspirin))&RS=(TTL/aspirin+OR+ABST/aspirin)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+   <A HREF="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26p%3D1%26f%3DS%26l%3D50%26Query%3D%2528%2528ttl%252Faspirin%252Bor%252Babst%252Faspirin%2529%2529%26d%3DPTXT&backLabel1=Back%20to%20Document%3A%20 ((ttl/aspirin or abst/aspirin))"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" border = "0" align
+=middle></A>
+   </td></tr>
+   </table>
+   <a href="/netahtml/PTO/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+   <a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+   <A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+   <a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+   <A HREF="/netahtml/PTO/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+   </center>
+   </HTML>
