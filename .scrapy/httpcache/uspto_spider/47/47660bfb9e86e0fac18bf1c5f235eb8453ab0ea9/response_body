@@ -1,0 +1,931 @@
+<HTML>
+<HEAD>
+<BASE target="_top">
+<TITLE>United States Patent: 7682637</TITLE></HEAD>
+<!-BUF1=7682637
+BUF7=2010
+BUF8=134856
+BUF9=/1/
+BUF51=7
+-->
+<BODY bgcolor="#FFFFFF">
+<A name="top"></A>
+<CENTER>
+<IMG src="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<BR>
+<TABLE>
+<TR><TD align="center">
+<A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" ALT="[Manual Search]" valign="middle"></A>
+<A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/help/help.htm"><IMG border="0" valign="middle" src="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</TD></TR>
+<TR><TD align="center">
+   <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=1&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=69&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+<A href="#bottom"><IMG src="/netaicon/PTO/bottom.gif" alt="[Bottom]" valign="middle" border="0"></A>
+</TD></TR>
+   <TR><TD align="center">
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D70%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207682637"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="middle" alt="[View Shopp
+ing Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=7682637&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D70%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207682637">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=07682637&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D70%2526p%3D2%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+
+   </TD></TR>
+</TABLE>
+</CENTER>
+<TABLE width="100%">
+<TR><TD align="left" width="50%">&nbsp;</TD>
+<TD align="right" valign="bottom" width="50%"><FONT size="-1">( <STRONG>70</STRONG></FONT> <FONT size=-2>of</FONT> <STRONG><FONT size=-1>292</STRONG> )</FONT></TD></TR></TABLE>
+<HR>
+   <TABLE width="100%">
+   <TR>	<TD align="left" width="50%"><b>United States Patent </b></TD>
+   <TD align="right" width="50%"><b>7,682,637</b></TD>
+   </TR>
+     <TR><TD align="left" width="50%"><b>
+         Gourdin
+, &nbsp; et al.</b>
+     </TD>
+     <TD align="right" width="50%"> <b>
+     March 23, 2010
+</b></TD>
+     </TR>
+     </TABLE>
+       <HR>
+       <FONT size="+1">Efficient method for producing compositions enriched in total phenols
+</FONT><BR>
+       <BR><CENTER><b>Abstract</b></CENTER>
+       <p> A product made by a process which results in compositions enriched in
+     total phenols includes purification steps not involving the addition of
+     bisulfite ions. The enriched compositions are characterized as containing
+     monomeric, oligomeric and polymeric phenols, total phenol concentration
+     &gt;12% and exhibiting in vitro COX-2 inhibitory activity enhanced by a
+     factor of at least 2.5 over a standard <B><I>aspirin</I></B> dose of 660 .mu.g/mL.
+</p>
+       <HR>
+<TABLE width="100%"> <TR> <TH scope="row" valign="top" align="left" width="10%">Inventors:</TH> <TD align="left" width="90%">
+ <B>Gourdin; Gerald T.</B> (Boulder, CO)<B>, Richheimer; Steven L.</B> (Westminster, CO)<B>, Tempesta; Michael S.</B> (El Granada, CA)<B>, Bailey; David T.</B> (Boulder, CO)<B>, Nichols; Rebecca L.</B> (Broomfield, CO)<B>, Daugherty; F. Joseph</B> (Omaha, NE)<B>, Freeberg; Delano R.</B> (Algonquin, IL) </TD> </TR>
+<TR> <TH scope="row" valign="top" align="left" width="10%">Assignee:</TH>
+<TD align="left" width="90%">
+
+<B>Phenolics, LLC</B>
+ (Omaha, 
+NE)
+<BR>
+
+</TD>
+</TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Family ID:
+       </TD><TD align="left" width="90%">
+       <b>32392402
+</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Appl. No.:
+       </TH><TD align="left" width="90%">
+       <b>11/890,788</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%">Filed:
+       </TH><TD align="left" width="90%">
+       <b>August 7, 2007</b></TD></TR>
+     </TABLE>
+<HR> <CENTER><b>Prior Publication Data</b></CENTER> <HR> <TABLE width="100%"> <TR><TH scope="col"></TH><TH scope="col"></TH><TD></TD></TR> <TR><TD align="left">
+</TD><TH scope='col' align=center><B><U>Document Identifier</U></B></TH><TH scope='col' align=center><B><U>Publication Date</U></B></TH></TR><TR><TD align=center> </TD><TD align=center> US 20080199548 A1</TD><TD align=center>Aug 21, 2008</TD></TR><TR><TD align=center> 
+</TD>
+</TR> </TABLE>
+<HR> <CENTER><b>Related U.S. Patent Documents</b></CENTER> <HR> <TABLE width="100%"> <TR><TH scope="col" width="7%"></TH><TH scope="col"></TH><TH scope="col"></TH> <TH scope="col"></TH><TH scope="col"></TH><TD></TD></TR> <TR><TD align="left">
+</TD><TH scope='col' align=center><B><U>Application Number</U></B></TH><TH scope='col' align=center><B><U>Filing Date</U></B></TH><TH scope='col' align=center><B><U>Patent Number</U></B></TH><TH scope='col' align=center><B><U>Issue Date</U></B></TH><TD</TD></TR><TR><TD align=center> </TD><TD align=center>11508409</TD><TD align=center>Aug 22, 2006</TD><TD align=center></TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> </TD><TD align=center>11179771</TD><TD align=center>Jul 12, 2005</TD><TD align=center></TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> </TD><TD align=center>10302264</TD><TD align=center>Nov 22, 2002</TD><TD align=center>6960360</TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> </TD><TD align=center>09943158</TD><TD align=center>Aug 30, 2001</TD><TD align=center>6780442</TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> </TD><TD align=center>60229205</TD><TD align=center>Aug 31, 2000</TD><TD align=center></TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> 
+</TD>
+</TR> </TABLE>     <HR>
+<p> <TABLE width="100%"> <TR><TD valign="top" align="left" width="30%"><b>Current U.S. Class:</b></TD> <TD valign="top" align="right" width="70%"><b>424/732</b>; 514/456; 514/27 </TD></TR> 
+       <TR><TD valign="top" align="left" width="30%"><b>Current CPC Class: </b></TD>
+       <TD valign="top" align="right" width="70%">A61P 31/00&nbsp(20180101); A61P 31/16&nbsp(20180101); A61K 36/736&nbsp(20130101); A61K 36/35&nbsp(20130101); A61K 31/70&nbsp(20130101); A61K 36/185&nbsp(20130101); A61P 29/00&nbsp(20180101); A61P 31/14&nbsp(20180101); A61P 31/22&nbsp(20180101); A61K 36/45&nbsp(20130101); A61K 36/87&nbsp(20130101); A61K 36/73&nbsp(20130101); C07D 311/62&nbsp(20130101); A61K 31/352&nbsp(20130101); A61K 36/45&nbsp(20130101); A61K 2300/00&nbsp(20130101); A61K 36/73&nbsp(20130101); A61K 2300/00&nbsp(20130101); A61K 36/736&nbsp(20130101); A61K 2300/00&nbsp(20130101); Y02A 50/393&nbsp(20180101); Y02A 50/30&nbsp(20180101)</TD></TR>
+         <TR><TD valign="top" align="left" width="30%"><b>Current International Class: </b></TD>
+         <TD valign="top" align="right" width="70%">A61K 36/45&nbsp(20060101); A61K 31/35&nbsp(20060101); A61K 31/70&nbsp(20060101)</TD></TR>
+       <TR><TD valign="top" align="left" width="30%"><b>Field of Search: </b></TD>
+       <TD align="right" valign="top" width="70%">
+       
+
+
+ ;424/732 ;514/27,456
+       </TD></TR>
+     </TABLE>
+<HR><CENTER><b>References Cited  <A href="/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2Fsearch-adv.htm&r=0&f=S&l=50&d=PALL&Query=ref/7682637">[Referenced By]</A></b></CENTER>       <HR>
+       <CENTER><b>U.S. Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TH scope="col" width="33%"></TH> <TH scope="col" width="33%"></TH> <TH scope="col" width="34%"></TH></TR> <TR> <TD align="left">
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4413004">4413004</a></TD><TD align =left>
+November 1983</TD><TD align=left>
+Lietti et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4452822">4452822</a></TD><TD align =left>
+June 1984</TD><TD align=left>
+Shrikhande</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4481226">4481226</a></TD><TD align =left>
+November 1984</TD><TD align=left>
+Crosby et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4500556">4500556</a></TD><TD align =left>
+February 1985</TD><TD align=left>
+Langston</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4857327">4857327</a></TD><TD align =left>
+August 1989</TD><TD align=left>
+Virdalm</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4863956">4863956</a></TD><TD align =left>
+September 1989</TD><TD align=left>
+Gabetta et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5200186">5200186</a></TD><TD align =left>
+April 1993</TD><TD align=left>
+Gabetta et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5211944">5211944</a></TD><TD align =left>
+May 1993</TD><TD align=left>
+Tempesta</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5494661">5494661</a></TD><TD align =left>
+February 1996</TD><TD align=left>
+Tempesta</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5525341">5525341</a></TD><TD align =left>
+June 1996</TD><TD align=left>
+Walker et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5646178">5646178</a></TD><TD align =left>
+July 1997</TD><TD align=left>
+Walker et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5773262">5773262</a></TD><TD align =left>
+June 1998</TD><TD align=left>
+Ariga et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5780060">5780060</a></TD><TD align =left>
+July 1998</TD><TD align=left>
+Levy et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5804597">5804597</a></TD><TD align =left>
+September 1998</TD><TD align=left>
+Yamakoshi et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5886029">5886029</a></TD><TD align =left>
+March 1999</TD><TD align=left>
+Dhaliwal</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5908650">5908650</a></TD><TD align =left>
+June 1999</TD><TD align=left>
+Lenoble et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5912363">5912363</a></TD><TD align =left>
+June 1999</TD><TD align=left>
+Nafisi-Movaghar et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5968517">5968517</a></TD><TD align =left>
+October 1999</TD><TD align=left>
+Duncan et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6093401">6093401</a></TD><TD align =left>
+July 2000</TD><TD align=left>
+Shanbrom</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6099854">6099854</a></TD><TD align =left>
+August 2000</TD><TD align=left>
+Howard et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6103756">6103756</a></TD><TD align =left>
+August 2000</TD><TD align=left>
+Gorsek</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6194469">6194469</a></TD><TD align =left>
+February 2001</TD><TD align=left>
+Nair et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6200569">6200569</a></TD><TD align =left>
+March 2001</TD><TD align=left>
+Cheng</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6210681">6210681</a></TD><TD align =left>
+April 2001</TD><TD align=left>
+Walker et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6238673">6238673</a></TD><TD align =left>
+May 2001</TD><TD align=left>
+Howard</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6303125">6303125</a></TD><TD align =left>
+October 2001</TD><TD align=left>
+Ofek et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6423365">6423365</a></TD><TD align =left>
+July 2002</TD><TD align=left>
+Nair</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6544581">6544581</a></TD><TD align =left>
+April 2003</TD><TD align=left>
+Shrikhande et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6569446">6569446</a></TD><TD align =left>
+May 2003</TD><TD align=left>
+Howard</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6608102">6608102</a></TD><TD align =left>
+August 2003</TD><TD align=left>
+Howell et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6960360">6960360</a></TD><TD align =left>
+November 2005</TD><TD align=left>
+Gourdin et al.</TD></TR><TR><TD align=left>
+<a href="http://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010002407&Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=0&f=S&l=50" target="_blank">2001/0002407</a></TD><TD align =left>
+May 2001</TD><TD align=left>
+Nair et al.</TD></TR><TR><TD align=left>
+<a href="http://appft.uspto.gov/netacgi/nph-Parser?TERM1=20010021398&Sect1=PTO1&Sect2=HITOFF&d=PG01&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.html&r=0&f=S&l=50" target="_blank">2001/0021398</a></TD><TD align =left>
+September 2001</TD><TD align=left>
+Walker et al.</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+       <CENTER><b>Foreign Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH></TR> <TR> <TD align="left">
+</TD><TD align=left>1086651</TD><TD></TD><TD align=left>
+Sep 1980</TD><TD></TD><TD align=left>
+CA</TD></TR><TR><TD align=left>
+</TD><TD align=left>30 27 933</TD><TD></TD><TD align=left>
+Feb 1981</TD><TD></TD><TD align=left>
+DE</TD></TR><TR><TD align=left>
+</TD><TD align=left>573777</TD><TD></TD><TD align=left>
+Dec 1993</TD><TD></TD><TD align=left>
+EP</TD></TR><TR><TD align=left>
+</TD><TD align=left>1235379</TD><TD></TD><TD align=left>
+Jun 1971</TD><TD></TD><TD align=left>
+GB</TD></TR><TR><TD align=left>
+</TD><TD align=left>1265379</TD><TD></TD><TD align=left>
+Jun 1971</TD><TD></TD><TD align=left>
+GB</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 00/47062</TD><TD></TD><TD align=left>
+Aug 2000</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 02/17732</TD><TD></TD><TD align=left>
+Mar 2002</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 02/17732</TD><TD></TD><TD align=left>
+Mar 2002</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 02/17945</TD><TD></TD><TD align=left>
+Mar 2002</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+<TABLE width="90%"> <BR> <CENTER><b>Other References</b></CENTER> <TR><TD><align="left"><BR>R Ubillaas et al,, "SP-303 an Antiviral Oligomeric Proanthocyanidin from the Latex of Croton lechieri (Sange de Drago)," Phytomedicine vol. 1, p. 77-106
+(1994). cited by examiner
+.<BR>Lisa Rapport, Brian Lockwood; "(6) Proanthocyanidins and Grape Seed Extract,"; The Pharmaceutical Journal; Apr. 28, 2001; pp. 581-584; vol. 266. cited by other
+.<BR>L. Gao and G. Mazza, Characterization, Quantitation, and Distribution of Anthocyanins and Colorless Phenolics in Sweet Cherries, Journal of Agricultural and Food Chemistry 48 (2) pp. 343-346, 1995. cited by other
+.<BR>M. Azar, E. Verette, and S. Brun, "Identification of Some Phenolic Compounds in Bilberry Juice Vaccinium myrtillus," Journal of Food Science, vol. 52, No. 5 (1987) pp. 1255-1257. cited by other
+.<BR>D.L. Madhavi, S. Juthangkoon, K. Lewen, M.D., Berber-Jimenez, M.A.L. Smith, "Characterization of Anthocyanins from Ajuga pyramidalis Metallica Crispa Cell Cultures," J. Agric. Food Chem, vol. 44, No. 4, (1996) pp. 1170-1176. cited by other
+.<BR>Elliott Middleton, Jr., "Effect of Plant Flavonoids on Immune and Inflammatory Cell Function," Flavonoids in the Living Systems (1998) pp. 175-182. cited by other
+.<BR>L. Yeap Foo, Yinrong Lu, Amy B. Howell and Nicholi Vorsa, A-Type Proanthocyanindin Trimers from Cranberry that Inhibit Adherence of Uropathogenic P-Fimbriated Escherichia coli J. Nat. Prod., vol. 63 (9) (2000) pp. 1225-1228. cited by other
+.<BR>Lai Yep Foo, Yinrong Lu, Amy B. Howell, Nicholi Vorsa, "The structure of cranberry proanthocyanidins which inhibit adherence of uropathogenic P-fimbriated Escherichia coli in vitro," Photochemistry, vol. 54, pp. 173-181. (2000). cited by other
+.<BR>Ronald L. Prior, Sheryl A. Lazarus, et al., "Identification of Procyanidins and Anthocyanins in Blueberries and Cranberries (Vaccinium Spp.) Using High-Performance Liquid Chromatography/Mass Spectrometry", LC/MS Analyses of Procyanidins in Vaccinium
+Spp., pp. A-G, 2000. cited by other
+.<BR>Horotoshi Tamura and Atsushi Yamagami, "Antioxidative Activity of Monoacylated Anthocyanins Isolated from Muscat Baily A Grape," J.Argic. Food Chem, 1994, 42, 1612-1615. cited by other
+.<BR>Ronald L. Prior, Guohua Cao, Antonio Martin, Emin Scofic, et al., "Antioxidant Capacity As Influenced by Total Phenolic and Anthocyanin Content, Maturity, and Variety of Vaccinium Species," J. Agric Food Chem, 1988, vol. 46, pp. 2686-2693. cited by
+other
+.<BR>Geza Hrazdina, "Column Chromatographic Isolation of the Anthocyanidin-3, 5-Diglucosides from Grapes," J. Agr Food Chem., vol. 18, No. 2, 1970, pp. 243-245. cited by other
+.<BR>Sterling. "Proanthocyanidin Power" [online]; [retrieved on May 1, 2002]. http://www.healthwellexchange.com/nutritionsciencenews/nsn.sub.--backs/Ju- n.sub.--00/proantho.cfm. cited by other
+.<BR>M. Sterling, "Got Anthocyanins?" [online], [retrieved on Feb. 28, 2002]. http://www.healthwatchexchange.com/nutritionsciencenews/nsn.sub.--backs/D- ec.sub.--01/antho.cfm. cited by other
+.<BR>M. Sterling, Proanthocyanindin Power [online], [retrieved on Feb. 28, 2002]. Retrieved from the http:/www.healthwellexchange.com/nutritionsciencenews/nsn.sub.--backs/Jun- .sub.--00/proantho.cfm. cited by other
+.<BR>A.M. Fine. "Oligomeric Proanthocyanidin Complexes: History, Structure, and Phytopharmaceutical Applications", [online], [retrieved on Feb. 28, 2002]. Retrieved from the Internet URL: http://ww.thorne.com/almedrev/fulltext/oligo5-2.html. cited by
+other
+.<BR>"Oligomeric Proanthocyanidins (Pycnogenols)" [online]; [retrieved on May 1, 2002]. Retrieved from the Internet URL http://www.thorne.com/pycnogenols.html. cited by other
+.<BR>International Search Report, PCT/US01/27107, Feb. 1, 2002. cited by other
+.<BR>EP Search Report, EP 26831, Dec. 30, 2003. cited by other
+.<BR>A. Lietti, et al., "Studies on Vaccinium myrtillus anthocyanosides", Arsniemittle Forschung, Drug Research, 1976, 26(5): 829-832. cited by other
+.<BR>PCT International Search Report PCT/US05/24003. cited by other
+.<BR>Anderson, et al. "Isolation and Characterization of Polyphenol Type-A Polymers from Cinnamon with Insulin-like Biological Activity"; Journal of Agricultural and Food Chemistry; 2004; pp. 65-70; vol. 52, No. 1; American Chemical Society. cited by
+other
+.<BR>Internet Website http://www.herbsmd.com/shop/xq/asp/pid.8505/qx/productdetail.asp Thermogenic Fat Burners by Weider; pp. 1-2. cited by other
+.<BR>R. Ubillas, S.D. Jolad, et al., "SP-303 an Antiviral Oligomeric Proanthocyanidin from the Latex of Croton lechleri (Sange de Drago)," Phytomedicine vol. 1, pp. 77-106 (1994). cited by other
+.<BR>U.S. Appl. No. 11/508,409; Office Action mailed Dec. 6, 2006. cited by other
+.<BR>U.S. Appl. No. 11/508,409; Response To Office Action filed Jun. 4, 2007. cited by other
+.<BR>U.S. Appl. No. 11/508,409; Office Action mailed Aug. 16, 2007. cited by other
+.<BR>U.S. Appl. No. 11/179,771; Office Action mailed Jan. 27, 2006. cited by other
+.<BR>U.S. Appl. No. 11/179,771; Response to Office Action filed Mar. 31, 2006. cited by other
+.<BR>U.S. Appl. No. 11/179,771; Office Action mailed Jun. 13, 2006. cited by other
+.<BR>U.S. Appl. No. 11/179,771; Response to Office Action filed Jul. 31, 2006. cited by other
+.<BR>U.S. Appl. No. 11/179,771; Office Action mailed Nov. 3, 2006. cited by other
+.<BR>H. Tamura and A. Yamagami, "Antioxidative Activity of Monoacylated Anthocyanins Isolated from Muscat Baily A Grape"; J. Agric. Food, Chem., 1994, vol. 42, pp. 1612-1615. cited by other
+.<BR>Rohm and Haas "AMBERLITE.TM. XAD761 Industrial Grade Ion Exchange Adsorbent"; Mar. 2006; Rohm and Haas Company, Philadelphia, PA, US. cited by other
+.<BR>Sigma "AMBERLITE XAD Polymeric Resins Sigma Prod. Nos. XAD-4, XAD-7, XAD-16, 1-0377, 1-0393, and 1-0379 Product Information"; Mar. 20, 1998; pp. 1-3; Sigma-Aldrich. cited by other
+.<BR>Mitsubishi Chemical Corporation "New Tech Info New product of Synthetic Adsorbent SEPABEADS.RTM. SP70 for citrus debittering SEPABEADS.RTM. SP700 highly adsorptive resin"; http://www.diaion.com/SP70 Main/SP70 Main R E.htm; Dec. 30, 2000 .COPYRGT.
+Mitsubishi Chemical Corporation; pp. 1-2. cited by other
+.<BR>Mitsubishi Chemical Corporation "DIAION.RTM. & SEPABEADS.RTM. Synthetic Adsorbents"; http://www.diaion.com/Sepabeads Main/Sepabeads Main R E.htm; Sep. 30, 2000 .COPYRGT. Mitsubishi Chemical Corporation; pp. 1-2. cited by other
+.<BR>Mitsubishi Chemical Corporation "Types and properties of Synthetic Adsorbents"; http://www.diaion.com/Sepabeads Tables/Sepabeads Table R E.htm; Sep. 30, 2000 .COPYRGT. Mitsubishi Chemical Corporation; p. 1. cited by other
+.<BR>Mitsubishi Chemical Corporation "Types of synthetic adsorbents and Selection Guide"; http://www.diaion.com/Sepabeads Tables/Sepabeads Guide R E.htm; Sep. 30, 2000 .COPYRGT. Mitsubishi Chemical Corporation; p. 1. cited by other
+.<BR>Rubini "Polyphenols, Flavonoids, Anthocyanins"; BerryPharma; http://www.rubini.com/English/polyphenole.htm. cited by other
+.<BR>"Sephadex.RTM. LH-20 Data File"; Amersham Biosciences; Aug. 2005; pp. 1-8; Wikstroms; Uppsala, Sweden. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Final Office Action mailed Jul. 22, 2008. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Response to Office Action filed Sep. 3, 2008. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Office Action mailed Oct. 23, 2008. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Interview Summary mailed Dec. 22, 2008. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Response to Non-Final Office Action and Examiner Interview Summary, filed Jan. 23, 2009. cited by other
+.<BR>U.S. Appl. No. 11/159,828; Supplemental Amendment; filed Jan. 23, 2009. cited by other
+.<BR>Jesse Li, et al., "Drug Discovery and Natural Products: End of an Era or an Endless Frontier." Science. Jul. 10, 2009, vol. 325, No. 5937, pp. 161-165. cited by other
+.<BR>USPTO Office Action for U.S. Appl. No. 11/890,788, Notification Date May 15, 2009. pp. 1-16. cited by other
+.<BR>USPTO Office Action for U.S. Appl. No. 11/159,828, Notification Date Apr. 13, 2009, pp. 1-22. cited by other
+.<BR>Supplementary European Search Report, EP Application No. 03787068.0, Jun. 29, 2009, pp. 1-3. cited by other
+.<BR>Sterling. "Proanthocyanidin Power" [online]; [retrieved on May 1, 2002]. http://www.healthwellexchange.com/nutritionsciencenews/nsn.sub.--backs/Ju- n.sub.--00/proantho.cfm. cited by other
+.<BR>A.M. Fine. "Oligomeric Proanthocyanidin Complexes: History, Structure, and Phytopharmaceutical Applications", [online], [retrieved on Feb. 28, 2002]. Retrieved from the Internet URL: http://ww.thorne.com/almedrev/fulltext/oligo5-2.html. cited by
+other
+.<BR>Geza Hrazdin, "Column Chromatographic Isolation of the Anthocyanidin-3, 5-Diglucosides from Grapes," J. Agr Food Chem., vol. 18, No. 2, 1970 243-245. cited by other
+.<BR>International Search Report, PCT/US01/27107, Feb. 1, 2002. cited by other
+.<BR>Sterling. "Proanthocyanidin Power" [online]; [retrieved on May 1, 2002]. Retrieved from the Inter URL: http://www.healthwellexchange.com/nutritionsciencenews/nsn.sub.--backs/Ju- n.sub.--00/proantho.cfm. cited by other
+.<BR>M. Sterling, "Got Anthocyanins?" [online], [retrieved on Feb. 28, 2002]. Retrieved from the Internet URL: http://www.healthwatchexchange.com/nutritionsciencenews/nsn.sub.--backs/D- ec.sub.--01/antho.cfm. cited by other
+.<BR>M. Sterling, Proanthocyanindin Power [online], [retrieved on Feb. 28, 2002]. Retrieved from the Internet URL http:/www.healthwellexchange.com/nutritionsciencenews/nsn.sub.--backs/Jun- .sub.--00/proantho.cfm. cited by other
+.<BR>Lietti et al. "Studies on Vaccinium myrtillus anthocyanosides"; Arzneimittel Forschung, Drug Research, 26(5): 829-832 (1976). cited by other. </TD></TR> </TABLE> <BR>
+       <i>Primary Examiner:</i> Oh; Taylor Victor
+<BR>
+       <i>Attorney, Agent or Firm:</i> <coma>Hogan & Hartson LLP
+<BR>
+       <HR>
+       <CENTER><b><i>Parent Case Text</b></i></CENTER>
+       <HR>
+       <BR><BR>RELATED APPLICATIONS
+<BR><BR> The present application is a divisional of U.S. patent application Ser.
+     No. 11/508,409, filed Aug. 22, 2006, entitled "Efficient Method For
+     Producing Compounds Enriched in Total Phenols", which is a divisional of
+     U.S. patent application Ser. No. 11/179,771 filed Jul. 12, 2005, entitled
+     "Efficient Method For Producing Compositions Enriched In Total Phenols",
+     which is a Continuation of U.S. patent application Ser. No. 10/302,264
+     filed Nov. 22, 2002, (now U.S. Pat. No. 6,960,360) entitled "Efficient
+     Method for Producing Compositions Enriched in Total Phenols", which is a
+     Continuation-in-Part of U.S. patent application Ser. No. 09/943,158 filed
+     Aug. 30, 2001, (now U.S. Pat. No. 6,780,442) entitled "Efficient Method
+     for Producing Compositions Enriched in Anthocyanins," which claims
+     priority of U.S. Provisional Application No. 60/229,205 filed Aug. 31,
+     2000, entitled "Efficient Method for Producing Compositions Enriched in
+     Anthocyanins," all of which applications are incorporated in their
+     entireties herein by this reference.
+         <HR>
+<CENTER><b><i>Claims</b></i></CENTER> <HR> <BR><BR>We claim: <BR><BR> 1.  A method of producing a composition enriched in total phenols prepared without the addition of bisulfite ions comprising the steps of: non-selectively extracting phenols from plant
+material comprising fruits and berries selected from the group consisting of blueberries, blackberries, strawberries, cranberries, raspberries, red currants, black currants and cherries, without the addition of bisulfite ions, to produce a
+phenol-containing extract containing monomeric, oligomeric and polymeric phenolic compounds, including anthocyanins, proanthocyanidins and flavonoids present in the selected fruits or berries, and purifying said phenol-containing extract by removing
+non-phenolic compounds including sugars, cellulose, pectin, amino acids, proteins, nucleic acids, plant sterols, fatty acids, and triglycerides present in the selected fruits and berries, to obtain a composition having an enriched total phenol
+concentration of said anthocyanins, proanthocyanidins and flavonoids present in the selected fruits or berries greater than 12% and in vitro COX-2 inhibitory activity enhanced by a factor of at least 2.5 over a standard aspirin dose of 660 .mu.g/mL.
+<BR><BR> 2.  The method of claim 1, wherein the composition has an enriched total phenol concentration is greater than 25%.
+<BR><BR> 3.  A method of producing a composition enriched in total phenols prepared from plant material comprising the steps of: non-selectively extracting phenols from fruits and berries selected from the group consisting of blueberries and cranberries,
+without the addition of bisulfite ions, to produce a phenol-containing extract containing monomeric, oligomeric and polymeric phenolic compounds, including anthocyanins, proanthocyanidins and flavonoids present in the selected fruits or berries;  and
+purifying said phenol-containing extract by removing non-phenolic compounds including sugars, cellulose, pectin, amino acids, proteins, nucleic acids, plant sterols, fatty acids, and triglycerides present in the selected fruits and berries, to obtain
+a-composition having an enriched total phenol concentration of said anthocyanins, proanthocyanidins and flavonoids present in the selected fruits or berries greater than 12% and exhibiting in vitro COX-2 inhibitory activity enhanced by a factor of at
+least 2.5 over a standard aspirin dose of 660 .mu.g/mL.
+<BR><BR> 4.  The method of claim 3, wherein the enriched total phenol concentration is greater than 25%.
+<BR><BR> 5.  A method of producing a composition enriched in total phenols prepared without the addition of bisulfite ions comprising the steps of: non-selectively extracting phenols from fruits and berries selected from the group consisting of
+blueberries, blackberries, strawberries, cranberries, raspberries, plums, red currants, black currants and cherries, without the addition of bisulfite ions, to produce a phenol-containing extract containing monomeric, oligomeric and polymeric phenolic
+compounds, including anthocyanins, proanthocyanidins and flavonoids present in the selected fruits or berries;  and purifying said phenol-containing extract by removing non-phenolic compounds including sugars, cellulose, pectin, amino acids, proteins,
+nucleic acids, plant sterols, fatty acids, and triglycerides present in the selected fruits and berries, to obtain a composition having an enriched total phenol concentration of said anthocyanins, proanthocyanidins and flavonoids present in the selected
+fruits or berries greater than 12.5% and exhibiting in vitro antiviral activity against a virus which is more potent than an ED.sub.50 value of 100 .mu.g/ML.
+<BR><BR> 6.  The method of claim 5, wherein the enriched total phenol concentration is greater than 25%.
+<BR><BR> 7.  The method of claim 5, wherein the virus is selected from the group consisting of influenza virus type A, influenza virus type B, rhinovirus type 2, Herpes simplex virus 1, Herpes simplex virus 2, parainfluenza virus, West Nile virus,
+Varicella-zoster virus, Rhinovirus Type 2, Adenovirus Type I, and Punta Toro A virus.
+<BR><BR> 8.  The method of claim 7, wherein the enriched total phenol concentration is greater than 25%.
+<BR><BR> 9.  The method of claim 5, wherein the selected berries are cranberries and/or blueberries.
+<BR><BR> 10.  The method of claim 9, wherein the virus is selected from the group consisting of influenza virus type A, influenza virus type B, rhinovirus type 2, Herpes simplex virus 1, Herpes simplex virus 2, parainfluenza virus, West Nile virus
+Varicella-zoster virus, Rhinovirus Type 2, Adenovirus Type I, and Punta Toro A virus.
+<BR><BR> 11.  The method of claim 10, wherein the enriched total phenol concentration is greater than 25%. <HR> <CENTER><b><i>Description</b></i></CENTER> <HR> <BR><BR>BACKGROUND OF THE INVENTION
+<BR><BR> 1.  Field of the Invention
+<BR><BR> The present invention relates to the extraction and purification of flavonoid compounds from plant material, and more specifically to the production of compositions enriched in total phenols.
+<BR><BR> 2.  Description of the Prior Art
+<BR><BR> Flavonoid compounds are present in all aerial parts of plants, with high concentrations found in the skin, bark, and seeds.  Such compounds are also found in numerous beverages of botanical origin, such as tea, cocoa, and wine.  The flavonoids
+are a member of a larger family of compounds called polyphenols.  That is, these compounds contain more than one hydroxyl group (OH) on one or more aromatic rings.  The physical and chemical properties, analysis, and biological activities of polyphenols
+and particularly flavonoids have been studied for many years.
+<BR><BR> Anthocyanins are a particular class of naturally occurring flavonoid compounds that are responsible for the red, purple, and blue colors of many fruits, vegetables, cereal grains, and flowers.  For example, the colors of fruits such as
+blueberries, bilberries, strawberries, raspberries, boysenberries, marionberries, cranberries, elderberries, etc. are due to many different anthocyanins.  Over 300 structurally distinct anthocyanins have been identified in nature.  Because anthocyanins
+are naturally occurring, they have attracted much interest for use as colorants for foods and beverages.
+<BR><BR> Recently, the interest in anthocyanin pigments has intensified because of their possible health benefits as dietary antioxidants.  For example, anthocyanin pigments of bilberries (Vaccinium myrtillus) have long been used for improving visual
+acuity and treating circulatory disorders.  There is experimental evidence that certain anthocyanins and other flavonoids have anti-inflammatory properties.  In addition, there are reports that orally administered anthocyanins are beneficial for treating
+diabetes and ulcers and may have antiviral and antimicrobial activities.  The chemical basis for these desirable properties of flavonoids is believed to be related to their antioxidant capacity.  Thus, the antioxidant characteristics associated with
+berries and other fruits and vegetables have been attributed to their anthocyanin content.
+<BR><BR> Proanthocyanidins, also known as "oligomeric proanthocyanidins," "OPCs," or "procyanidins," are another class of naturally occurring flavonoid compounds widely available in fruits, vegetables, nuts, seeds, flowers, and barks.  Proanthocyanidins
+belong to the category known as condensed tannins.  They are the most common type of tannins found in fruits and vegetables, and are present in large quantities in the seeds and skins.  In nature, mixtures of different proanthocyanidins are commonly
+found together, ranging from individual units to complex molecules (oligomers or polymers) of many linked units.  The general chemical structure of a polymeric proanthocyanidin comprises linear chains of flavonoid 3-ol units linked together through
+common C(4)-C(6) and/or C(4)-C(8) bonds.  .sup.13C NMR has been useful in identifying the structures of polymeric proanthocyanidins, and recent work has elucidated the chemistry of di-, tri-, and tetrameric proanthocyanidins.  Larger oligomers of the
+flavonoid 3-ol units are predominant in most plants and are found with average molecular weights above 2,000 Daltons and containing 6 or more monomer units (Newman, et al., Mag.  Res.  Chem., 25:118 (1987)).
+<BR><BR> Considerable recent research has explored the therapeutic applications of proanthocyanidins, which are primarily known for their antioxidant activity.  However, these compounds have also been reported to demonstrate antibacterial, antiviral,
+anticarcinogenic, anti-inflammatory, anti-allergic, and vasodilatory actions.  In addition, they have been found to inhibit lipid peroxidation, platelet aggregation, capillary permeability and fragility, and to affect enzyme systems including
+phospholipase A2, cyclooxygenase, and lipoxygenase.  For example, proanthocyanidin monomers (i.e., anthocyanins) and dimers have been used in the treatment of diseases associated with increased capillary fragility and have also been shown to have
+anti-inflammatory effects in animals (Beladi, et al., Ann.  N.Y.  Acad.  Sci., 284:358 (1977)).  Based on these reported findings, oligomeric proanthocyanidins (OPCs) may be useful components in the treatment of a number of conditions (Altern.  Med. 
+Rev.  5(2):144-151 (2000)).
+<BR><BR> Proanthocyanidins may also protect against viruses.  In in vitro studies, proanthocyanidins from witch hazel (Hamamelis virginiana) killed the Herpes simplex 1 (HSV-1) virus (Erdelmeier, C. A., Cinatl, J., Plant Med.  June: 62(3):241-5 (1996);
+DeBruyne, T., Pieters, L., J. Nat.  Prod. July: 62(7):954-8 (1999)).  Another study was carried out to determine the structure-activity relationships of the antiviral activity of various tannins.  It was found that the more condensed the chemical
+structure, the greater the antiviral effect (Takechi, M., et al., Phytochemistry, 24:2245-50 (1985)).  In another study, proanthocyanidins were shown to have anti-Herpes simplex activity in which the 50 percent effective doses needed to reduce herpes
+simplex plaque formation were two to three orders of magnitude less than the 50 percent cytotoxic doses (Fukuchi, K., et al., Antiviral Res., 11:285-298 (1989)).
+<BR><BR> Cyclooxygenase (COX-1, COX-2) or prostaglandin endoperoxide H synthase (PGHS-1, PGHS-2) enzymes are widely used to measure the anti-inflammatory effects of plant products (Bayer, T., et al., Phytochemistry, 28:2373-2378 (1989); and Goda, Y., et
+al., Chem. Pharm.  Bull., 40:2452-2457 (1992)).  COX enzymes are the pharmacological target sites for nonsteroidal anti-inflammatory drugs (Humes, J. L., et al., Proc.  Natl.  Acad.  Sci.  U.S.A., 78:2053-2056 (1981); and Rome, L. H., et al., Proc. 
+Natl.  Acad.  Sci.  USA., 72:4863-4865 (1975)).  Two isozymes of cyclooxygenase involved in prostaglandin synthesis are cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) (Hemler, M., et al., J. Biol.  Chem., 25:251, 5575-5579 (1976)).  It is
+hypothesized that selective COX-2 inhibitors are mainly responsible for anti-inflammatory activity (Masferrer, J. L., et al., Proc.  Natl.  Acad.  Sci.  U.S.A., 91:3228-3232 (1994)).  Flavonoids are now being investigated as anti-inflammatory substances,
+as well as for their structural features for cyclooxygenase (COX) inhibition activity.
+<BR><BR> Due to the above characteristics and benefits of anthocyanins and proanthocyanidins, much effort has been put forth toward extracting these compounds from fruits, vegetables, and other plant sources.  In addition to proanthocyanidins and
+anthocyanins, plants, fruits, and vegetables also contain other compounds such as mineral salts, common organic acids such as citric or tartaric acid, carbohydrates, flavonoid glycosides and catechins.  It is often desirable to separate the anthocyanins
+and proanthocyanidins from other naturally occurring compounds.  Anthocyanins have been extracted from plants and fruits by various procedures.  One method of extracting anthocyanins employs the addition of bisulfate to form zwitterionic species.  The
+extract is passed through an ion exchange column which adsorbs the zwitterionic anthocyanin adducts, and the adsorbed anthocyanins are eluted from the resin with acetone, alkali, or dimethylformamide (DMF).  Disadvantages of this process include the
+presence of bisulfate, which interferes with adsorption of anthocyanins, thereby requiring multiple column adsorptions.  Elution with alkali degrades the anthocyanins considerably, while DMF is not a recognized food additive and therefore must be
+completely removed before the anthocyanins can be added to any food products.
+<BR><BR> In order to capture these flavonoid compounds, well-defined and precise processing and separation techniques are needed.  Nafisi-Movaghar, et al. in U.S.  Pat.  No. 5,912,363 describe a method for the extraction and purification of
+proanthocyanidins from plant material comprising heating an aqueous mixture of plant material, filtering the aqueous solution through an ultrafiltration membrane to remove larger molecular weight polymers and particulates to produce a permeate containing
+extracted proanthocyanidins, separating the proanthocyanidins from the liquid by contacting the permeate with an adsorbent material which is capable of releasably retaining the proanthocyanidins, and eluting the retained proanthocyanidins with a polar
+solvent.  However, this method uses a very hot extraction temperature, which can cause degradation of the proanthocyanidins.  Further, the ultrafiltration removes some of the low molecular weight polyphenolic material from the final product.
+<BR><BR> Many processes known in the art for extracting and isolating proanthocyanidins and/or anthocyanins from various plant materials use toxic and/or environmentally hazardous materials.  Consequently, the current methods available for isolating and
+purifying proanthocyanidins are not easily scaled up to an efficient commercial process where disposal considerations of various chemicals and solvents play an important role in the overall feasibility of the process.  Further, proanthocyanidins and
+anthocyanins must be isolated in a manner that minimizes their natural tendency toward degradation.
+<BR><BR> There is still a need, therefore, for an efficient process for isolating and purifying compositions containing phenolic compounds such as proanthocyanidins for uses in nutraceuticals and pharmaceuticals that is cost-effective, scalable,
+economically sound, does not require the use of toxic solvents or reagents, and isolates the phenolic compounds from plant material in a manner that minimizes their tendency toward degradation.
+<BR><BR>SUMMARY OF THE INVENTION
+<BR><BR> The present invention provides simplified and economic methods for the extraction, isolation, and purification of compositions enriched in total phenols.  More specifically, one aspect of this invention provides a method of preparing
+compositions enriched in total phenols comprising: (a) providing a crude extract of one or more plant materials that contain phenolic compounds, said extract comprising proanthocyanidins, anthocyanins, other small phenolics and non-phenolic compounds;
+(b) filtering the crude extract; (c) contacting the crude extract with a brominated polystyrene resin which releasably adsorbs said phenols but does not substantially retain the non-phenolic compounds; (d) washing said resin with a wash eluent to elute
+said non-phenolic compounds; (e) eluting the resin with a first eluent and collecting a first fraction containing phenols; (f) eluting the resin with a second eluent and collecting a second fraction containing phenols; and (g) isolating the fractions
+from step (e) or from step (f) or combining said fractions from steps (e) and (f) to obtain a composition enriched in total phenols and substantially depleted of said non-phenolic compounds.  This invention further provides total phenol-enriched
+compositions isolated by the methods of this invention.
+<BR><BR> This invention further provides methods of fractionating the total phenol-enriched compositions to separate polar proanthocyanidins from non-polar proanthocyanidins.  This invention further provides compositions enriched in polar
+proanthocyanidins and compositions enriched in non-polar proanthocyanidins.  The polar proanthocyanidins were found to have biological activities that are different than the non-polar proanthocyanidins.
+<BR><BR> When the total phenol-enriched compositions of this invention are analyzed by reversed-phase HPLC on a C-18 lipophilic column, characteristic sets of elution peaks of compounds absorbing at 280 nm and 510 nm are observed.  More specifically, the
+total phenol-enriched compositions of this invention are characterized as having a characteristic set of elution peaks in the region between 60 and 75 minutes in an HPLC trace substantially as illustrated in FIGS. 10-13 when the HPLC analysis is
+performed as described herein.
+<BR><BR> When the total phenol-enriched compositions of this invention are analyzed by IR spectrometry, characteristic absorption peaks of compounds substantially as shown in FIGS. 33-40 are observed.  The compositions of this invention are useful as
+nutraceuticals and pharmaceuticals.  For example, the compositions of this invention are useful as anti-infective (e.g., antiviral, anti-UTI and antimicrobial) agents and as anti-inflammatory agents.
+<BR><BR> The foregoing and other features, utilities and advantages of the invention will be apparent from the following more particular descriptions of preferred embodiments of the invention and as illustrated in the accompanying drawings and as
+particularly pointed out in the appended claims. <BR><BR>BRIEF DESCRIPTION OF THE DRAWINGS
+<BR><BR> The accompanying drawings, which are incorporated herein and form a part of the specification, illustrate non-limiting embodiments of the present invention, and together with the description, serve to explain the principles of the invention.
+<BR><BR> In the Drawings:
+<BR><BR> FIG. 1 is a flow chart of a method for preparing a total phenol-enriched composition according to the method of this invention.
+<BR><BR> FIG. 2 is an HPLC chromatogram at 510 nm of a total phenol-enriched composition ("fraction 3") prepared from bilberries.
+<BR><BR> FIG. 3 is an HPLC chromatogram at 280 nm of a total phenol-enriched composition ("fraction 3") prepared from bilberries.
+<BR><BR> FIG. 4 is an HPLC chromatogram at 510 nm of a total phenol-enriched composition ("fraction 3") prepared from blueberries.
+<BR><BR> FIG. 5 is an HPLC chromatogram at 280 nm of a total phenol-enriched composition ("fraction 3") prepared from blueberries.
+<BR><BR> FIG. 6 is an HPLC chromatogram at 280 nm of a filtered elderberry extract.
+<BR><BR> FIG. 7 is an HPLC chromatogram at 510 nm of a filtered elderberry extract.
+<BR><BR> FIG. 8 is an HPLC chromatogram at 280 nm of a first fraction eluted during column loading of a filtered elderberry extract.
+<BR><BR> FIG. 9 is an HPLC chromatogram at 510 nm of a first fraction eluted during column loading of a filtered elderberry extract.
+<BR><BR> FIG. 10 is an HPLC chromatogram at 280 nm of a third fraction eluted with 70% ethanol during column purification of an elderberry extract on a brominated polystyrene resin.
+<BR><BR> FIG. 11 is an HPLC chromatogram at 510 nm of a third fraction eluted with 70% ethanol during column purification of an elderberry extract on a brominated polystyrene resin.
+<BR><BR> FIG. 12 is an HPLC chromatogram at 280 nm of a fourth fraction eluted with 90% ethanol during column purification of an elderberry extract on a brominated polystyrene resin.
+<BR><BR> FIG. 13 is an HPLC chromatogram at 510 nm of a fourth fraction eluted with 90% ethanol during column purification of an elderberry extract on a brominated polystyrene resin.
+<BR><BR> FIG. 14 is an HPLC chromatogram using an alternate HPLC method of the proanthocyanidins standard prepared as described in Example 10.
+<BR><BR> FIG. 15 is a flow chart of a method for separating polar proanthocyanidins from non-polar proanthocyanidins.
+<BR><BR> FIG. 16 is an HPLC chromatogram at 280 nm of a filtered elderberry extract.
+<BR><BR> FIG. 17 is an HPLC chromatogram at 280 nm of an elderberry polar proanthocyanidin composition ("fraction 5") isolated from the combined flow-through and wash fractions from a VLC C-18 column.
+<BR><BR> FIG. 18 is an HPLC chromatogram at 280 nm of an elderberry non-polar proanthocyanidin composition ("fraction 6") isolated in the 60% methanol eluent from a VLC C-18 column.
+<BR><BR> FIG. 19 is an HPLC chromatogram at 280 nm of an elderberry polar proanthocyanidin composition ("fraction 7") isolated after semi-preparative HPLC purification.
+<BR><BR> FIG. 20 is a .sup.13C NMR spectrum of an elderberry polar proanthocyanidin composition ("fraction 7") after purification by semi-preparative HPLC.
+<BR><BR> FIG. 21 is an HPLC chromatogram at 280 nm of an elderberry non-polar proanthocyanidin composition ("fraction 6") isolated during VLC chromatography on C-18 media and before purification on a Sephadex LH-20 column, in which the
+non-proanthocyanidin peaks are marked with an asterisk.
+<BR><BR> FIG. 22 is an HPLC chromatogram at 280 nm of the elderberry non-polar proanthocyanidin composition ("fraction 8") after purification on a Sephadex LH-20 column.
+<BR><BR> FIG. 23 is an HPLC chromatogram at 368 nm of an elderberry non-polar proanthocyanidin composition ("fraction 6") isolated during VLC chromatography on C-18 media and before purification on a Sephadex LH-20 column.
+<BR><BR> FIG. 24 is an HPLC chromatogram at 368 nm of an elderberry non-polar proanthocyanidin composition ("fraction 8") after purification on a Sephadex LH-20 column.
+<BR><BR> FIG. 25 is a .sup.13C NMR spectrum of an elderberry non-polar proanthocyanidin composition ("fraction 8") after purification on a Sephadex LH-20 column.
+<BR><BR> FIG. 26 is an HPLC chromatogram at 280 nm of a blueberry polar proanthocyanidin composition ("fraction 5") isolated during VLC chromatography on C-18 media and before semi-preparative HPLC purification.
+<BR><BR> FIG. 27 is an HPLC chromatogram at 280 nm of a blueberry polar proanthocyanidin composition ("fraction 7") after purification by semi-preparative HPLC.
+<BR><BR> FIG. 28 is an HPLC chromatogram at 280 nm of a blueberry non-polar proanthocyanidin composition ("fraction 6") isolated during VLC chromatography on C-18 media and before semi-preparative HPLC purification.
+<BR><BR> FIG. 29 is an HPLC chromatogram at 280 nm of a blueberry non-polar proanthocyanidin composition ("fraction 8") after purification by semi-preparative HPLC.
+<BR><BR> FIG. 30 is an HPLC chromatogram at 280 nm of a plum polar proanthocyanidin composition ("fraction 5") isolated during VLC chromatography on C-18 media and before semi-preparative HPLC purification.
+<BR><BR> FIG. 31 is an HPLC chromatogram at 280 nm of a plum polar proanthocyanidin composition ("fraction 7") after purification by semi-preparative HPLC.
+<BR><BR> FIG. 32 is an HPLC chromatogram at 280 nm of a plum non-polar proanthocyanidin composition ("fraction 6") isolated during the 40% and 70% methanol elution from a VLC C-18 column.
+<BR><BR> FIG. 33 is an IR spectrum of a purified elderberry polar proanthocyanidin composition ("fraction 7").
+<BR><BR> FIG. 34 is an IR spectrum of a purified elderberry non-polar proanthocyanidin composition ("fraction 8").
+<BR><BR> FIG. 35 is an IR spectrum of a purified cranberry non-polar proanthocyanidin composition ("fraction 8").
+<BR><BR> FIG. 36 is an IR spectrum of a purified cranberry polar proanthocyanidin composition ("fraction 7").
+<BR><BR> FIG. 37 is an IR spectrum of a purified blueberry polar proanthocyanidin composition ("fraction 7").
+<BR><BR> FIG. 38 is an IR spectrum of a purified blueberry non-polar proanthocyanidin composition ("fraction 8").
+<BR><BR> FIG. 39 is an IR spectrum of a purified plum polar proanthocyanidin composition ("fraction 7").
+<BR><BR> FIG. 40 is an IR spectrum of a purified plum non-polar proanthocyanidin composition ("fraction 6").
+<BR><BR> FIG. 41 is an HPLC chromatogram at 280 nm of a cranberry polar proanthocyanidin composition ("fraction 5") before semi-preparative HPLC purification.
+<BR><BR> FIG. 42 is an HPLC chromatogram at 280 nm of a cranberry polar proanthocyanidin composition ("fraction 7") after semi-preparative HPLC purification.
+<BR><BR> FIG. 43 is an HPLC chromatogram at 280 nm of a cranberry non-polar proanthocyanidin composition ("fraction 6").
+<BR><BR>DETAILED DESCRIPTION OF THE INVENTION
+<BR><BR> This invention provides methods for preparing compositions enriched in total phenols from plant materials that naturally contain phenolic compounds such as anthocyanins and proanthocyanidins.  The method of this invention further provides
+compositions enriched in total phenols.
+<BR><BR> As used herein, the term "extract" refers to a substance derived from a plant source that naturally contains phenolic compounds, including extracts prepared from the whole plant or from various parts of the plant, such as the fruits, leaves,
+stems, roots, bark, etc. Thus, the method of this invention is not limited to the particular part of the plant used to prepare the extract.  The present method can use any source of anthocyanins and proanthocyanidins, most typically from botanically
+derived plant material such as seeds, fruits, skins, vegetables, nuts, tree barks, and other plant materials that contain phenolic compounds.  Most colored fruits, berries, and vegetables are known to contain phenolic compounds.  Examples of plants,
+fruits, berries, and vegetables that contain phenolic compounds include, but are not limited to, blueberries, bilberries, elderberries, plums, blackberries, strawberries, red currants, black currants, cranberries, cherries, raspberries, grapes, currants,
+hibiscus flowers, bell peppers, beans, peas, red cabbage, purple corn, and violet sweet potatoes.  The raw plant material may be used either as is (wet) or may be dried prior to extraction.  Optionally, the raw plant material may be presorted by
+separating and removing the components low in anthocyanins and proanthocyanidins prior to extraction.
+<BR><BR> In one embodiment, the phenolic-enriched compositions of the present invention are obtained by extracting and purifying one or more berries and/or fruits containing phenolic compounds including, but not limited to, blueberries, bilberries,
+elderberries, plums, blackberries, strawberries, red currants, black currants, cranberries, cherries, raspberries, and grapes.
+<BR><BR> As used herein, the terms "phenols" and "phenolic compounds" are used interchangeably and include monomeric, oligomeric and polymeric compounds having one or more phenolic groups, and include, but are not limited to, anthocyanins,
+proanthocyanidins, and flavonoids.
+<BR><BR> As used herein, the term "total phenol-enriched composition" refers to a composition enriched in one or more phenolic compounds and having substantially depleted levels of non-phenolic compounds present in crude extracts of plants, fruits,
+berries, and vegetables.  Examples of such non-phenolic compounds include, but are not limited to, sugars, cellulose, pectin, amino acids, proteins, nucleic acids, plant sterols, fatty acids, and triglycerides.
+<BR><BR> The method of this invention is based on the discovery that purifying an extract containing phenols on a brominated polystyrene resin rather than on a conventional polystyrene resin or other resins used in the art provides total phenol-enriched
+compositions having higher purities, as discussed below in detail.
+<BR><BR> FIG. 1 is a flowchart showing the steps of one embodiment of the process of this invention in which a composition enriched in total phenols may be prepared.  The process of this invention provides an economical and efficient method of obtaining
+compositions enriched in total phenols by eliminating several process steps and by reducing the amount of reagents needed in the process, thereby reducing production costs and waste disposal issues.
+<BR><BR> In one embodiment of the process of this invention, as illustrated in steps 10-70 in FIG. 1, phenolic compounds (e.g., proanthocyanidins and anthocyanins) and non-phenolic compounds are extracted from a fresh or dried plant material (step 10 ). 
+Those skilled in the art will recognize that a variety of extraction methods are available in the literature, such as vat extraction, percolation, countercurrent extraction, etc. The particular method of extraction employed is not essential to the
+process of the present invention.  The degree of comminutation of the plant material prior to the extraction process should provide sufficient particulate surface area for the extraction solvent to contact.
+<BR><BR> In one embodiment of the process shown in FIG. 1, the extraction step (step 10) is accomplished by placing fresh or dried plant material in an appropriate amount of extraction solvent.  In one embodiment, the extraction solvent comprises an
+acidified alcohol solution having about 0-95% ethanol in water and a suitable acid in an amount of about 0-3%, more preferably about 0.006-0.012% by weight.  In another embodiment, the extraction solvent comprises an acidified alcohol solution having
+between about 0-100% methanol in water and between about 0-3% by weight of a suitable acid.  Suitable acids that may be used in the extraction step include, but are not limited to, sulfuric acid (H.sub.2SO.sub.4), acetic acid (HOAc) or hydrochloric acid
+(HCl).  The addition of an acid to the extraction solvent prevents degradation of the proanthocyanidins and anthocyanins.  Thus, in one embodiment the acidic conditions are maintained throughout most of the steps of the process of this invention as
+illustrated in FIG. 1.  The plant material is contacted with the extraction solution for an appropriate amount of time at a temperature between about room temperature and 75.degree.  C., preferably at 40.degree.  C., to form the crude extract.  The
+amount of plant material to extraction solvent used in the extraction process varies between about 2:1 to about 1:20 on a gram to milliliter basis.  In one embodiment, the ratio of plant material to extraction solvent is between about 1:4 and 1:8.
+<BR><BR> The crude extract contains phenolic compounds such as proanthocyanidins, anthocyanins and other phenolics, as well as undesired non-phenolic materials such as sugars, pectin, plant sterols, fatty acids, triglycerides, and other compounds.  Solid
+residue contained in the crude extract is separated from the liquid portion, and the solids are either re-extracted as described above or discarded.
+<BR><BR> In one embodiment of step 10 (FIG. 1), pectinase is added either to the plant material or to the extraction solvent before or during the extraction process.  Alternatively, the pectinase can be added to the crude extract after the extraction
+process is complete.  The pectinase serves to prevent the extract from gelling at any point during or after the extraction process so that it will remain flowable during the column purification.  The amount of pectinase added will depend, of course, on
+the amount of plant material used to prepare the extract.  Typically, the pectinase is added in an amount between about 0 and 0.12% by weight of the plant material.
+<BR><BR> With continued reference to FIG. 1, if either an ethanolic or methanolic extraction solvent was used to prepare the crude extract in step 10 , the crude extract is concentrated (step 20) until the crude extract contains less than 6% ethanol or
+methanol, preferably maintaining a temperature of 40.degree.  C. or less during concentration.  Water is added to dilute the concentrated crude extract, and the diluted crude extract is either concentrated and diluted again with water prior to step 30,
+or is carried on directly to step 30 without performing a second dilution.  Of course, if water was used as the extraction solution in the preparation of the crude extract, step 20 is not necessary, and in this case the crude extract from step 10 is
+taken directly on to step 30 as shown by the dashed arrow in FIG. 1.
+<BR><BR> Step 30 of the process shown in FIG. 1 comprises filtering the crude extract from step 10 or 20 to remove solids that may have precipitated from the crude extract.  The inventors discovered that by adjusting the extraction conditions as
+described for step 10 , the amount of undesirable non-phenolic compounds that precipitate from the crude extract by filtration in step 30 is increased.  Various filtration methods may be employed in filtration step 30 of the process of this invention. 
+One filtration method that may be employed in step 30 comprises adding a measured amount of a filter aid such as diatomaceous earth or cellulose to the crude extract.  The mixture of crude extract and filter aid is preferably shaken or stirred until
+homogeneous and filtered through a bed of filter aid.  The bed is washed with an aqueous acidic solution, preferably about 0.006% aqueous sulfuric acid.
+<BR><BR> Other filtration methods that may be used in step 30 of FIG. 1 include filtering the crude extract through a bed of sand or a 30 micron polypropylene filter that is preferably covered with glass wool.  Yet another filtration method comprises
+using a bag filter (a bag-shaped cloth filter composed of polyethylene or polypropylene), which may advantageously be placed in-line with the purification column of step 40 described below.  The filters described above are used to remove precipitated
+solids and are not size exclusion filters.
+<BR><BR> To isolate the phenolic compounds according to the method shown in FIG. 1, the filtered extract isolated in step 30 is contacted with a brominated polystyrene adsorbent material capable of releasably adsorbing the phenolic compounds such as
+proanthocyanidins and anthocyanins, but which retains less of the undesired non-phenolic materials that were present in the filtered extract.  The present inventors discovered that a high purity composition enriched in total phenols could be obtained by
+purifying the filtered extract isolated in step 30 on a brominated polystyrene resin, such as SP-207 (Supelco; Bellafonte, Pa.), manufactured by Mitsubishi Chemical America.  SP-207 resin is a macroporous, brominated styrenic polymeric bead type resin
+designed for reversed-phase chromatographic applications, and has a particle size distribution between about 250-600 microns and a pore size range between about 100-300 Angstroms.  The bromination of the aromatic rings provides increased hydrophobicity
+to the polystyrene resin, and is designed to provide a resin having increased selectivity for hydrophobic molecules relative to conventional styrene-divinylbenzene polymeric reversed-phase supports.  Because of its tight binding properties, brominated
+polystyrene resin is not typically used in the purification of natural products.
+<BR><BR> Thus, since it was known that conventional polystyrene resins tend to bind phenolic compounds such as proanthocyanidins and anthocyanins so tightly that it is very difficult to elute such compounds from the polystyrene resin, it was expected
+that the brominated polystyrene resin would bind phenolic compounds even tighter.  Therefore, it was not expected that a brominated polystyrene resin would be suitable for the purification of phenolic compounds.  However, the inventors surprisingly and
+unexpectedly discovered that the brominated polystyrene resin binds phenolic compounds such as proanthocyanidins and anthocyanins less tightly than non-brominated polystyrene resins, but still allows for the separation of phenolic compounds from
+undesired non-phenolic compounds.
+<BR><BR> In one embodiment of the method shown in FIG. 1, the filtered extract isolated in step 30 is loaded onto a column packed with brominated polystyrene resin having a particle size distribution between about 250-600 microns and a pore size range
+between about 100-300 Angstroms (step 40).  However, while step 40 is described herein in terms of contacting the extract with a resin packed into a column, such a description is merely for ease of explanation.  Thus, the resin need not be packed into a
+column in order to perform the method of this invention.  The amount of filtered extract that is loaded onto the column depends on the plant material used to prepare the crude extract.  For example, when the crude extract is prepared from bilberries,
+about 16-30 grams of total phenols may be loaded per liter of resin.  As another example, when the crude extract is prepared from blueberries, about 15-45 grams of total phenols may be loaded per liter of resin.  When the crude extract is prepared from
+elderberries, about 15-40 grams of total phenols may be loaded per liter of resin.  The filtered extract may be diluted with water prior to loading if the solids concentration in the concentrated crude extract exceeds 200 grams per liter.  The fractions
+eluting during column loading in step 40 (FIG. 1) are collected as "fraction 1."
+<BR><BR> Subsequent to loading the filtered crude extract onto the resin, undesired non-phenolic materials (e.g., sugars, salts, organic acids, etc.) which have little or no affinity for the adsorbent are eluted from the resin with an aqueous wash
+solvent comprising at least 0.003% acid such as aqueous sulfuric acid, aqueous acetic acid or aqueous hydrochloric acid (FIG. 1, step 50).  For example, about three column volumes of 0.006% aqueous sulfuric acid or 0.1% aqueous acetic acid can be used to
+elute the extraneous materials.  The eluent is collected as "fraction 2."
+<BR><BR> With continued reference to FIG. 1, the column is next eluted with a first eluent comprising a polar organic solvent such as about 50 to 70% ethanol/water or about 50 to 90% methanol/water (step 60).  Typically about 2 to 12 column volumes of
+eluting solvent are used in Step 60.  In one embodiment, the first eluent contains about 0.003% of an acid such as sulfuric acid, hydrochloric acid or acetic acid.  The fraction(s) collected during elution step 60 are collected as "fraction 3." "Fraction
+3" contains a portion of the phenolic compounds contained in the crude extract and is particularly enriched in anthocyanins and contains proanthocyanidins.
+<BR><BR> After the majority of the anthocyanins have been eluted from the column, as determined by UV-VIS spectroscopy, the column is eluted with a second eluent (step 70; FIG. 1) comprising a polar organic solvent comprising a greater percentage of
+ethanol or methanol than the solvent used to elute the anthocyanins (step 60).  For example, the second eluent may comprise about 50 to 90% ethanol/water or about 75 to 100% methanol/water.  The fraction(s) collected during elution step 70 are collected
+as "fraction 4." "Fraction 4" contains an additional portion of the phenolic compounds originally contained in the crude extract and is typically enriched in proanthocyanidins.  "Fraction 4" may also contain anthocyanins not isolated during elution step
+60.
+<BR><BR> Recovery of the phenolic compounds in "fraction 3" and "fraction 4" can be accomplished in any convenient manner such as by evaporation, distillation, freeze-drying, and the like, to provide a total phenol-enriched composition of this invention.
+<BR><BR> The above-described process is suitable for preparing compositions sufficiently enriched in total phenols for use as nutraceuticals from a variety of plant materials that contain phenolic compounds including, but not limited to, elderberries,
+plums, blueberries, bilberries, blackberries, strawberries, red currants, black currants, cranberries, cherries, raspberries, grapes, hibiscus flowers, bell peppers, beans, peas, red cabbage, purple corn, and violet sweet potatoes.  In one embodiment,
+the enriched compositions of this invention contain at least 10-80% total phenols.  In another embodiment, the compositions contain at least 12% total phenols.  In yet another embodiment, the compositions contain at least 25% total phenols.
+<BR><BR> It was discovered that the total phenol-enriched compositions, and in particular the compositions isolated from "fraction 3," "fraction 4," or a combination thereof, prepared from fruits and berries in particular produce similar HPLC
+chromatograms having the characteristic peaks such as those shown in FIGS. 12 and 13 that are not contained in HPLC chromatograms of compositions prepared from plant material other than fruits and berries.  For example, the HPLC chromatograms of all
+total phenol-enriched compositions prepared from fruits and berries according to the method illustrated in FIG. 1 and isolated from "fraction 4" were found to contain characteristic peaks between 60 and 75 minutes similar to peaks in the chromatogram
+shown in FIGS. 12 and 13 for a "fraction 4" composition isolated from elderberries.  The total phenol-enriched compositions of this invention, isolated either from "fraction 3," "fraction 4," or a combination thereof, and prepared specifically from
+fruits and berries have anti-infective (e.g., antiviral) and anti-inflammatory activity, as described below in detail.
+<BR><BR> When the total phenol-enriched compositions of this invention are analyzed by IR spectrometry, characteristic peaks from the phenolic compounds are also observed.  More specifically, the total phenol-enriched compositions of this invention are
+characterized as having IR absorption peaks substantially as illustrated in FIGS. 33-40.
+<BR><BR> It was also discovered that the total phenol-enriched compositions (e.g., "fraction 3," "fraction 4," or a combination thereof) could be further partitioned into a "polar" proanthocyanidin-enriched fraction and a "non-polar"
+proanthocyanidin-enriched fraction using low pressure Vacuum Liquid Chromatography (VLC) on a reversed-phase lipophilic column, such as a C-18 column as described in detail in Example 11 and as shown in FIG. 15.  For example, a "fraction 3" composition
+isolated from an elderberry extract was dissolved in water and loaded onto a C-18 column.  The column was washed with 100% water to collect materials that are not strongly retained by the C-18 media.  The flow through and wash fractions were combined as
+"fraction 5 "and contained the more polar proanthocyanidins.  Thus, "fraction 5" is referred to herein as the "polar" proanthocyanidin-enriched fraction (FIG. 15).  The polar proanthocyanidin-enriched "fraction 5" from elderberry typically has some
+purple color, suggesting that the polymers in this fraction contain at least one or more cationic anthocyanidin subunits within the oligomeric proanthocyanidin chains.  The VLC column was then eluted with 30 to 100% methanol to collect the
+proanthocyanidins that are more strongly retained by the C-18 media used in the low-pressure column.  The methanol fractions were combined as "fraction 6" and contained proanthocyanidins that are less polar than those collected in "fraction 5." Thus,
+"fraction 6" is referred to herein as the "non-polar" proanthocyanidin-enriched fraction (FIG. 15).  The non-polar proanthocyanidin-enriched "fraction 6" has little if any color, suggesting that the oligomeric proanthocyanidin chains in this fraction do
+not contain cationic anthocyanidin subunits.
+<BR><BR> Thus, the present invention provides a method of conveniently separating the polar proanthocyanidins from the non-polar proanthocyanidins contained in either "fraction 3," "fraction 4," or a combination thereof.  It was also found that a polar
+proanthocyanidin-enriched "fraction 5" and non-polar proanthocyanidin-enriched "fraction 6" could be isolated directly by loading a crude filtered aqueous extract (FIG. 1, step 30) onto a C-18 VLC column.  It is to be understood that the terms "polar"
+and "non-polar" when used to describe the isolated proanthocyanidin-enriched fractions 5 and 6, respectively, refer to the polarity of the proanthocyanidins in fractions 5 and 6 relative to one another, that is, how the particular fractions behave on a
+C-18 VLC column.  The polar proanthocyanidin-enriched compositions (fraction 5) and the non-polar proanthocyanidin-enriched compositions ("fraction 6") of this invention have substantially reduced levels of anthocyanins, as discussed in the Examples.
+<BR><BR> The polar and non-polar proanthocyanidin-enriched fractions ("fraction 5" and "fraction 6," respectively) were found to have different biological activities, and the non-polar fraction was found to have greater antiviral activity than the polar
+fraction in certain assays as described in Example 17.
+<BR><BR> Each of the polar and non-polar proanthocyanidin-enriched fractions 5 and 6, respectively, can be purified further as shown in FIG. 15 and as described in Examples 12-14.  For example, the polar proanthocyanidin-enriched "fraction 5" isolated
+during the VLC separation can be loaded onto a semi-preparative C-18 HPLC column that releasably retains the polar proanthocyanidins.  The column is then washed with a solvent gradient comprising increasing percentages of acetonitrile, methanol or
+ethanol to elute most of the anthocyanins and other polar compounds, and then with at least 60% acetonitrile, methanol or ethanol to elute "fraction 7" containing the purified polar proanthocyanidins (FIG. 15).  Additionally, the non-polar
+proanthocyanidin-enriched "fraction 6" isolated during the VLC separation can be further purified by gel filtration or reversed-phase semi-preparative HPLC.  Gel filtration, also called size exclusion or gel permeation chromatography, is a liquid
+chromatography technique that separates molecules according to their size.  This type of media retains smaller compounds, while the larger non-polar proanthocyanidin-enriched "fraction 8" (FIG. 15) elute with the flow-through eluent.  The purified polar
+and non-polar proanthocyanidin-enriched fractions 7 and 8, respectively, of this invention have substantially reduced levels of anthocyanins and flavonoids, and also have substantially reduced levels of non-phenolic compounds.  It was further observed
+that the purified polar and non-polar proanthocyanidin-enriched "fraction 7" and "fraction 8", respectively, have different biological activities.
+<BR><BR> The total phenol-enriched compositions ("fraction 3," "fraction 4," or a combination thereof), polar proanthocyanidin-enriched compositions (fractions 5 and 7), and non-polar proanthocyanidin-enriched compositions (fractions 6 and 8) of this
+invention possess a range of biological activities.  For example, the compositions of this invention were found to have antiviral activities, as described in Examples 15 and 16.  The compositions of this invention can be used either alone or in
+combination with other antiviral agents to prevent and/or treat diseases induced by or complicated with viral infections from viruses including, but not limited to, influenza A, B, and C, parainfluenza virus, adenovirus type 1, Punta Toro Virus A, Herpes
+simplex virus I and II, rhinovirus, West Nile virus, Varicella-zoster virus and measles virus.  Accordingly, the total phenol-enriched compositions, polar proanthocyanidin-enriched compositions, and non-polar proanthocyanidin-enriched compositions of
+this invention can be advantageously used in prophylactic and therapeutic applications against diseases induced by such viruses by administering a therapeutically effective amount of a composition of this invention.
+<BR><BR> Proanthocyanidins have also been investigated as anti-inflammatory substances due to their inhibition of cyclooxygenase (COX) activity.  It has been shown that it is desirable for anti-inflammatory substances to be selective for COX-2 inhibition
+rather than COX-1 inhibition.  Accordingly, another aspect of this invention comprises a method of treating inflammatory diseases in mammals comprising administering a therapeutically effective amount of a total phenol-enriched composition, polar
+proanthocyanidin-enriched composition, or a non-polar proanthocyanidin-enriched composition of this invention.  For example, total phenol-enriched compositions isolated as fractions 3 and 4 during purification of a blueberry extract were found to have
+high COX-2/COX-1 inhibition selectivity and an IC.sub.50 of 108 .mu.g/mL (Example 17).  The compositions of this invention can be used either alone or in combination with other anti-inflammatory agents to prevent or inhibit inflammatory responses.  Such
+responses may be caused by conditions or diseases including, but not limited to, osteoarthritis, allergenic rhinitis, cardiovascular disease, upper respiratory diseases, wound infections, neuritis and hepatitis.
+<BR><BR> It is known that proanthocyanidins isolated from cranberries and blueberries inhibit bacteria from attaching to the bladder wall, thereby reducing the potential for maladies such as urinary tract infections (Howell, et al., New England J
+Medicine, 339:1085-1086 (1998)).  It has been postulated that proanthocyanidins exert their effect by inhibiting the adhesion of bacteria.  Accordingly, another aspect of this invention comprises a method of preventing or treating urogenital infections
+in a mammal comprising administering an effective amount of a total phenol-enriched composition, polar proanthocyanidin-enriched composition, or a non-polar proanthocyanidin-enriched composition of this invention in an amount sufficient to prevent,
+reduce, or eliminate the symptoms associated with such infections.  The compositions of this invention can be used either alone or in combination with other antimicrobial agents.
+<BR><BR> It is further known that proanthocyanidins are potent antioxidants.  For example, the antioxidant effects of proanthocyanidins are presumed to account for many of their benefits on the cardiovascular and immune systems.  Accordingly, the total
+phenol-enriched compositions, polar proanthocyanidin-enriched compositions, and non-polar proanthocyanidin-enriched compositions of this invention may be used as dietary supplements (e.g., dietary antioxidants) and for the treatment of disorders in
+humans and mammals.  For example, the compositions of this invention may be used for improving visual acuity and for treating circulatory disorders, diabetes, and ulcers.
+<BR><BR> The total phenol-enriched compositions, polar proanthocyanidin-enriched compositions, and non-polar proanthocyanidin-enriched compositions of this invention can also be combined with immunoactive agents, including but not limited to,
+arabinogalactan, species of Echinacea, vitamins, minerals, polysaccharides and astragalus.
+<BR><BR> The total phenol-enriched compositions, polar proanthocyanidin-enriched compositions, and non-polar proanthocyanidin-enriched compositions of this invention can also be combined with antimutagenic agents including, but not limited to, green tea
+extracts, catechins, epicatechins, epigallocatechins, gallocatechins, and flavonoids.
+<BR><BR> The total phenol-enriched compositions, polar proanthocyanidin-enriched compositions, and non-polar proanthocyanidin-enriched compositions of this invention may be formulated as pills, capsules, liquids, or tinctures.  In formulating
+compositions according to this invention, a wide range of excipients may be used, the nature of which will depend, of course, on the intended mode of application of the composition.  Examples of excipients include preservatives, carriers, and buffering,
+thickening, suspending, stabilizing, wetting, emulsifying, coloring and flavoring agents, and in particular carboxy vinyl polymers, propylene glycol, ethyl alcohol, water, cetyl alcohol, saturated vegetable triglycerides, fatty acid esters or propylene
+glycol, triethanolamine, glycerol, starch, sorbitol, carboxymethyl cellulose, lauryl sulphate, dicalcium phosphate, lecithin, etc.
+<BR><BR> The foregoing description is considered as illustrative only of the principles of the invention.  Further, since numerous modifications and changes will readily occur to those skilled in the art, it is not desired to limit the invention to the
+exact construction and process shown as described above.  Accordingly, all suitable modifications and equivalents may be resorted to falling within the scope of the invention as defined by the claims that follow.
+<BR><BR> The words "comprise," "comprising," "include," "including," and "includes" when used in this specification and in the following claims are intended to specify the presence of stated features, integers, components, or steps, but they do not
+preclude the presence or addition of one or more other features, integers, components, steps, or groups thereof.
+<BR><BR>EXAMPLES
+<BR><BR>Example 1
+<BR><BR>Purification of Bilberry Using a Water Extraction
+<BR><BR> Three extractions were performed on 1 kg of dried bilberry raw material.  The first extraction used 6 L of water and the other two extractions used 4 L of water.  All extractions were acidified with concentrated sulfuric acid to an acid
+concentration of 5 g/L. There was approximately an 88% recovery of anthocyanins into the crude extract.  Exactly 2.3 L of the crude extract were filtered through a 30 micron polypropylene filter with a layer of glass wool over the filter.  The glass wool
+was changed once and the filter rinsed with deionized water.  The final volume of the filtrate was 2.43 L with a 90.9% recovery of anthocyanins in the filtrate.
+<BR><BR> A column was packed with brominated polystyrene resin SP-207 (Supelco; Belefonte, Pa.) and equilibrated with 0.1% acetic acid.  The column was loaded with 2.24 L of the filtrate at a solids concentration of 29.8 g/L using a flow rate of 2.2
+mL/min. The loading bleed was less than 0.9% of the loaded anthocyanins with an overall loss of 4.07% of the anthocyanins in the loading and first two column washes.  There was an 88.4% recovery of the anthocyanins in the elution step and an anthocyanins
+mass balance of 92.5%.  A few hundred milliliters of elution product were evaporated to dryness on a rotary evaporator and then lyophilized.  Final assay of the dried product was by standard spectrophotometric determination of absorbance at 535 nm
+against a delphinidin chloride standard (102 absorbance units/g/L at 1.0 cm).  The enriched composition contained 43% total anthocyanins by weight.
+<BR><BR>Example 2
+<BR><BR>Purification of Bilberry Using a 70% Ethanol Extraction
+<BR><BR> Dried bilberry raw material (667 g), assayed at 2.0% anthocyanins, was extracted by percolation using 70% ethanol/water containing 3% sulfuric acid by volume.  The solids in the crude extract contained 3.9% by weight total anthocyanins.  One
+liter of the first extraction volume was mixed with 100 mL deionized water and evaporated in vacuo to about 460 mL to remove the alcohol.  Deionized water (300 mL) was added to the mixture, and an additional 170 mL of liquid were evaporated.  Deionized
+water (210 mL) was added to make the final volume 800 mL.  To the aqueous mixture was added 150 g of Celite 512 (0.5 to 0.9 g of Celite per gram of solids).  The mixture was shaken until homogeneous.  The Celite/extract mixture was poured over a 30 g bed
+of damp Celite 512 under vacuum.  Upon completion of filtration, the bed was washed with 1.20 L of 1% aqueous sulfuric acid in 200 mL increments.  The filtrate volume was 1855 mL.  To the filtrate was added 145 mL of deionized water to give a final
+volume of 2.0 L.
+<BR><BR> A portion of the filtrate (695 mL) was loaded at 2.2 mL/minute (1.3 mL/min/cm.sup.2) onto a column loaded with 170 mL brominated polystyrene resin (SP-207).  This gave a load value of 17 g of anthocyanins per liter of column media.  The column
+was washed with one column volume of 0.1% aqueous acetic acid followed by 2.5 column volumes of 0.1% HOAc/10% ethanol/90% water.  The column was then eluted with 10 column volumes of 70% ethanol/water, and the 70% ethanol fractions were combined and
+concentrated in vacuo at 60.degree.  C. and 50 mbar to provide a dark, dry, shiny amorphous solid ("fraction 3").  Final assay of the dried product was by standard spectrophotometric determination of absorbance at 535 nm against a delphinidin chloride
+standard (102 absorbance units/g/L at 1.0 cm).  The enriched composition contained 32% total anthocyanins by weight.
+<BR><BR> FIGS. 2 and 3 are HPLC chromatograms at 510 nm and 280 nm, respectively, of a total phenol-enriched composition ("fraction 3") prepared from bilberries according to the process of this invention.
+<BR><BR> Table 1 summarizes the percent of each anthocyanin in a typical anthocyanin-enriched composition ("fraction 3").
+<BR><BR> TABLE-US-00001 TABLE 1 Identification and content of each anthocyanin present in a bilberry "fraction 3" Elution Name order % composition Delphinidin-3-O-galactoside 1 3.3 Delphinidin-3-O-glucoside 2 3.9 Cyanidin-3-O-galactoside 3 2.1
+Delphinidin-3-O-arabinoside 4 2.6 Cyanidin-3-O-glucoside 5 2.8 Petunidin-3-O-galactoside 6 1.0 Petunidin-3-O-glucoside 7 2.5 Cyanidin-3-O-arabinoside 8 1.7 Peonidin-3-O-galactoside 9 0.3 Petunidin-3-O-arabinoside 10 0.8 Malvidin-3-O-galactoside 11 2.1
+Peonidin-3-O-glucoside (co-elute) Malvidin-3-O-glucoside 12 2.5 Peonidin-3-O-arabinose 13 0.1 Malvidin-3-O-arabinose 14 0.6 Total 26.3
+<BR><BR>Example 3
+<BR><BR>Total Phenol-Enriched Compositions from Blueberries
+<BR><BR> To 940 g of dried and ground blueberry (Van Drunen FutureCeuticals; Momence, Ill.) were added 4.0 liters of extraction solvent (1.0% w/v sulfuric acid in 70% ethanol) in a 10 L round bottom flask.  The flask was rotated in a constant temperature
+water bath held at 40.degree.  C. for two hours.  The mixture was swirled and filtered through a 150 g bed of Celite 512 under vacuum.  The blueberry biomass cake was washed with 500 mL of extraction solvent.  The cake was carefully scraped away from the
+Celite bed, poured into a round bottom flask, and re-extracted following the above-described procedure.  A third extraction was then performed.  The three crude extracts were combined.
+<BR><BR> A portion of the combined extracts (2.00 L) was concentrated in vacuo to 175 mL at a water bath temperature of 40.degree.  C. The evaporated extract was diluted with deionized water to give 675 mL of crude blueberry extract.  The crude extract
+was loaded without filtration onto a previously conditioned (i.e., washed with acetone) and equilibrated column loaded with 170 mL of brominated polystyrene resin (SP-207).  The column was washed with 0.1% acetic acid and with 0.1% HOAc/10% ethanol.  The
+anthocyanins were eluted with 70% ethanol.  The product pool was evaporated in vacuo at 60.degree.  C. and 50 mbar.  Final product assay was by standard spectrophotometric determination of absorbance at 535 nm against a delphinidin chloride standard (102
+absorbance units/g/L at 1.0 cm).  The purified blueberry composition ("fraction 3") contained 18% total anthocyanins by weight, with an overall recovery of anthocyanins of 95%.
+<BR><BR> FIGS. 4 and 5 are HPLC chromatograms at 510 nm and 280 nm, respectively, of a total phenol-enriched composition ("fraction 3") prepared from blueberries according to the method of this invention.
+<BR><BR>Example 4
+<BR><BR>Higher Purity Total Phenol-Enriched Composition from Blueberries
+<BR><BR> In this example, a portion of a total phenol-enriched composition prepared from blueberries and having 18% total anthocyanins by weight, prepared as described in Example 3, was passed through either a strong or a weak anion exchange resin to
+remove residual acids in order to increase the purity of the enriched composition.
+<BR><BR> Approximately 1.0 g of the total phenol-enriched blueberry composition was dissolved in 50 mL of water and passed through a 9 mL column containing either a strong anion exchange resin (Super Q-650 M; TosoHaas; Montgomery, Pa.) or a weak anion
+exchange resin (DEM-63; Whatman).  The column was washed with 30-35 mL of water.  In the case of the strong anion exchange resin column, the resin was further washed with 25 mL of 20% ethanol, followed by 40% ethanol.  The composition isolated from the
+strong anion exchange column contained 28.3% total anthocyanins by weight, and the recovery was 88%.  The composition isolated from the weak anion exchange column contained 30.6% total anthocyanins by weight, and the recovery was 88%.
+<BR><BR>Example 5
+<BR><BR>Total Phenol-Enriched Compositions from Bilberry Using Pectinase Treatment
+<BR><BR> Warm water (548 g) was added to 1024 g of frozen bilberries.  The mixture was pureed in a blender and then heated to 40.degree.  C. Next, 150 .mu.L of pectinase (Quest Super 7x; Quest International, Norwich, N.Y.) were added for a 30 minute
+treatment at 40.degree.  C. with stirring.  Approximately 4 mL of concentrated sulfuric acid were added to the slurry to achieve an acid concentration of 0.5% (w/w).  The mixture was then heated to 45.degree.  C. and extracted for 15 minutes with very
+slow stirring.  Dicalite (164 g) was added to the extracted mixture, which was then filtered over a 26 g Dicalite bed.  The resulting cake was washed three times with 400 mL of warm 0.1% aqueous sulfuric acid.  This extract was filtered through a 25
+.mu.m pressure filter.  All of the filtered extract (2.4 L) was loaded onto a 170 mL SP-207 column.  After loading, the column was washed with 0.1% aqueous acetic acid and eluted with 70% aqueous ethanol to provide "fraction 3".  "Fraction 3" was
+evaporated to dryness and then placed on a lyophilizer for 48 hours.  The final product was assayed for total anthocyanins by standard spectrophotometric determination of absorbance at 535 nm.  The total phenol-enriched composition contained 40% total
+anthocyanins by weight.  The overall recovery of anthocyanins was approximately 79%.
+<BR><BR>Example 6
+<BR><BR>Enriched Compositions from Elderberry Biomass Powder
+<BR><BR> Approximately 190 g of dried elderberry biomass powder (BI Nutraceuticals, Long Beach, Calif.) assayed at 1.88% anthocyanins and 5.31% total phenols were added to 1000 g of warm water.  The solution was mixed thoroughly and transferred to a hot
+water bath at 45.degree.  C. To the solution was added 190 .mu.L of pectinase (Super 7X, Quest), and then the mixture was allowed to sit for 30 minutes.  The mixture was acidified to a pH of 2.5 using 2.5 mL of concentrated H.sub.2SO.sub.4 and gently
+mixed for ten minutes.  To this acidified mixture was added 164 g of Celite, and then the acidified mixture was filtered over a 26 g Celite bed.  The filter cake was washed three times with 400 mL of acidified warm water, for a total of 1200 mL.  The
+filtrate was then filtered through a 25 .mu.m pressure filter to provide an elderberry extract.
+<BR><BR> The elderberry extract was loaded onto 170 mL of SP-207 (Mitsubishi Chemical) brominated polystyrene column at a rate of 2.3 mL/min (1.3 mL/min/cm.sup.2).  The eluent collected off the column during loading was collected as "fraction 1." After
+loading, the column was washed with 3 column volumes (3.times.170 mL) of 0.006% aqueous sulfuric acid.  The eluent from this wash was collected as "fraction 2." The column was then eluted with 8-10 column volumes of 70% aqueous ethanol, which were
+collected as "fraction 3." The column was then washed with 3 column volumes of 90% aqueous ethanol, which were collected as "fraction 4." The column was re-equilibrated with 8 column volumes of 0.006% aqueous sulfuric acid.  Fractions 3 and 4 were
+evaporated to dryness and then lyophilized until dry.  Several of the fractions isolated during elution from the brominated polystyrene resin were analyzed for anthocyanins and total phenols as described in Examples 7 and 8.  Table 2 summarizes the
+column data.
+<BR><BR> TABLE-US-00002 TABLE 2 Analysis and recovery of anthocyanins and polyphenols in elderberry fractions Anthocyanins Polyphenols % Purity % Recovery % Purity % Recovery "fraction 1" 0.05 2.79 1.37 24.4 "fraction 2" 1.68 7.79 5.57 8.5 "fraction 3"
+18.7 99.4 42.8 74.7 "fraction 4" 0.67 0.49 2.61 0.6
+<BR><BR> FIGS. 6-13 show the HPLC chromatograms of the filtered elderberry extract and of certain fractions isolated during column purification.  The HPLC conditions used are those described in Example 9.
+<BR><BR> FIGS. 6 and 7 show the HPLC chromatograms at 280 nm and 510 nm, respectively, of the filtered elderberry extract.
+<BR><BR> FIGS. 8 and 9 show the HPLC chromatograms at 280 nm and 510 nm, respectively, of "fraction 1" collected during column loading of the filtered elderberry extract onto the brominated polystyrene resin.
+<BR><BR> FIGS. 10 and 11 show the HPLC chromatograms at 280 nm and 510 nm, respectively, of "fraction 3" collected during column elution of the filtered elderberry extract using 70% ethanol from the brominated polystyrene resin.
+<BR><BR> FIGS. 12 and 13 show the HPLC chromatograms at 280 nm and 510 nm, respectively, of "fraction 4" collected during column elution of the filtered elderberry extract using 90% ethanol from the brominated polystyrene resin.
+<BR><BR> The total phenol-enriched compositions of this invention comprise the compounds showing peaks in the region between 60 and 75 minutes in the standard HPLC chromatograms substantially as shown in FIGS. 10-13.
+<BR><BR>Example 7
+<BR><BR>Quantitative Determination of Anthocyanins
+<BR><BR> This method is used to determine the total anthocyanins in various biomass samples and dried purified total phenol-enriched compositions by UV-VIS spectrophotometry, using an external standard.  Each sample tested (e.g., a concentrated total
+phenol-enriched composition, dried biomass, or fresh/frozen biomass) requires a different preparation procedure as described below.
+<BR><BR> Total phenol-enriched compositions--Accurately weigh 75-100 mg of the purified total phenol-enriched composition into a 100 mL volumetric flask and dilute to volume with 2% HCl/MeOH.  Mix well and dilute 0.40-1.6 mL of this sample to 10.0 mL
+with 2% HCl/MeOH.
+<BR><BR> Dry Biomass--Into a coffee grinder place an amount of dry biomass sufficient to cover the blades of the grinder.  Grind for about 1 minute or until finely ground.  Alternatively use a mortar and pestle to finely grind the raw material. 
+Accurately weigh about 50-100 mg of finely ground biomass into a 100 mL volumetric flask and then add about 80 mL of 2% HCl/MeOH and cap.  Place the flask into a 50.degree.  C. oil bath or forced air oven for 30-60 minutes, shake gently for 30 seconds,
+and sonicate for 5 minutes.  Allow the solution to cool to room temperature.  Add 2% HCl/MeOH to the mark and mix.  Filter a portion of the sample through a 0.45 .mu.m PTFE syringe filter into a vial.  Dilute 1.0 mL of the filtrate to 10.0 mL with 2%
+HCl/MeOH.  The dilution factor would be 10 mL/1 mL or 10.
+<BR><BR> Frozen/Fresh Biomass--Weigh 400.0 g frozen/fresh biomass into a 1000 mL polypropylene beaker.  Add 400 g of near boiling water into the beaker.  Puree using a mechanical blender (Waring or other).  Using a wide-bore polyethylene dropper, remove
+a representative 0.5-1.5 g sample and transfer into a tared 100 mL volumetric flask.  Add 80 mL of 2% HCl/MeOH and cap.  Place the flask into a 50.degree.  C. oil bath or forced air oven for 60-120 minutes, shake gently for 30 seconds and then sonicate
+for 5 minutes.  Allow the solution to cool to room temperature.  Add 2% HCl/MeOH to the mark and mix.  Filter a portion through a 0.45 .mu.m PTFE syringe filter into a vial.  The dilution factor would be the total weight of the biomass and water divided
+by the weight of the biomass [e.g., (400 g+400 g)/400 g=2].
+<BR><BR> Loss on Drying--The calculation to obtain the total anthocyanins content in the above samples requires the determination of the moisture content, or % LOD (loss on drying), of the material.  To determine the % LOD, transfer and distribute evenly
+0.5-3.0 g of sample into an accurately weighed aluminum weigh pan, and record the weight to the nearest 0.1 mg.  Place the sample in an oven at 105.degree.  C..+-.3.degree.  C. for 2 hours (do not exceed 2 hrs 15 min).  After the sample has cooled to
+room temperature (a dessicator may be used), weigh the sample and record the weight to the nearest 0.1 mg.  The % LOD is determined to the nearest 0.1% using Equation 1:
+<BR><BR> .times..times.  .times.  ##EQU00001## where % LOD=percentage loss on drying; W.sub.D=dry weight of the pan and sample (g); W.sub.P=weight of the pan (g); and W.sub.SP=initial weight of the pan and sample (g).
+<BR><BR> Assay Procedures--The UV/VIS spectrophotometer is set to read in photometry mode with the visible lamp on.  The instrument is zeroed at 535 nm using 2% HCl/MeOH in a 1 cm pathlength glass, quartz, or disposable polystyrene cuvette.  The
+absorbance of the prepared sample is measured at 535 nm in the same or matched 1 cm cuvettes.
+<BR><BR> Calculations--The concentration of total anthocyanins is calculated as shown in Equation 2:
+<BR><BR> .times..times.  ##EQU00002## where C.sub.ANTHOS=concentration of the total anthocyanins in the sample (mg/mL); ABS.sub.SAMP=absorbance of the sample at 535 nm; DF=dilution factor, as described below; and E.sub.S=absorptivity (absorbance of a 1
+mg/mL solution at 535 nm in 2% HCl/MeOH using a 1 cm cuvette) of the appropriate external standard, either cyanidin chloride (101.1; for cherry, cranberry, elderberry, and plum) or delphinidin chloride (102.0; for bilberry and blueberry).  The dilution
+factor (DF) for a dry biomass is 1, and the dilution factor for fresh/frozen biomass is the total weight of the biomass and water divided by the weight of the biomass (e.g., (400 g+400 g)/400 g).  The dilution factor for a purified extract is the final
+dilution volume divided by the volume of the extract solution (e.g., 10 mL/0.40 mL).
+<BR><BR> The percent total anthocyanins is calculated as shown in Equation 3:
+<BR><BR> .times..times..times..times..times..times..times..times.  ##EQU00003## where % Anthos=percentage of total anthocyanins in the sample; C.sub.ANTHOS=concentration of total anthocyanins (mg/mL); Volume=initial volume of the sample preparation
+(usually 100 mL); W.sub.S=weight of the biomass or total phenol-enriched compositions used in the preparation (usually 50-100 mg for dry biomass, 500-1500 mg for fresh/frozen biomass, or 75-100 mg for purified extracts); and S.sub.LOD=[(100-% LOD)/100]
+for dry or fresh biomass or purified extract (for fresh or frozen biomass this factor does not apply).
+<BR><BR>Example 8
+<BR><BR>Quantitative Determination of Total Polyphenols
+<BR><BR> This method is used to quantitatively determine the total polyphenols in various biomass samples and dried purified enriched compositions by UV-VIS spectrophotometry, using gallic acid as the external standard.
+<BR><BR> The procedure requires a 20% Na.sub.2CO.sub.3 solution and 2% HCl/MeOH.  To prepare the Na.sub.2CO.sub.3 solution, weigh approximately 100 g of Na.sub.2CO.sub.3 into a 500 mL volumetric flask containing about 350 mL deionized water.  Sonicate
+for 10 minutes; shake to mix.  Dilute to volume using deionized water and agitate until homogeneous.  To prepare the 2% HCl/MeOH, transfer about 350 mL of methanol into a 500 mL volumetric flask.  Pipet into the flask 10.0 mL of HCl.  Dilute to volume
+using methanol and mix until homogeneous.
+<BR><BR> To prepare the gallic acid stock standard, accurately weigh 100 mg of gallic acid (Sigma; St.  Louis, Mo.) into a 100 mL volumetric flask.  Add 70 mL of deionized water and sonicate for 5 minutes until dissolved.  Dilute to volume using
+deionized water, cap, and mix until homogeneous.
+<BR><BR> Each sample tested (e.g., total phenol-enriched composition, dry biomass, or fresh/frozen biomass) requires a different preparation procedure and was prepared as described in Example 7.
+<BR><BR> Loss on Drying--The calculation to obtain the total polyphenols content in the above samples requires the determination of the moisture content, or % LOD, of the material.  To determine the % LOD, transfer and distribute evenly 0.5-3.0 g of
+sample into an accurately weighed aluminum weigh pan, and record the weight to the nearest 0.1 mg.  Place the sample in an oven at 105.degree.  C..+-.3.degree.  C. for 2 hours (do not exceed 2 hrs 15 min).  After the sample has cooled to room temperature
+(a dessicator may be used), weigh the sample and record the weight to the nearest 0.1 mg.  The % LOD is determined to the nearest 0.1% using Equation 1 above.
+<BR><BR> Colorimetric Development Procedures--A clean 100 mL volumetric flask is set aside to serve as the reagent blank.  Two 100 mL volumetric flasks are labeled "high" standard and "low" standard.  Using the gallic acid stock solution, pipet 800 .mu.L
+into the "high" standard flask and 200 .mu.L into the "low" standard flask.  For dry biomass samples, pipet 20 mL of the filtered solution into a 100 mL volumetric flask.  For fresh/frozen biomass samples, pipet 10 mL of the filtered solution into a 100
+mL volumetric flask.  For purified samples, pipet 0.80-2.0 mL into a 100 mL volumetric flask.  The following are added to each of the volumetric flasks (including the reagent blank) prepared above: 1.  Add sufficient deionized water to each flask to
+bring the total volume to approximately 65 mL.  2.  Pipet 5.0 mL of the FC Phenol Reagent (Sigma) into each flask, agitate gently.  3.  Pipet 15.+-.2 mL of the 20% Na.sub.2CO.sub.3 solution into each flask.  4.  Mix the solutions in each flask with
+gentle swirling, dilute to volume with deionized water, cap, and invert.  5.  Allow the solutions to develop for at least three but not more than four hours.  6.  Filter 10 mL aliquots of samples requiring filtration through 0.45 .mu.m PVDF syringe
+filters into suitable containers.
+<BR><BR> Assay Procedure--The UV-VIS spectrophotometer is set to read in photometry mode with the visible lamp on.  The analysis is carried out in 1 cm pathlength glass, quartz, or disposable polystyrene cuvettes.  The instrument is zeroed at 760 nm
+using the reagent blank.  The absorbance of each solution is measured at 760 nm in the same or matched 1 cm cuvettes.
+<BR><BR> Calculations--To calculate the concentration of total polyphenols the absorptivity of gallic acid must first be determined.  This value is obtained as described in Equation 4:
+<BR><BR> .times..times..times..times.  ##EQU00004## where E.sub.R=absorptivity of the reference standard (gallic acid) at 760 nm in absorbance units/g/L; A.sub.R=absorbance of the reference standard solution; C.sub.R=concentration of gallic acid in the
+stock standard solution, D.sub.R=dilution factor for the gallic acid standard (125 for "high" standard or 500 for "low" standard); and E.sub.LOD=loss on drying of the gallic acid solids as a percent.
+<BR><BR> The absorptivities for the "high" and "low" standards are averaged for use in Equation 5 below.  The concentration of total polyphenols in the color development sample preparations is calculated as shown in Equation 5:
+<BR><BR> .times..times.  ##EQU00005## where C.sub.P=concentration of total polyphenols in the FC sample preparation (mg/mL); A.sub.S=absorbance of the FC sample preparation; D.sub.FC=sample dilution factor, where DF is typically 5 for dry biomass, 10 for
+fresh/frozen biomass, and 50-125 for purified enriched composition; and E.sub.R=average absorptivity of the gallic acid standards.
+<BR><BR> The percent total polyphenols is calculated as shown in Equation 6:
+<BR><BR> .times..times..times..times..times..times..times..times.  ##EQU00006## where % P=percentage of total polyphenols in the sample; C.sub.P=the concentration of total polyphenols (mg/mL); V.sub.s=volume of original sample preparation (usually 100
+mL); W.sub.S=weight of the biomass or purified composition used in the original sample preparation (usually 50-100 mg for dry biomass, 500-1500 mg for fresh/frozen biomass, and 75-100 mg for purified extracts); D.sub.S=original sample dilution factor,
+where D.sub.S is 1 for dry biomass, 2 for fresh/frozen biomass, or 1 for purified extract; and S.sub.LOD=[(100-% LOD)/100] for biomass or purified extracts.  For fresh or frozen biomass this factor does not apply.
+<BR><BR>Example 9
+<BR><BR>HPLC Qualitative Assay
+<BR><BR> This method is used to qualify compounds in various biomasses and purified enriched compositions by high performance liquid chromatography (HPLC).  Each type of sample requires a different preparation procedure as described below.
+<BR><BR> Dry Biomass: The dry biomass, if not already powdered, is ground through a 1 mm screen using the Wiley mill.  Using an appropriately sized extraction thimble and a soxhlet extraction apparatus, weigh out approximately 12 g of powdered biomass
+into the thimble and extract using 200 mL of methanol.  Extract through at least 20 cycles or until the extraction solvent is clear.  Transfer the extract quantitatively to a 250 mL volumetric flask using methanol, dilute to volume and mix.  Filter the
+extract through a 0.45 .mu.m PTFE syringe filter into an HPLC vial.
+<BR><BR> Frozen/Fresh Biomass: Weigh 400 g frozen/fresh biomass into a 1000 mL polypropylene beaker.  Add 400 g of near boiling water into the beaker.  Puree using a mechanical blender (Waring or other).  Using a wide-bore polyethylene dropper, remove a
+representative 0.5-1.5 g sample and transfer into a tared 100 mL volumetric flask.  Add 80 mL MeOH, cap, and heat at 50.degree.  C. for 30 minutes.  Allow the solution to cool to room temperature, adjust to volume with methanol, and then sonicate until
+homogeneous.  Filter a portion through a 0.45 .mu.m PTFE syringe filter into an HPLC vial.
+<BR><BR> Purified Enriched Composition: Accurately weigh 50-100 mg of the enriched composition into a glass scintillation vial and add 10.0 mL of 50% MeOH/H.sub.2O, Sonicate for 5 minutes.  Filter through a 0.45 .mu.m PTFE syringe filter into an HPLC
+vial.
+<BR><BR> The HPLC is set up as required.  In one embodiment of this invention, the aqueous mobile phase was prepared by mixing 5 mL of trifluoroacetic acid (TFA) into 1000 mL of high purity, Type 1 water.  A 20 .mu.L sample was injected at ambient
+temperature.  A 280 nm wavelength was used for detection, the flow rate was 1.0 mL/min, and the run time was 105 minutes.  A Zorbax column was packed with 5 .mu.m SBC-18 in a 150.times.4.6 mm ID column.  In this embodiment, the mobile phase was set up as
+follows: channel A: 100% acetonitrile; channel B: 0.5% TFA in H.sub.2O; and channel C: 100% methanol.  Table 3 summarizes the HPLC gradient for this embodiment of the invention.
+<BR><BR> If available, standard preparations of compounds known to exist in the sample may be prepared at concentrations of approximately 1 mg/mL.  These standard preparations can be used to determine the approximate retention times and thus identify
+those compounds in the sample chromatograms.  As this method is used for qualification purposes only, no calculations are required.
+<BR><BR> TABLE-US-00003 TABLE 3 HPLC gradient for qualitative analysis Time (min) % A % B % C 0.0 0 95 5 7.0 5 90 5 32.1 8 84 8 33.0 9 83 8 63.0 14 78 8 91.5 27 65 8 99.0 72 20 8 104.0 72 20 8 104.1 0 95 5 112.0 0 95 5
+<BR><BR>Example 10
+<BR><BR>Quantitative HPLC Method for Determination of Percent Proanthocyanidins
+<BR><BR> This HPLC method is used to determine the amount of proanthocyanidins in various fractions and enriched compositions.  Each type of sample requires a different preparation and is prepared as described in Example 9.  The method uses a 5 .mu.m
+Zorbax column packed with Stablebond SBC-18 in a 150.times.4.6 mm column.  The flow rate was 1.5 mL/min, the detector was set at 280 nm, the injection volume was 10 .mu.L, and the run time was 24 min. The mobile phase was: channel A=100% acetonitrile;
+channel B=0.1% trifluoroacetic acid in water; channel C=100% methanol.  The gradient employed is provided in Table 4.  The proanthocyanidins typically eluted as a group of broad peaks in the HPLC chromatogram at elution times between 11-22 minutes.
+<BR><BR> TABLE-US-00004 TABLE 4 HPLC gradient for % analysis for proanthocyanidins Time (min.) % A % B % C 0 14 78 8 9 14 78 8 17 34 58 8 22 34 58 8 22.1 14 78 8 26 14 78 8
+<BR><BR> To quantitate the proanthocyanidins, a previously prepared in-house proanthocyanidin standard is utilized with a purity greater than 90%.  A sample of this is prepared at 5.5 mg/mL in 70% ethanol and analyzed using the HPLC method described in
+this Example.  The chromatogram for this standard includes a large, broad peak in the 11-22 minute retention time range (as seen in FIG. 14) which is due to the proanthocyanidins.  Manually integrate the entire 11-22 minute peak.  The peak area response
+factor for the standard is then determined by dividing the entire 11-22 minute peak area by the product of the standard's concentration and its purity as shown in Equation 7:
+<BR><BR> .times..times.  ##EQU00007## where RF=peak area response factor for the standard (area units/mg/mL); PA=peak area of the proanthocyanidins in the standard; C.sub.std=concentration of the standard solution in mg/mL; and P.sub.std=standard purity
+as a percent (usually 0.90).
+<BR><BR> The percent proanthocyanidins in a sample can be determined using the sample preparation and HPLC analysis method described above.  The total peak area in the 11-22 minute retention time range is determined for the sample in question.  Before
+any calculation can be made, however, the peak areas of non-proanthocyanidin compounds in the proanthocyanidin retention time range must be subtracted from the overall total peak area.  Non-proanthocyanidin compounds often appear as sharp peaks
+co-eluting with or on top of the broad proanthocyanidins' peak, and their UV spectrum by diode array is often different from the bulk of the proanthocyanidin peak.  To determine the peak area of non-proanthocyanidin peaks, manually integrate these peaks,
+total their peak area and subtract this area from the total 11-22 minute peak area.  Once the net area of the proanthocyanidins' peak in the sample has been determined, divide this value by the peak area response factor for the in-house standard to
+obtain the concentration of proanthocyanidins in the sample as shown in Equation 8:
+<BR><BR> .times..times.  ##EQU00008## where C.sub.proanthos=concentration of total proanthocyanidins in the sample (mg/mL); PA.sub.samp=corrected total peak area for the sample; DF=dilution factor (1 for dry biomass, 2 for fresh/frozen biomass, and 1 for
+an enriched composition); and RF=peak area response factor calculated using Equation 7.
+<BR><BR> The percent total proanthocyanidins is calculated as shown in Equation 9:
+<BR><BR> .times..times..times..times..times.  ##EQU00009## where % Proanthocyanidins=percent of total proanthocyanidins in the sample; C.sub.proanthos=concentration of total proanthocyanidins (mg/mL); V=volume of the sample preparation (usually 250 mL
+for dry biomass, 100 mL for fresh/frozen biomass, or 10 mL for enriched compositions); and W.sub.s=weight of the biomass or enriched composition used in the sample preparation (usually 12,000 mg for dry biomass, 500-1500 mg for fresh/frozen biomass, or
+50-100 mg for enriched compositions).
+<BR><BR>Example 11
+<BR><BR>Partitioning Polar and Non-Polar Proanthocyanidins Directly from a Filtered Elderberry Extract
+<BR><BR> In this example, a filtered elderberry extract was prepared and, rather than being purified on a brominated polystyrene resin, was instead loaded directly onto a vacuum liquid chromatography (VLC) column to partition polar proanthocyanidins and
+non-polar proanthocyanidins directly from a filtered extract according to the method illustrated in FIG. 15.
+<BR><BR> A 50 mL C-18 VLC column was prepared by filtering a 50 mL slurry of Bakerbond 40 .mu.m flash chromatography C-18 media in methanol through a 60 mL fritted glass filter.  The column was conditioned by washing with methanol and then with water.  A
+300 mL portion of the filtered elderberry extract, containing 12.0 g of solids, 74 mg of anthocyanins and about 780 mg of proanthocyanidins, was loaded onto the column.  An HPLC chromatogram of the filtered extract using the HPLC method described in
+Example 10 is shown in FIG. 16.  The flow-through eluent (about 300 mL) and a 100 mL wash (0.1% trifluoroacetic acid (TFA)) were combined to provide the polar proanthocyanidin "fraction 5." An HPLC chromatogram at 280 nm of "fraction 5" is shown in FIG.
+17.  The column was then eluted with 100 mL each of 30, 40, 50, 60, 70, and 100% methanol containing 0.1% TFA.  An HPLC chromatogram at 280 nm of the non-polar proanthocyanidin "fraction 6" isolated in the 60% methanol eluent is shown in FIG. 18.  The
+fractions were assayed for anthocyanins and proanthocyanidins by the methods described in Examples 7 and 10.  Table 5 summarizes the results for this experiment.
+<BR><BR> TABLE-US-00005 TABLE 5 Partitioning of Elderberry Elution Anthocyanins Proanthocyanidins % Proanthocyanidin Fraction (mg) (mg) purity Flow- 54 554 4.7 Through + Wash 30% MeOH 11 10 1.1 40% MeOH 3 20 12 50% MeOH 1 92 92 60% MeOH 0.2 46 92 70%
+MeOH 0.1 41 100 100% MeOH N/A 21
+<BR><BR> The results indicate that 71% (558 mg) of the proanthocyanidins in the filtered extract were collected during the loading and wash.  These proanthocyanidins were the more polar proanthocyanidins.  The non-polar proanthocyanidins eluted when the
+methanol concentration was increased to at least 40%.  The purity of the proanthocyanidins eluting in the 50-70% methanol fractions was high due to the fact that the majority of the solids contained in the filtered elderberry extract eluted in the
+loading eluent, water wash, and 30% methanol wash.
+<BR><BR>Example 12
+<BR><BR>Partitioning Elderberry Proanthocyanidins by VLC Followed by Purification by Gel Permeation Chromatography or Semi-Preparative HPLC
+<BR><BR> A total phenol-enriched composition was prepared from elderberry dried biomass (Martin Bauer; Germany) by collecting the 70% ethanol fraction ("fraction 3") during elution from a brominated polystyrene resin using the procedure as described in
+Example 6.  A portion (2.00 g) of this total phenol-enriched composition was dissolved in 50 mL of water and loaded onto a 15 mL C-18 VLC column prepared with Bakerbond 40 .mu.m C-18 media.  The flow-through eluent and the 25 mL water wash were combined
+and freeze-dried, yielding 733 mg of the polar proanthocyanidins fraction ("fraction 5").  The column was then washed with 25 mL of 50% methanol.  The non-polar proanthocyanidins ("fraction 6") were eluted with 25 mL of 70% methanol.  The methanol in
+this fraction was removed and the resulting water suspension was freeze-dried, yielding 192 mg of the non-polar proanthocyanidin fraction ("fraction 6"), which by HPLC assay was 100% proanthocyanidins.  This fraction had little if any color, suggesting
+that the oligomeric proanthocyanidins chains in this fraction do not contain cationic anthocyanin units.
+<BR><BR> The polar proanthocyanidins fraction ("fraction 5") was further purified by semi-preparative HPLC to remove residual anthocyanins and other more polar impurities.  The conditions for the semi-preparative HPLC purification of these solids are
+described below.
+<BR><BR> The semi-preparative HPLC method used a 2.5.times.10 cm Waters PrepPak cartridge filled with 6 .mu.m, 60 Angstrom, Nova-Pak HR C-18 media (Waters; Milford, Mass.).  The mobile phase was: channel A=100% acetonitrile; channel B=0.1%
+trifluoroacetic acid; channel C=100% methanol.  The gradient employed in this embodiment was as provided in Table 6.  The flow rate was 30 mL/min, the detector was set at 280 nm, and the injection volume was typically 3-5 mL of a solution containing
+50-125 mg of solids.  The run time was 30 minutes.  The proanthocyanidins were collected in a broad peak that eluted between 13-20 minutes.
+<BR><BR> TABLE-US-00006 TABLE 6 HPLC gradient for Elderberry proanthocyanidin purification Time (min.) % A % B % C 0.0 11 81 8 11.0 11 81 8 19.0 34 58 8 24.0 34 58 8 25.0 82 10 8 30.0 82 10 8 30.1 11 81 8
+<BR><BR> About 600 mg of the polar proanthocyanidins fraction ("fraction 5") were dissolved in 25 mL of water.  Approximately 3 mL (75 mg) were injected in each of eight runs.  The proanthocyanidin peaks eluting between about 12-18 minutes in each run
+were collected, pooled, and evaporated on a rotary evaporator, and the residual aqueous solution freeze-dried.  Approximately 100 mg of purified polar elderberry proanthocyanidins ("fraction 7") were obtained from 600 mg of the polar proanthocyanidin
+solids ("fraction 5") after VLC separation.  An HPLC chromatogram at 280 nm for the VLC-isolated polar proanthocyanidins after semi-preparative HPLC purification is shown in FIG. 19.  The polar front, comprising sugars, amino acids, anthocyanins, organic
+acids, and small flavonoid compounds, was removed by the semi-preparative HPLC purification, as evidenced by the absence of these peaks in FIG. 19.  A .sup.13C NMR spectrum of the purified polar proanthocyanidins ("fraction 7") is shown in FIG. 20.
+<BR><BR> The non-polar proanthocyanidins fraction ("fraction 6") was further purified by gel filtration chromatography.  A portion (48 mg) of the non-polar proanthocyanidin fraction ("fraction 6") isolated during the VLC separation was dissolved in 20 mL
+of warm water and loaded onto a 14 mL Sephadex LH-20 column that had previously been equilibrated with water.  The loading eluent was collected and combined with a 40 mL column water wash.  Most of the non-polar proanthocyanidins eluted from the column
+at this point while most of the smaller flavonoid impurities were retained.  The combined loading and wash eluents were freeze-dried to provide 32 mg of the purified non-polar proanthocyanidins "fraction 8." These solids possessed strong antiviral
+activity.  FIGS. 21 and 23 show the HPLC chromatograms at 280 nm and 368 nm, respectively, of the non-polar proanthocyanidins ("fraction 6") before the Sephadex LH-20 column purification.  FIGS. 22 and 24 show the HPLC chromatograms at 280 nm and 368 nm,
+respectively, of the purified non-polar proanthocyanidins ("fraction 8").  The peaks in FIG. 21 marked with asterisks are non-proanthocyanidin flavonoid compounds based on their UV spectra.  These compounds are reduced in the purified non-polar product
+("fraction 8") isolated after Sephadex LH-20 column as shown HPLC chromatogram at 280 nm in FIG. 22.  The effect of the gel purification can be better seen by comparing the HPLC chromatogram at 368 nm of the non-polar proanthocyanidins before
+purification (FIG. 23).  The non-proanthocyanidin impurities appear in FIG. 23 at 4-6 minutes and 15-17 minutes.  Except for a small amount of the flavonoid compound eluting at 5.8 minutes, there is no trace of flavonoid compounds in the purified sample
+as shown in FIG. 24.  A .sup.13C NMR spectrum of the purified non-polar proanthocyanidin "fraction 8" is shown in FIG. 25.  FIG. 33 shows an IR spectrum of fraction 7, and FIG. 34 shows an IR spectrum of "fraction 8."
+<BR><BR>Example 13
+<BR><BR>Purification of Blueberry Polar and Non-Polar Proanthocyanidins by VLC Followed by Semi-Preparative HPLC
+<BR><BR> The starting material for this example was a total phenol-enriched "fraction 3" prepared from blueberries and isolated during the 70% ethanol elution from a brominated polystyrene resin.  A portion (6.00 g) of "fraction 3" was dissolved in 80 mL
+of water and loaded onto a 30 mL C-18 VLC column as described previously.  The loading eluent was collected and combined with 100 mL of a 0.1% TFA wash eluent ("fraction 5").  Next, the column was washed with 80 mL of 40% methanol to remove residual
+polar compounds ("fraction 5") and then with 80 mL of 70% methanol to give the non-polar proanthocyanidin fraction ("fraction 6").  Table 7 summarizes the results of this experiment.
+<BR><BR> TABLE-US-00007 TABLE 7 Purification of blueberry proanthocyanidins % Solids Proanthocyanidins Proanthocyanidins Sample (g) (mg) purity "fraction 3" 6.00 1614 27 Loading Eluent + 2.11 899 43 Wash 40% MeOH fraction 2.46 580 24 70% MeOH fraction
+0.67 323 48
+<BR><BR> The polar proanthocyanidins "fraction 5" (loading eluent+wash) and the non-polar proanthocyanidins fraction 6 (70% methanol elution) were each further purified by semi-preparative HPLC by the method described in Example 12 to provide "fraction
+7" and "fraction 8", respectively.  The HPLC chromatograms at 280 nm of the blueberry polar proanthocyanidins fraction before and after the semi-preparative purification (i.e., "fraction 5" and "fraction 7") are shown in FIGS. 26 and 27, respectively. 
+The HPLC chromatograms at 280 nm of the blueberry non-polar proanthocyanidins fraction before and after the semi-preparative purification (i.e., "fraction 6" and "fraction 8") are shown in FIGS. 28 and 29, respectively.  The semi-preparative
+purifications of both the polar and non-polar fractions removed undesired anthocyanins and polar flavonoid compounds from the proanthocyanidins, as evidenced by the absence of peaks between about 0 and 8 minutes in FIGS. 27 and 29.  FIG. 37 shows an IR
+spectrum of "fraction 7," and FIG. 38 shows an IR spectrum of "fraction 8."
+<BR><BR>Example 14
+<BR><BR>Purification of Plum Polar and Non-Polar Proanthocyanidins by VLC Followed by Semi-Preparative HPLC
+<BR><BR> The starting material for this example was a combination of "fraction 3" and "fraction 4" isolated from plums and containing approximately 17% total proanthocyanidins, of which 61% were designated as polar and 39% as non-polar.  A portion (8.00
+g) of this composition was dissolved in 100 mL of water containing 0.5% TFA and loaded onto a 45 mL C-18 VLC column as described previously.  The loading eluent was collected, and the column was washed with 50 mL of 0.1% TFA.  The loading eluent and wash
+fractions were combined to provide the polar proanthocyanidins fraction ("fraction 5").  An HPLC of the polar proanthocyanidin "fraction 5" is shown in FIG. 30.  The column was eluted with 100 mL of 40% methanol containing 0.5% TFA followed by 100 mL of
+70% methanol containing 0.5% TFA.  All methanol fractions were combined to provide the non-polar proanthocyanidin fraction ("fraction 6").  Table 8 summarizes the results of this experiment.
+<BR><BR> TABLE-US-00008 TABLE 8 Purification of plum proanthocyanidins % Solids Proanthocyanidins Proanthocyanidins Sample (g) (mg) purity Plum fractions 3 8.00 1328 17 and 4 Loading Eluent + 4.32 651 15 Wash 40% MeOH fraction 3.76 486 13 70% MeOH
+fraction 0.45 300 67
+<BR><BR> The polar proanthocyanidin "fraction 5" (combined loading eluent and wash eluent) was further purified by semi-preparative HPLC by the method described in Example 12 to provide "fraction 7." Removal of anthocyanins and other more polar
+impurities increased the proanthocyanidin purity of the sample from 15% to 100%.  The HPLC chromatogram at 280 nm of the purified polar proanthocyanidin "fraction 7" is shown in FIG. 31.  The non-polar "fraction 6" (combined 40% and 70% methanol washes)
+was not purified further.  The HPLC chromatogram at 280 nm of the non-polar proanthocyanidin "fraction 6" is shown in FIG. 32.  FIG. 39 is an IR spectrum of "fraction 7" and FIG. 40 is an IR spectrum of "fraction 6".
+<BR><BR>Example 15
+<BR><BR>Purification of Proanthocyanidins Fraction from Elderberry VLC Fraction
+<BR><BR> A VLC column was prepared using Amberchrom CG-71cd resin (80-160 .mu.m particle size, TosoHaas; Philadelphia, Pa.).  A water extract of elderberry was prepared and a portion of this extract was loaded onto the VLC column.  The column was then
+washed with water and eluted using 30%, 40%, 50%, 60%, 70%, and 100% methanol.  All fractions eluted with methanol were retained separately.  The VLC fraction eluted with 50% methanol was evaporated on a rotary evaporator to remove the methanol and then
+lyophilized to remove the water.  The dried material was ground to a powder using a mortar and pestle.  The dried sample was assayed by HPLC using the method as described in Example 10.  Using the results of this assay, a semi-preparative HPLC method was
+derived from the analytical HPLC method to isolate the proanthocyanidins.  The mobile phase was: channel A=100% acetonitrile; channel B=0.5% trifluoroacetic acid in water; channel C=100% methanol.  The flow rate was set at 30 mL/min. The gradient
+employed is provided in Table 9.
+<BR><BR> TABLE-US-00009 TABLE 9 HPLC gradient for purification of elderberry proanthocyanidins Time (min) % A % B % C 0.0 11.0 81.0 8.0 9.0 11.0 81.0 8.0 17.0 34.0 58.0 8.0 22.0 34.0 58.0 8.0 23.0 92.0 0.0 8.0 28.0 92.0 0.0 8.0 28.1 11.0 81.0 8.0 36.0
+11.0 81.0 8.0
+<BR><BR> Approximately 500 mg of the dried material was dissolved in water at a solids concentration of approximately 50 mg/mL.  A very small injection was made to determine the retention time of the relevant peaks.  Based on this initial injection, two
+peaks were collected: Peak A, which eluted between 14 and 22 minutes and Peak B, which eluted between 26 and 28 minutes.  Five injections of the concentrated solution were made, and the appropriate collections of each peak were pooled from each
+injection.  The sample obtained by the collection of Peak A was determined to contain the proanthocyanidins and was evaporated to remove the organic solvents and a portion of the water.  The concentrated sample was assayed using the HPLC method as
+described in Example 10.  The chromatographic purity of the sample was determined to be 93.9%.  The sample was then lyophilized to obtain the dry material.  Once dry, a small portion of the sample was brought up in 70% ethanol at a concentration of 1.918
+mg/mL and re-assayed by the same HPLC method.  Using the results of this analysis and the previously obtained chromatographic purity, a peak area response factor was determined.  This information was used to determine the proanthocyanidins concentration
+in other purified fractions.  The HPLC chromatogram at 280 nm of the proanthocyanidin "standard" is shown in FIG. 14.
+<BR><BR>Example 16
+<BR><BR>Purification of Cranberry Proanthocyanidins by VLC Followed by Semi-Preparative HPLC
+<BR><BR> The starting material for this example was 8.00 g of purified cranberry extract ("fraction 3"+"fraction 4") comprising 14% total proanthocyanidins.  This material was dissolved in 100 mL of water containing 1 mL of trifluoroacetic acid and
+loaded onto a 50 mL C-18 VLC column as described previously.  The loading eluent (100 mL) was collected and combined with 50 mL of 0.1% TFA wash eluent to obtain "fraction 5".  Next the column was washed with 100 mL of 40% methanol to remove residual
+polar compounds and eluted with 100 mL of 70% methanol to give the non-polar proanthocyanidins "fraction 6".  Table 10 summarizes the results of this experiment.
+<BR><BR> TABLE-US-00010 TABLE 10 Purification of cranberry proanthocyanidins % Solids Proanthocyanidins Proanthocyanidins Sample (g) (mg) purity Cranberry fractions 8.00 1514 14.3 3 + 4 Loading Eluent + 3.60 748 20.8 Wash 40% MeOH fraction 3.39 677 20.0
+70% MeOH fraction 0.44 93 21.1
+<BR><BR> The polar proanthocyanidins fraction (loading eluent+wash) was further purified by semi-preparative HPLC by the method described in Example 12 to obtain "fraction 7".  FIG. 41 is an HPLC chromatogram of the polar proanthocyanidins fraction
+before semi-preparative purification, and FIG. 42 is an HPLC chromatogram of the polar proanthocyanidins fraction after purification.  FIG. 43 is an HPLC chromatogram of the non-polar proanthocyanidins fraction.  Polar non-proanthocyanidin compounds such
+as anthocyanins that eluted before the proanthocyanidins were removed in this process.
+<BR><BR>Example 17
+<BR><BR>Herpes Simplex Virus 2 Assay of Elderberry Fractions
+<BR><BR> The antiviral activities of a crude elderberry extract and fractions 1, 3 and 4 isolated as described in Example 6 were determined using the viral cytopathic effect (CPE) assay.  This assay has previously been described (Wyde, et al., Drug
+Develp.  Res.  28:467-472 (1993)).  All antiviral activities are reported as 50% effective dose (ED.sub.50).
+<BR><BR> Table 11 summarizes the ED.sub.50 for CPE inhibition for the four compositions tested.
+<BR><BR> TABLE-US-00011 TABLE 11 ED.sub.50 for CPE inhibition of elderberry fractions CPE Inhibition Composition (ED.sub.50) Crude extract &gt;100 .mu.g/mL "fraction 1" &gt;100 .mu.g/mL "fraction 3" &gt;100 .mu.g/mL "fraction 4" &lt;0.03 .mu.g/mL
+<BR><BR>Example 18
+<BR><BR>Viral Assays
+<BR><BR> Total phenol-enriched compositions of this invention prepared from fruits and berries have demonstrated broad activity against a variety of DNA and RNA viruses and are suitable as active ingredients useful in treating inflammation in humans and
+animals.  In cell culture, the enriched compositions exhibit potent activity against isolates and laboratory strains of respiratory syncytial virus (RSV), influenza A and B virus, parainfluenza virus (PIV), as well as other respiratory and Herpes simplex
+viruses.  Total phenol-enriched compositions are suitable as active ingredients useful in treating a wide range of viral infections in humans and animals.
+<BR><BR> Assays used to measure activity against each virus are well known to those skilled in the art.  Minced specific target tissue was exposed to the desired virus and the rate of growth of the virus was measured in the presence and in the absence of
+the test materials.  The antiviral activities of purified proanthocyanidin-enriched compositions prepared from various fruits and berries were determined.
+<BR><BR> Cell lines: The viral assays used the following cells/cell lines in determining relative ED.sub.50 (50% effective dose) or 50% inhibitory endpoints: RSV (respiratory syncytial virus) and PIV (parainfluenza virus) assays used MA-104 cells
+originating from African green monkey kidneys; Influenza A and B assays used MDCK cells originating from canine kidneys; Rhinovirus assays used HeLa and KB cells; Herpes simplex viruses 1 and 2 used HHF cells taken from human foreskin fibroblasts; West
+Nile viral assays used Vero cells taken from African green monkey kidneys; Adenovirus type 1 assays used A549 cells originating from human lung carcinoma; and Punta Toro A assays used LLC-MK2 cells originating from Rhesus monkey kidneys.
+<BR><BR> The assays used known drug standards (ribivarin or acyclovir) as positive controls.  The ED.sub.50s for ribivarin in the assays used in this Example are as follows: RSV (respiratory syncytial virus) assay ED.sub.50=20 .mu.g/mL; PVI
+(parainfluenza virus) assay ED.sub.50=20 .mu.g/mL; Influenza A and B assays ED.sub.50=2-3 .mu.g/mL; Rhinovirus assay ED.sub.50&lt;1 .mu.g/mL; West Nile viral assay ED.sub.50=20 .mu.g/mL; Adenovirus type 1 assay ED.sub.50=10 .mu.g/mL; and Punta Toro A
+assay ED.sub.50=20 .mu.g/mL.  Herpes simplex 1 and 2 assays used acyclovir as a positive control, which has an ED.sub.50 of 1-2 .mu.g/mL in the HSV1 and HSV2 assays.
+<BR><BR> The data obtained in the viral assays for certain compositions of this invention are provided in Table 12.  In cell cultures, the compositions exhibited potent activity against isolates and laboratory strains of influenza A virus (strains H1N1
+and H3N3), influenza B virus, adenovirus type 1, Punta Toro A virus, and Rhinovirus type 2.  Comparison of the bioactivity data in Table 12 to acyclovir and ribavirin in the antiviral screenings clearly shows that the compositions of this invention are
+biologically active in these assays and compete favorably with the well-established pharmaceuticals used to treat these viral diseases.
+<BR><BR> TABLE-US-00012 TABLE 12 ED.sub.50's (.mu.g/mL) of various fractions in a COX-2 assay Virus Influenza Influenza A A Influenza Adenovirus Punta Rhinovirus West Nile Varicella- Source Fraction (H1N1) (H3N2) B Type 1 Toro A Type 2 Virus zoster virus
+HSV-1 HSV-2 Cranberry 4 3.2 3.2 3.2 20 5.6 61 15 Plum 4 32 32 32 25 70 70 32 Blueberry 4 32 32 32 30 25 30 31 45 11.4 Elderberry 4 28-55 28-55 88 45 11 Elderberry 6 15 Elderberry 7 inactive inactive inactive Elderberry 8 28 35 Elderberry FIG. 14 inactive
+0.08 67.7 49 Grape * NA 4 6 3.2 20 6.8 * (Nature's Plus; Melville, NY)
+<BR><BR>Example 19
+<BR><BR>Evaluation of COX-2 Activity of Total Phenol-Enriched Compositions
+<BR><BR> Cyclooxygenase enzymes (COX-1 and COX-2) catalyze the conversion of arachidonic acid and other essential fatty acids into various prostaglandins.  Prostaglandins are hormone-like substances responsible for inflammation in mammals.  Inhibition of
+the COX-2 enzymes can reduce inflammation in tissue with minimal side effects.  On the other hand, inhibition of COX-1 causes gastric ulceration and other undesirable side effects in the body.  Complete inhibition of the COX-1 enzyme is not desirable. 
+Compounds that selectively inhibit COX-2 enzyme are better anti-inflammatory agents.  Total phenol-enriched compositions of this invention prepared from fruits and berries have been shown to inhibit the COX-2 enzyme, and are suitable as active
+ingredients useful in treating inflammation in humans and animals.
+<BR><BR> In this assay the material to be assayed was mixed with minced specific murine or bovine organ tissues that are known to contain the desired enzyme.  Arachidonic acid was added to this mixture.  The rate of uptake of oxygen is measured and
+compared with the rate of uptake observed with known COX inhibitors.  The COX-2 assay is based on quantitative production of PGE.sub.2 from arachidonic acid using human recombinant COX-2 positive cells.
+<BR><BR> The results for several compositions are shown in Table 13.  Comparison of the data for the compositions shown in Table 13 with determined COX-2 bioactivities of known drug standards (aspirin and indomethacin) clearly shows that the purified
+proanthocyanidin-enriched compositions of this invention are biologically active in the COX-2 assay.  Aspirin is active against COX-2 at 660 .mu.g/mL and against COX-1 at 240 .mu.g/mL.  Indomethacin is active against COX-2 at 10 .mu.g/mL.  The
+compositions in Table 13 therefore show a 2.5 to 6 fold increase in potency in the COX-2 assay over the most commonly used treatment for inflammation (i.e., aspirin), and are indicative of the utility of the purified proanthocyanidin-enriched
+compositions of this invention in treating inflammation in mammals.
+<BR><BR> TABLE-US-00013 TABLE 13 COX-2 activities for proanthocyanidin enriched compositions Source Fraction IC.sub.50 (.mu.g/mL) Blueberry 3 108 Cranberry 4 218 Grape * N/A 275 Elderberry 4 &gt;1000 Plum 4 &gt;1000 * (Nature's Plus; Melville, NY)
+<BR><BR><CENTER><b>* * * * *</b></CENTER>
+<HR>
+   <CENTER>
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=07682637&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D70%2526p%3D2%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+   <TABLE>
+   <TR><TD align="center"><A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D70%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207682637"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="m
+iddle" alt="[View Shopping Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=7682637&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D70%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207682637">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+     <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=1&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=69&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+   <A href="#top"><IMG valign="middle" src="/netaicon/PTO/top.gif" border="0" alt="[Top]"></A>
+   </TD></TR>
+   </TABLE>
+   <A name="bottom"></A>
+   <A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" alt="[Manual Search]" valign="middle"></A>
+   <A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/help/help.htm"><IMG border="0" src="/netaicon/PTO/help.gif" alt="[Help]" valign="middle"></A>
+   </CENTER>
+</BODY>
+</HTML>

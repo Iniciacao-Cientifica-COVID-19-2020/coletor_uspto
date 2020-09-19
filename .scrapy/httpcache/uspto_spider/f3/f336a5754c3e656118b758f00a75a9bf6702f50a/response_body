@@ -1,0 +1,611 @@
+<HTML>
+<HEAD>
+<BASE target="_top">
+<TITLE>United States Patent: 7622502</TITLE></HEAD>
+<!-BUF1=7622502
+BUF7=2009
+BUF8=77551
+BUF9=/1/
+BUF51=7
+-->
+<BODY bgcolor="#FFFFFF">
+<A name="top"></A>
+<CENTER>
+<IMG src="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<BR>
+<TABLE>
+<TR><TD align="center">
+<A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" ALT="[Manual Search]" valign="middle"></A>
+<A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/help/help.htm"><IMG border="0" valign="middle" src="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</TD></TR>
+<TR><TD align="center">
+   <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=1&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=72&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+<A href="#bottom"><IMG src="/netaicon/PTO/bottom.gif" alt="[Bottom]" valign="middle" border="0"></A>
+</TD></TR>
+   <TR><TD align="center">
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D71%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207622502"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="middle" alt="[View Shopp
+ing Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=7622502&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D71%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207622502">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=07622502&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D71%2526p%3D2%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+
+   </TD></TR>
+</TABLE>
+</CENTER>
+<TABLE width="100%">
+<TR><TD align="left" width="50%">&nbsp;</TD>
+<TD align="right" valign="bottom" width="50%"><FONT size="-1">( <STRONG>71</STRONG></FONT> <FONT size=-2>of</FONT> <STRONG><FONT size=-1>292</STRONG> )</FONT></TD></TR></TABLE>
+<HR>
+   <TABLE width="100%">
+   <TR>	<TD align="left" width="50%"><b>United States Patent </b></TD>
+   <TD align="right" width="50%"><b>7,622,502</b></TD>
+   </TR>
+     <TR><TD align="left" width="50%"><b>
+         Berthelette
+, &nbsp; et al.</b>
+     </TD>
+     <TD align="right" width="50%"> <b>
+     November 24, 2009
+</b></TD>
+     </TR>
+     </TABLE>
+       <HR>
+       <FONT size="+1">Nitric oxide releasing prodrugs of diaryl-2-(5h)-furanones as
+     cyclooxygenase-2 inhibitors
+</FONT><BR>
+       <BR><CENTER><b>Abstract</b></CENTER>
+       <p> The invention encompasses novel compounds of Formula I, which are nitric
+     oxide-releasing prodrugs of diaryl-2-(5H) furanones useful in the
+     treatment of cyclooxygenase-2 mediated diseases.  ##STR00001##  The
+     invention also encompasses certain pharmaceutical compositions and
+     methods for treating cyclooxygenase-2 mediated diseases comprising the
+     use of compounds of Formula I. The above compounds may be used as a
+     combination therapy with low-dose <B><I>aspirin</I></B> to treat chronic
+     cyclooxygenase-2 mediated diseases or conditions while also reducing the
+     risk of thrombotic cardiovascular events.
+</p>
+       <HR>
+<TABLE width="100%"> <TR> <TH scope="row" valign="top" align="left" width="10%">Inventors:</TH> <TD align="left" width="90%">
+ <B>Berthelette; Carl</B> (Ste-Dorothee Laval, <B>CA</B>)<B>, Li; Lianhai</B> (Montreal, <B>CA</B>)<B>, Beaulieu; Christian</B> (Laval, <B>CA</B>)<B>, Wang; Zhaoyin</B> (Kirkland, <B>CA</B>)<B>, Sturino; Claudio F.</B> (L'ile-Bizard, <B>CA</B>) </TD> </TR>
+<TR> <TH scope="row" valign="top" align="left" width="10%">Assignee:</TH>
+<TD align="left" width="90%">
+
+<B>Merck Frosst Canada & Co.</B>
+ (Kirkland, Province of Quebec, 
+<B>CA</B>)
+<BR>
+
+</TD>
+</TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Family ID:
+       </TD><TD align="left" width="90%">
+       <b>34807265
+</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Appl. No.:
+       </TH><TD align="left" width="90%">
+       <b>10/586,573</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%">Filed:
+       </TH><TD align="left" width="90%">
+       <b>January 25, 2005</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%">PCT Filed:
+       </TH><TD align="left" width="90%"><b>
+       January 25, 2005
+       </b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%">PCT No.:
+       </TH><TD align="left" width="90%"><b>
+       PCT/CA2005/000084
+       </b></TD></TR>
+         <TR><TH scope="row" valign="top" align="left" width="15%">371(c)(1),(2),(4) Date:
+         </TH><TD align="left" width="85%"><b>
+         July 18, 2006
+         </b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>PCT Pub. No.:
+       </TH><TD align="left" width="90%">
+       <b>
+       WO2005/070874
+       </b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>PCT Pub. Date:
+       </TH><TD align="left" width="90%">
+       <b>
+       August 04, 2005
+       </b></TD></TR>
+     </TABLE>
+<HR> <CENTER><b>Prior Publication Data</b></CENTER> <HR> <TABLE width="100%"> <TR><TH scope="col"></TH><TH scope="col"></TH><TD></TD></TR> <TR><TD align="left">
+</TD><TH scope='col' align=center><B><U>Document Identifier</U></B></TH><TH scope='col' align=center><B><U>Publication Date</U></B></TH></TR><TR><TD align=center> </TD><TD align=center> US 20080227758 A1</TD><TD align=center>Sep 18, 2008</TD></TR><TR><TD align=center> 
+</TD>
+</TR> </TABLE>
+<HR> <CENTER><b>Related U.S. Patent Documents</b></CENTER> <HR> <TABLE width="100%"> <TR><TH scope="col" width="7%"></TH><TH scope="col"></TH><TH scope="col"></TH> <TH scope="col"></TH><TH scope="col"></TH><TD></TD></TR> <TR><TD align="left">
+</TD><TH scope='col' align=center><B><U>Application Number</U></B></TH><TH scope='col' align=center><B><U>Filing Date</U></B></TH><TH scope='col' align=center><B><U>Patent Number</U></B></TH><TH scope='col' align=center><B><U>Issue Date</U></B></TH><TD</TD></TR><TR><TD align=center> </TD><TD align=center>60540101</TD><TD align=center>Jan 27, 2004</TD><TD align=center></TD><TD align=center></TD><TD</TD></TR><TR><TD align=center> 
+</TD>
+</TR> </TABLE>     <HR>
+<p> <TABLE width="100%"> <TR><TD valign="top" align="left" width="30%"><b>Current U.S. Class:</b></TD> <TD valign="top" align="right" width="70%"><b>514/509</b>; 560/11; 558/275; 514/533; 514/165 </TD></TR> 
+       <TR><TD valign="top" align="left" width="30%"><b>Current CPC Class: </b></TD>
+       <TD valign="top" align="right" width="70%">C07C 317/46&nbsp(20130101); A61K 45/06&nbsp(20130101); A61P 25/04&nbsp(20180101); A61P 29/00&nbsp(20180101); A61K 31/04&nbsp(20130101); A61P 9/00&nbsp(20180101); A61P 19/02&nbsp(20180101); A61K 31/04&nbsp(20130101); A61K 2300/00&nbsp(20130101)</TD></TR>
+         <TR><TD valign="top" align="left" width="30%"><b>Current International Class: </b></TD>
+         <TD valign="top" align="right" width="70%">A61K 31/60&nbsp(20060101)</TD></TR>
+       <TR><TD valign="top" align="left" width="30%"><b>Field of Search: </b></TD>
+       <TD align="right" valign="top" width="70%">
+       
+
+
+
+ ;514/165,533,509 ;560/11
+       </TD></TR>
+     </TABLE>
+<HR><CENTER><b>References Cited  <A href="/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2Fsearch-adv.htm&r=0&f=S&l=50&d=PALL&Query=ref/7622502">[Referenced By]</A></b></CENTER>       <HR>
+       <CENTER><b>U.S. Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TH scope="col" width="33%"></TH> <TH scope="col" width="33%"></TH> <TH scope="col" width="34%"></TH></TR> <TR> <TD align="left">
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F7169809">7169809</a></TD><TD align =left>
+January 2007</TD><TD align=left>
+Berthelette et al.</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+       <CENTER><b>Foreign Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH></TR> <TR> <TD align="left">
+</TD><TD align=left>WO 95/30641</TD><TD></TD><TD align=left>
+Nov 1995</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 97/28120</TD><TD></TD><TD align=left>
+Aug 1997</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 98/09948</TD><TD></TD><TD align=left>
+Mar 1998</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 01/45703</TD><TD></TD><TD align=left>
+Jun 2001</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 03/084550</TD><TD></TD><TD align=left>
+Oct 2003</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 03/103602</TD><TD></TD><TD align=left>
+Dec 2003</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 2004/002420</TD><TD></TD><TD align=left>
+Jan 2004</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 2004/011421</TD><TD></TD><TD align=left>
+Feb 2004</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 2004/103955</TD><TD></TD><TD align=left>
+Dec 2004</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+       <i>Primary Examiner:</i> Saeed; Kamal A
+<BR>
+       <i>Assistant Examiner:</i> Rodriguez-Garcia; Valerie
+<BR>
+       <i>Attorney, Agent or Firm:</i> <coma><coma>Panzer; Curtis C.
+Camara; Valerie J.
+<BR>
+       <HR>
+       <CENTER><b><i>Parent Case Text</b></i></CENTER>
+       <HR>
+       <BR><BR>CROSS REFERENCE TO RELATED APPLICATIONS
+<BR><BR> This application is a U.S. national phase application under 35.U.S.C.
+     .sctn. 371 of PCT Application No. PCT/CA2005/000084, Jan. 25, 2005, which
+     claims priority under 35 U.S.C. 119 to U.S. No. 60/540,101, filed Jan.
+     27, 2004.
+         <HR>
+<CENTER><b><i>Claims</b></i></CENTER> <HR> <BR><BR>What is claimed is: <BR><BR> 1.  A compound of Formula I ##STR00028## or a pharmaceutically acceptable salt thereof, wherein: n is an integer from 1 to 6;  R.sup.1 is selected from the group consisting
+of: (a) S(O).sub.2CH.sub.3 and (b) S(O).sub.2NH.sub.2, R.sup.2 and R.sup.3 each are independently selected from the group consisting of: (a) hydrogen, (b) halo, (c) C.sub.1-6alkoxy, (d) C.sub.1-6alkylthio, (e) CN, (f) CF.sub.3, (g) C.sub.1-6alkyl, and
+(h) N.sub.3;  R.sup.4 is selected from the group consisting of (a) C.sub.1-4alkyl, optionally substituted with 1 to 3 halo groups, (b) phenyl, naphthyl or a 5- or 6-membered aromatice heterocycle, each optionally substituted with 1 to 3 halo groups, (c)
+--O--R.sup.5, and (b) --(CH.sub.2).sub.m--N(R.sup.6)(R.sup.7);  m is an integer from 1 to 4;  and R.sup.5, R.sup.6 and R.sup.7 are each independently selected from the group consisting of hydrogen and C.sub.1-4alkyl, optionally substituted with 1 to 3
+halo groups.
+<BR><BR> 2.  The compound according to claim 1 wherein R.sup.1 is S(O).sub.2CH.sub.3, and R.sup.2 and R.sup.3 are both hydrogen.
+<BR><BR> 3.  The compound according to claim 1 wherein n is 1, 2 or 3.
+<BR><BR> 4.  The compound according to claim 1 wherein R.sup.4 is C.sub.1-4alkyl.
+<BR><BR> 5.  The compound according to claim 4 wherein R.sup.4 is methyl.
+<BR><BR> 6.  A method of treating an inflammatory disease wherein the disease is selected from the group consisting of osteoarthritis, rheumatoid arthritis and chronic pain comprising administering to a patient in need of such treatment of a non-toxic
+therapeutically effective amount of a compound according to claim 1.
+<BR><BR> 7.  The method according to claim 6 wherein the patient is also at risk of a thrombotic event and the patient is on aspirin therapy to reduce the risk of the event.
+<BR><BR> 8.  The method according to claim 7 wherein the compound is administered orally on a once daily basis.
+<BR><BR> 9.  The method according to claim 7 wherein the compound is administered orally on a twice daily basis.
+<BR><BR> 10.  The method according to claim 7 wherein aspirin is administered at a dose of about 30 mg to about 1 g.
+<BR><BR> 11.  The method according to claim 10 wherein aspirin is administered at a dose of about 80 to about 650 mg.
+<BR><BR> 12.  The method according to claim 11 wherein aspirin is administered at a dose of about 81 mg or about 325 mg.
+<BR><BR> 13.  The method according to claim 7 wherein aspirin is orally administered once daily.
+<BR><BR> 14.  A pharmaceutical composition comprising a compound according to claim 1 and aspirin in combination with a pharmaceutically acceptable carrier.
+<BR><BR> 15.  A pharmaceutical composition comprising a compound according to claim 1 and a pharmaceutically acceptable carrier. <HR> <CENTER><b><i>Description</b></i></CENTER> <HR> <BR><BR>BACKGROUND OF THE INVENTION
+<BR><BR> Selective inhibitors of cyclooxygenase-2 are a sub-class of the class of drugs known as non-steroidal antiinflammatory drugs (NSAIDs).  The NSAIDs are active in reducing the prostaglandin-induced pain and swelling associated with the
+inflammation process but are also active in affecting other prostaglandin-regulated processes not associated with the inflammation process.  Thus, use of high doses of most common NSAIDs can produce severe side effects, including life threatening ulcers,
+that limit their therapeutic potential.  An alternative to NSAIDs is the use of corticosteroids, which have even more drastic side effects, especially when long term therapy is involved.
+<BR><BR> Previous NSAIDs have been found to prevent the production of prostaglandin by inhibiting enzymes in the human arachidonic acid/prostaglandin pathway including the enzyme cyclooxygenase (COX).  The discovery that there are two isoforms of the COX
+enzyme, the first, COX-1, being involved with physiological functions and the second, COX-2, being induced in inflamed tissue, has given rise to a new approach.  While conventional NSAIDs block both forms of the enzyme, the identification of the
+inducible COX-2 enzyme associated with inflammation has provided a viable target of inhibition which more effectively reduces inflammation and produces fewer and less drastic side effects.  Many compounds which have activity as COX-2 inhibitors have been
+identified, including rofecoxib (VIOXX.RTM.), etoricoxib (ARCOXMA.TM.), celecoxib (CELEBREX.RTM.) and valdecoxib (BEXTRA.TM.), and much research continues in this area.
+<BR><BR> Many patients suffering from a chronic cyclooxygenase-2 mediated disease or condition are elderly and thus are at increased risk for thrombotic cardiovascular events, such as stroke, myocardial ischemia, myocardial infarction, angina pectoris,
+transient ischemic attack (TIA; amaurosis fugax), reversible ischemic neurologic deficits, and any similar thrombotic event in any vascular bed (splanchnic, renal, aortic, peripheral, etc.).  Moreover, there is evidence that patients with chronic
+inflammatory conditions, such as rheumatoid arthritis and systemic lupus erythematosis are at increased risk for thrombotic cardiovascular events.  It is desirable that such patients receive appropriate therapy to reduce their risk of such events, such
+as low-dose aspirin therapy.  However, it has been reported that the co-administration of aspirin and a selective COX-2 inhibitor in a rat model resulted in substantially more severe gastric injury than is produced with either agent alone.  See Fiorucci
+et al., Gastroenterology, vol. 123, pp.  1598-1606, 2002.  Thus, the major advantage that COX-2 selective inhibitors have over NSAIDS may be offset by the concomitant use of aspirin.
+<BR><BR> NO-releasing forms of non-steroidal anti-inflammatory drugs are known in the art and are reported to have improved gastrointestinal and cardiovascular safety profiles over their conventional NSAID counterparts.  Furthermore, NO-releasing forms
+of selective cyclooxygenase-2 selective inhibitors are disclosed in WO 01/45703, published on Jun.  28, 2001.
+<BR><BR> The present invention provides for novel nitrosated prodrugs for cyclooxygenase-2 selective inhibitors that are useful for treating cyclooxygenase-2 mediated diseases or conditions and can be administered alone or in combination with low-dose
+aspirin.  The invention provides efficacy in treating chronic cyclooxygenase-2 mediated diseases or conditions, effectively reduces the risk of thrombotic cardiovascular events and potentially renal side effects and at the same time reduces the risk of
+GI ulceration or bleeding.
+<BR><BR>SUMMARY OF THE INVENTION
+<BR><BR> The invention encompasses novel compounds of Formula I, which are nitric oxide-releasing prodrugs of diaryl-2-(5H) furanones useful in the treatment of cyclooxygenase-2 mediated diseases:
+<BR><BR> ##STR00002## The invention also encompasses certain pharmaceutical compositions and methods for treating cyclooxygenase-2 mediated diseases comprising the use of compounds of Formula I. The above compounds may be used as a combination therapy
+with low-dose aspirin to treat chronic cyclooxygenase-2 mediated diseases or conditions while also reducing the risk of thrombotic cardiovascular events. <BR><BR>DETAILED DESCRIPTION OF THE INVENTION
+<BR><BR> The invention encompasses novel compounds of Formula I as prodrugs that convert in vivo to diaryl-2-(5H)-furanones and useful in the treatment of cyclooxygenase-2 mediated diseases:
+<BR><BR> ##STR00003## or a pharmaceutically acceptable salt thereof, wherein: n is an integer from 1 to 6; R.sup.1 is selected from the group consisting of: (a) S(O).sub.2CH.sub.3 and (b) S(O).sub.2NH.sub.2, R.sup.2 and R.sup.3 each are independently
+selected from the group consisting of: (a) hydrogen, (b) halo, (c) C.sub.1-6alkoxy, (d) C.sub.1-6alkylthio, (e) CN, (f) CF.sub.3, (g) C.sub.1-6alkyl, and (h) N.sub.3; R.sup.4 is selected from the group consisting of (a) C.sub.1-4alkyl, optionally
+substituted with 1 to 3 halo groups, (b) phenyl, naphthyl or a 5- or 6-membered aromatic heterocycle, each optionally substituted with 1 to 3 halo groups, (c) --O--R.sup.5, and (b) --(CH.sub.2).sub.m--N(R.sup.6)(R.sup.7); m is an integer from 1 to 4; and
+R.sup.5, R.sup.6 and R.sup.7 are each independently selected from the group consisting of hydrogen and C.sub.1-4alkyl, optionally substituted with 1 to 3 halo groups.
+<BR><BR> A embodiment of the invention encompasses a compound of Formula I wherein R.sup.1 is S(O).sub.2CH.sub.3, and R.sup.2 and R.sup.3 are both hydrogen.
+<BR><BR> Another embodiment of the invention encompasses a compound of Formula I wherein n is 1, 2 or 3.
+<BR><BR> Another embodiment of the invention encompasses a compound of Formula I wherein R.sup.4 is C.sub.1-4alkyl.
+<BR><BR> Another embodiment of the invention encompasses a compound of Formula I wherein R.sup.4 is methyl.
+<BR><BR> The invention also encompasses a pharmaceutical composition comprising a compound of Formula I and a pharmaceutically acceptable carrier.
+<BR><BR> The invention also encompasses a method of treating an inflammatory disease susceptible to treatment with a non-steroidal anti-inflammatory agent comprising administering to a patient in need of such treatment of a non-toxic therapeutically
+effective amount of a compound of Formula I. Within this embodiment is encompassed the above method wherein the patient is also at risk of a thrombotic cardiovascular event and the patient is on aspirin therapy to reduce the risk of the cardiovascular
+event.
+<BR><BR> Another embodiment of the invention encompasses a method of treating cyclooxygenase mediated diseases advantageously treated by an active agent that selectively inhibits COX-2 in preference to COX-1 comprising administering to a patient in need
+of such treatment of a non-toxic therapeutically effective amount of a compound of Formula I. Within this embodiment is encompassed the above method wherein the patient is also at risk of a thrombotic cardiovascular event and the patient is on aspirin
+therapy to reduce the risk of the cardiovascular event.
+<BR><BR> Another embodiment of the invention encompasses a method for treating a chronic cyclooxygenase-2 mediated disease or condition and reducing the risk of a thrombotic cardiovascular event in a human patient in need of such treatment and at risk of
+a thrombotic cardiovascular event comprising orally concomitantly or sequentially administering to said patient a compound of Formula I in an amount effective to treat the cyclooxygenase-2 mediated disease or condition and aspirin in an amount effective
+to reduce the risk of the thrombotic cardiovascular event.  Within this embodiment is encompassed the above method wherein the compound of Formula I is administered orally on a once daily basis.  Within this embodiment is encompassed the above method
+wherein the compound of Formula I is administered orally on a twice daily basis.  Within this embodiment is encompassed the above method wherein the cyclooxygenase-2 selective mediated disease or condition is selected from the group consisting of:
+osteoarthritis, rheumatoid arthritis and chronic pain.  Within this embodiment is encompassed the above method wherein aspirin is administered at a dose of about 30 mg to about 1 g. Within this embodiment is encompassed the above method wherein aspirin
+is administered at a dose of about 80 to about 650 mg.  Within this embodiment is encompassed the above method wherein aspirin is administered at a dose of about 81 mg or about 325 mg.  Within this embodiment is encompassed the above method wherein
+aspirin is orally administered once daily.
+<BR><BR> The invention also encompasses a pharmaceutical composition comprising a compound of Formula I and aspirin in combination with a pharmaceutically acceptable carrier.
+<BR><BR> The term "halogen" or "halo" includes F, Cl, Br, and I.
+<BR><BR> The term "alkyl" means linear or branched structures and combinations thereof, having the indicated number of carbon atoms.  Thus, for example, C.sub.1-6alkyl includes methyl, ethyl, propyl, 2-propyl, s- and t-butyl, butyl, pentyl, hexyl,
+1,1-dimethylethyl, cyclopropyl, cyclobutyl, cyclopentyl and cyclohexyl.
+<BR><BR> The term "alkoxy" means alkoxy groups of a straight or branched configuration having the indicated number of carbon atoms.  C.sub.1-6alkoxy, for example, includes methoxy, ethoxy, propoxy, isopropoxy, and the like.
+<BR><BR> The term "alkylthio" means alkylthio groups having the indicated number of carbon atoms of a straight or branched configuration.  C.sub.1-6alkylthio, for example, includes methylthio, propylthio, isopropylthio, and the like.
+<BR><BR> The term "5- or 6-membered aromatic heterocycle" means for example, pyrrole, furan, thiophene, imidazole, pyrazole, oxazole, isoxazole, thiazole, isothiazole, triazole, oxadiazole, thiadiazole, tetrazole, pyridine, pyridine, pyrazine, pyridazine
+and triazine.
+<BR><BR> Some of the compounds described herein contain olefinic double bonds, and unless specified otherwise, are meant to include both E and Z geometric isomers.  Compounds of Formula I may contain one or more asymmetric centers and can thus occur as
+racemates and racemic mixtures, single enantiomers, diastereomeric mixtures and individual diastereomers.  The present invention is meant to comprehend all such isomeric forms of the compounds of Formula I.
+<BR><BR> The term "treating a chronic cylcooxygenase-2 mediated disease or condition" means treating or preventing any chronic disease or condition that is advantageously treated or prevented by inhibiting the cyclooxygenase-2 enzyme.  The term includes
+the relief of pain, fever and inflammation of a variety of conditions including rheumatic fever, symptoms associated with influenza or other viral infections, common cold, low back and neck pain, dysmenorrhea, headache, migraine (acute and prophylactice
+treatment), toothache, sprains and strains, myositis, neuralgia, synovitis, arthritis, including rheumatoid arthritis, degenerative joint diseases (osteoarthritis), gout and ankylosing spondylitis, acute, subacute and chronic musculoskeletal pain
+syndromes such as bursitis, burns, injuries, and pain following surgical and dental procedures as well as the preemptive treatment of surgical pain.  In addition, the term includes the inhibition cellular neoplastic transformations and metastic tumor
+growth and hence the treatment of cancer.  The term also includes the treatment of endometriosis and Parkinson's disease as well as the treatment of cyclooxygenase-mediated proliferative disorders such as may occur in diabetic retinopathy and tumor
+angiogenesis.  The term "treating" encompasses not only treating a patient to relieve the patient of the signs and symptoms of the disease or condition but also prophylactically treating an asymptomatic patient to prevent the onset or progression of the
+disease or condition.
+<BR><BR> A "thrombotic cardiovascular event" is defined as any sudden event of a type known to be caused by platelet aggregation, thrombosis, and subsequent ischemic clinical events, including thrombotic or thromboembolic stroke, myocardial ischemia,
+myocardial infarction, angina pectoris, transient ischemic attack (TIA; amaurosis fugax), reversible ischemic neurologic deficits, and any similar thrombotic event in any vascular bed (splanchnic, renal, aortic, peripheral, etc.).
+<BR><BR> The term "patient in need of such treatment and at risk of a thrombotic cardiovascular event" means a patient in need of both treatment for a cyclooxygenase-2 mediated disease and also at risk of a thrombotic cardiovascular event.  One skilled
+in the art can diagnose a patient that is in need of treatment for a cyclooxygenase-2 mediated disease or condition and also at risk of suffering a thrombotic cardiovascular event.  For example, such a patient may be over the age of 50 with
+osteoarthritis and with a previous myocardial infarction.  Other risk factors for a thrombotic cardiovascular event include hypertension, hypercholesterolemia; diabetes mellitus, chronic renal impairment, smoking, and any prior personal or family history
+of such an event.  Administration of the drug combination to the patient includes both self-administration and administration to the patient by another person.
+<BR><BR> The term "amounts that are effective to treat" is intended to mean that amount of a drug or pharmaceutical agent that will elicit the biological or medical response of a tissue, a system, animal or human that is being sought by a researcher,
+veterinarian, medical doctor or other clinician.  The term also encompasses the amount of a pharmaceutical drug that will prevent or reduce the risk of occurrence of the biological or medical event that is sought to be prevented in a tissue, a system,
+animal or human by a researcher, veterinarian, medical doctor or other clinician.  The inhibitor of cyclooxygenase-2 may be administered at a dosage level up to conventional dosage levels for NSAIDs.  Suitable dosage levels of the compound of Formula I
+used in the present invention are described below.  The compound may be administered on a regimen of once or twice per day.
+<BR><BR> The term "amount effective to reduce the risk of" means the amount of a pharmaceutical drug that will prevent or reduce the risk of occurrence of the biological or medical event that is sought to be prevented in a tissue, a system, animal or
+human by a researcher, veterinarian, medical doctor or other clinician.  Aspirin is administered at a dose of about 30 mg to about 1 g once daily, preferably at a dose of about 80 mg to about 650 mg.
+<BR><BR> The term "concomitantly administering" means administering the agents substantially concurrently.  The term "concomitantly administering" encompasses not only administering the two agents in a single pharmaceutical dosage form but also the
+administration of each active agent in its own separate pharmaceutical dosage formulation.  Where separate dosage formulations are used, the agents can be administered at essentially the same time, i.e., concurrently.
+<BR><BR> The term "sequentially administering" means administering the agents at separately staggered times.  Thus, agents can be sequentially administered such that the beneficial pharmaceutical effect of aspirin and a compound of the present invention
+are realized by the patient at substantially the same time.  Thus, for example, if a compound of the present invention and aspirin are both administered on a once a day basis, the interval of separation between sequential administration of the two agents
+can be up to twelve hours apart.
+<BR><BR> The pharmaceutical compositions of the present invention comprise a compound of Formula I as an active ingredient or a pharmaceutically acceptable salt, thereof, and may also contain a pharmaceutically acceptable carrier and optionally other
+therapeutic ingredients.  The term "pharmaceutically acceptable salts" include salts prepared from bases that result in non-toxic pharmaceutically acceptable salts, including inorganic bases and organic bases.  Salts derived from inorganic bases include
+aluminum, ammonium, calcium, copper, ferric, ferrous, lithium, magnesium, manganic salts, manganous, potassium, sodium, zinc, and the like.  Particularly preferred are the ammonium, calcium, magnesium, potassium, and sodium salts.  Salts derived from
+pharmaceutically acceptable organic non-toxic bases include salts of primary, secondary, and tertiary amines, substituted amines including naturally occurring substituted amines, cyclic amines, and basic ion exchange resins, such as arginine, betaine,
+caffeine, choline, N,N-dibenzylethylenediamine, diethylamine, 2-diethylaminoethanol, 2-dimethylaminoethanol, ethanolamine, ethylenediamine, N-ethylmorpholine, N-ethylpiperidine, glucamine, glucosamine, histidine, hydrabamine, isopropylamine, lysine,
+methylglucamine, morpholine, piperazine, piperidine, polyamine resins, procaine, purines, theobromine, triethylamine, trimethylamine, tripropylamine, tromethamine, and the like.
+<BR><BR> When the compound of the present invention is basic, salts may be prepared from acids that result in pharmaceutically acceptable salts, including inorganic and organic acids.  Such acids include acetic, adipic, aspartic,
+1,5-naphthalenedisulfonic, benzenesulfonic, benzoic, camphorsulfonic, citric, 1,2-ethanedisulfonic, ethanesulfonic, ethylenediaminetetraacetic, fumaric, glucoheptonic, gluconic, glutamic, hydriodic, hydrobromic, hydrochloric, isethionic, lactic, maleic,
+malic, mandelic, methanesulfonic, mucic, 2-naphthalenesulfonic, nitric, oxalic, pamoic, pantothenic, phosphoric, pivalic, propionic, salicylic, stearic, succinic, sulfuric, tartaric, p-toluenesulfonic acid, undecanoic, 10-undecenoic, and the like.
+<BR><BR> The compounds of Formula I are prodrugs of cyclooxygenase-2 selective inhibitors which covert in vivo to diaryl-2-(5H)-furanones.  The compounds also liberate nitric oxide in vivo, which is believed to contribute to an improved gastrointestinal
+and potentially renal safety profile.  As such, the compounds of the present invention may be co-dosed with low-dose aspirin to treat chronic cyclooxygenase-2 mediated diseases or conditions, effectively reduce the risk of thrombotic cardiovascular
+events and potentially renal side effects and at the same time reduce the risk of GI ulceration or bleeding.  Thus, patients with hypertension and cardiovascular disease, as well as potentially patients with renal insufficiency, would actively benefit
+from being administered compounds of the present invention over NSAIDs and cyclooxygenase-2 selective inhibitors currently available.
+<BR><BR> By virtue of the cyclooxygenase-2 activity of the active moiety of the prodrugs of the present invention, the compounds of Formula I are therefore useful for the relief of pain, fever and inflammation of a variety of conditions including
+rheumatic fever, symptoms associated with influenza or other viral infections, common cold, low back and neck pain, dysmenorrhea, headache, migraine (acute and prophylactics treatment), toothache, sprains and strains, myositis, neuralgia, synovitis,
+arthritis, including rheumatoid arthritis, degenerative joint diseases (osteoarthritis), gout and ankylosing spondylitis, acute, subacute and chronic musculoskeletal pain syndromes such as bursitis, burns, injuries, and pain following surgical and dental
+procedures as well as the preemptive treatment of surgical pain.  In addition, such a compound may inhibit cellular neoplastic transformations and metastic tumor growth and hence can be used in the treatment of cancer.  Compounds of Formula I may also be
+useful for the treatment or prevention of endometriosis, and Parkinson's disease.
+<BR><BR> Compounds of Formula I will also inhibit prostanoid-induced smooth muscle contraction by preventing the synthesis of contractile prostanoids and hence may be of use in the treatment of dysmenorrhea, premature labor and asthma.
+<BR><BR> By virtue of the high cyclooxygenase-2 (COX-2) activity and/or the selectivity for cyclooxygenase-2 over cyclooxygenase-1 (COX-1) of the active moiety of the prodrugs of the invention as defined above, compounds of Formula I will prove useful as
+an alternative to conventional non-steroidal antiinflammatory drugs (NSAID'S) particularly where such non-steroidal antiinflammatory drugs may be contra-indicated such as in patients with peptic ulcers, gastritis, regional enteritis, ulcerative colitis,
+diverticulitis or with a recurrent-history of gastrointestinal lesions; GI bleeding, coagulation disorders including anemia such as hypoprothrombinemia, haemophilia or other bleeding problems (including those relating to reduced or impaired platelet
+function); kidney disease (e.g. impaired renal function); those prior to surgery or taking anticoagulants; and those susceptible to NSAID induced asthma.
+<BR><BR> Similarly, compounds of Formula I will be useful as a partial or complete substitute for conventional NSAIDs in preparations wherein they are presently co-administered with other agents or ingredients.  Thus in further aspects, the invention
+encompasses pharmaceutical compositions for treating cyclooxygenase-2 mediated diseases as defined above comprising a non-toxic therapeutically effective amount of the compound of Formula I as defined above and one or more ingredients such as another
+pain reliever including acetominophen or phenacetin; opioid analgesics, such as codeine, fentanyl, hydromorphone, levorphanol, meperidine, methadone, morphine, oxycodone, oxymorphine, propoxyphene, buprenorphine, butorphanol, dezocine, nalbuphine and
+pentazocine; a potentiator including caffeine; an H2-antagonist; aluminum or magnesium hydroxide; simethicone; a decongestant including phenylephrine, phenylpropanolamine, pseudophedrine, oxymetazoline, ephinephrine, naphazoline, xylometazoline,
+propylhexedrine, or levo-desoxyephedrine; an antitussive including codeine, hydrocodone, caramiphen, carbetapentane, or dextramethorphan; a diuretic; a sedating or non-sedating antihistamine; and a proton pump inhibitor, such as omeprazole.  For the
+treatment or prevention of migraine, the invention also encompasses co-administration with a 5-HT agonist such as rizatriptan, sumatriptan, zolmitriptan and naratriptan.  In addition the invention encompasses a method of treating cyclooxygenase mediated
+diseases comprising: administration to a patient in need of such treatment a non-toxic therapeutically effect amount of the compound of Formula I, optionally co-administered with one or more of such ingredients as listed immediately above.
+<BR><BR> Compounds of the present invention are prodrugs of inhibitors of cyclooxygenase-2 and are thereby useful in the treatment of cyclooxygenase-2 mediated diseases as enumerated above.  This activity is illustrated by their ability to selectively
+inhibit cyclooxygenase-2 over cyclooxygenase-1.  Accordingly, the ability of the compounds of this invention to convert to the active compound and thus treat cyclooxygenase mediated diseases can be demonstrated by measuring the amount of prostaglandin
+E.sub.2 (PGE.sub.2) synthesized in the presence of arachidonic acid, cyclooxygenase-1 or cyclooxygenase-2 and a compound of Formula I as illustrated in the assays that follow.  The IC.sub.50 values represent the concentration of inhibitor required to
+return PGE.sub.2 synthesis to 50% of that obtained as compared to the uninhibited control.  For the treatment of any of these cyclooxygenase mediated diseases, compounds of Formula I may be administered orally, topically, parenterally, by inhalation
+spray or rectally in dosage unit formulations containing conventional non-toxic pharmaceutically acceptable carriers, adjuvants and vehicles.  Compounds of the invention may be administered via the buccal or sublingual mucosa in the oral cavity.  The
+term parenteral as used herein includes subcutaneous injections, intravenous, intramuscular, intrasternal injection or infusion techniques.  Compounds of the invention may also be administered through the nasal, pulmonary (inhalation aerosol) or ocular
+route.  In addition to the treatment of warm-blooded animals such as mice, rats, horses, cattle, sheep, dogs, cats, etc., the compound of the invention is effective in the treatment of humans.
+<BR><BR> As indicated above, pharmaceutical compositions for treating cyclooxygenase-2 mediated diseases as defined may optionally include one or more ingredients as listed above.
+<BR><BR> The pharmaceutical compositions containing the active ingredient may be in a form suitable for oral use, for example, as tablets, troches, lozenges, aqueous or oily suspensions, dispersible powders or granules, emulsions, hard or soft capsules,
+or syrups or elixirs.  Compositions intended for oral use may be prepared according to any method known to the art for the manufacture of pharmaceutical compositions and such compositions may contain one or more agents selected from the group consisting
+of sweetening agents, flavoring agents, coloring agents and preserving agents in order to provide pharmaceutically elegant and palatable preparations.  Tablets contain the active ingredient in admixture with non-toxic pharmaceutically acceptable
+excipients which are suitable for the manufacture of tablets.  These excipients may be for example, inert diluents, such as calcium carbonate, sodium carbonate, lactose, calcium phosphate or sodium phosphate; granulating and disintegrating agents, for
+example, corn starch, or alginic acid; binding agents, for example starch, gelatin or acacia, and lubricating agents, for example, magnesium stearate, stearic acid or talc.  The tablets may be uncoated or they may be coated by known techniques to delay
+disintegration and absorption in the gastrointestinal tract and thereby provide a sustained action over a longer period.  For example, a time delay material such as glyceryl monostearate or glyceryl distearate may be employed.  They may also be coated by
+the technique described in the U.S.  Pat.  Nos.  4,256,108; 4,166,452; and 4,265,874 to form osmotic therapeutic tablets for control release.
+<BR><BR> Formulations for oral use may also be presented as hard gelatin capsules wherein the active ingredient is mixed with an inert solid diluent, for example, calcium carbonate, calcium phosphate or kaolin, or as soft gelatin capsules wherein the
+active ingredients is mixed with water or an oil medium, for example peanut oil, liquid paraffin, or olive oil.
+<BR><BR> Aqueous suspensions contain the active material in admixture with excipients suitable for the manufacture of aqueous suspensions.  Such excipients are suspending agents, for example sodium carboxymethyl-cellulose, methyl cellulose,
+hydroxypropylmethyl-cellulose, sodium alginate, polyvinyl-pyrrolidone, gum tragacanth and gum acacia; dispersing or wetting agents may be a naturally-occurring phosphatide, for example lecithin, or condensation products of an alkylene oxide with fatty
+acids, for example polyoxyethylene stearate, or condensation products of ethylene oxide with long chain aliphatic alcohols, for example heptadecaethylene-oxycetanol, or condensation products of ethylene oxide with partial esters derived from fatty acids
+and a hexitol such as polyoxyethylene sorbitol monooleate, or condensation products of ethylene oxide with partial esters derived from fatty acids and hexitol anhydrides, for example polyethylene sorbitan monooleate.  The aqueous suspensions may also
+contain one or more preservatives, for example ethyl, or n-propyl, p-hydroxybenzoate, one or more coloring agents, one or more flavoring agents, and one or more sweetening agents, such as sucrose, saccharin or aspartame.
+<BR><BR> Liquid formulations include the use of self-emulsifying drug delivery systems and NanoCrystal.RTM.  technology.  Cyclodextrin inclusion complexes can also be utilized.
+<BR><BR> Oily suspensions may be formulated by suspending the active ingredient in a vegetable oil, for example arachis oil, olive oil, sesame oil or coconut oil, or in mineral oil such as liquid paraffin.  The oily suspensions may contain a thickening
+agent, for example beeswax, hard paraffin or cetyl alcohol.  Sweetening agents such as those set forth above, and flavoring agents may be added to provide a palatable oral preparation.  These compositions may be preserved by the addition of an
+anti-oxidant such as ascorbic acid.
+<BR><BR> Dispersible powders and granules suitable for preparation of an aqueous suspension by the addition of water provide the active ingredient in admixture with a dispersing or wetting agent, suspending agent and one or more preservatives.  Suitable
+dispersing or wetting agents and suspending agents are exemplified by those already mentioned above.  Additional excipients, for example sweetening, flavoring and coloring agents, may also be present.
+<BR><BR> The pharmaceutical compositions of the invention may also be in the form of an oil-in-water emulsions.  The oily phase may be a vegetable oil, for example olive oil or arachis oil, or a mineral oil, for example liquid paraffin or mixtures of
+these.  Suitable emulsifying agents may be naturally-occurring phosphatides, for example soy bean, lecithin, and esters or partial esters derived from fatty acids and hexitol anhydrides, for example sorbitan monooleate, and condensation products of the
+said partial esters with ethylene oxide, for example polyoxyethylene sorbitan monooleate.  The emulsions may also contain sweetening and flavouring agents.
+<BR><BR> Syrups and elixirs may be formulated with sweetening agents, for example glycerol, propylene glycol, sorbitol or sucrose.  Such formulations may also contain a demulcent, a preservative and flavoring and coloring agents.  The pharmaceutical
+compositions may be in the form of a sterile injectable aqueous or oleagenous suspension.  This suspension may be formulated according to the known art using those suitable dispersing or wetting agents and suspending agents which have been mentioned
+above.  The sterile injectable preparation may also be a sterile injectable solution or suspension in a non-toxic parenterally-acceptable diluent or solvent, for example as a solution in 1,3-butane diol.  Among the acceptable vehicles and solvents that
+may be employed are water, Ringer's solution and isotonic sodium chloride solution.  In addition, sterile, fixed oils are conventionally employed as a solvent or suspending medium.  For this purpose any bland fixed oil may be employed including synthetic
+mono- or diglycerides.  In addition, fatty acids such as oleic acid find use in the preparation of injectables.
+<BR><BR> Compounds of Formula I may also be administered in the form of suppositories for rectal administration of the drug.  These compositions can be prepared by mixing the drug with a suitable non-irritating excipient which is solid at ordinary
+temperatures but liquid at the rectal temperature and will therefore melt in the rectum to release the drug.  Such materials are cocoa butter and polyethylene glycols.
+<BR><BR> For topical use, creams, ointments, jellies, solutions or suspensions, etc., containing the compound of Formula I are employed.  (For purposes of this application, topical application shall include mouth washes and gargles.)
+<BR><BR> Pharmaceutical compositions of the invention may also utilize absorption enhancers such as tween 80, tween 20, Vitamin E TPGS (d-alpha-tocopheryl polyethylene glycol 1000 succinate) and Gelucire.RTM..
+<BR><BR> Dosage levels of the order of from about 0.01 mg to about 140 mg/kg of body weight per day are useful in the treatment of the above-indicated conditions, or alternatively about 0.5 mg to about 7 g per patient per day.  For example, inflammation
+may be effectively treated by the administration of from about 0.01 to 50 mg of the compound per kilogram of body weight per day, or alternatively about 0.5 mg to about 3.5 g per patient per day, preferably 2.5 mg to 1 g per patient per day.
+<BR><BR> The amount of active ingredient that may be combined with the carrier materials to produce a single dosage form will vary depending upon the host treated and the particular mode of administration.  For example, a formulation intended for the
+oral administration of humans may contain from 0.5 mg to 5 g of active agent compounded with an appropriate and convenient amount of carrier material which may vary from about 5 to about 95 percent of the total composition.  Dosage unit forms will
+generally contain between from about 1 mg to about 500 mg of an active ingredient, typically 25 mg, 50 mg, 100 mg, 200 mg, 300 mg, 400 mg, 500 mg, 600 mg, 800 mg, or 1000 mg.
+<BR><BR> It will be understood, however, that the specific dose level for any particular patient will depend upon a variety of factors including the age, body weight, general health, sex, diet, time of administration, route of administration, rate of
+excretion, drug combination and the severity of the particular disease undergoing therapy.
+<BR><BR> Methods of Synthesis
+<BR><BR> Stilbene derivatives useful as cyclooxygenase-2 selective inhibitors are disclosed in U.S.  Pat.  No. 5,849,943, which is hereby incorporate by reference in its entirety.
+<BR><BR> Diaryl-2-(5H)-furanones useful as COX-2 inhibitors are known in the art and disclosed in U.S.  Pat.  No. 5,474,995, which is hereby incorporated by reference in its entirety.  Methods for making diaryl-2-(5H)-furanones useful as COX-2 inhibitors
+are disclosed in U.S.  Pat.  No. 5,840,924, which is hereby incorporated by reference in its entirety.  Rofecoxib, sold under the tradename VIOXX, is known in the art and commercially available.
+<BR><BR> Compounds of the invention can be synthesized according to the following synthetic scheme:
+<BR><BR> ##STR00004## Abbreviations used in Scheme 1 D.M.=Dess-Martin reagent HF.pyr=hydrogen fluoride pyridine (70/30) Assays for Determining Biological Activity
+<BR><BR> The compound of Formula I can be tested using the following assays to determine their biological activity.
+<BR><BR> Inhibition of Cyclooxygenase Activity
+<BR><BR> Compounds are tested as inhibitors of cyclooxygenase activity in whole cell and microsomal cyclooxygenase assays.  Both of these assays measure prostaglandin E.sub.2 (PGE.sub.2) synthesis in response to arachidonic acid, using a
+radioimmunoassay.  Cells used for whole cell assays, and from which microsomes are prepared for microsomal assays, are human osteosarcoma 143 cells (which specifically express cyclooxygenase-2) and human U-937 cells (which specifically express
+cyclooxygenase-1).  In these assays, 100% activity is defined as the difference between prostaglandin E.sub.2 synthesis in the absence and presence of arachidonate addition.  IC.sub.50 values represent the concentration of putative inhibitor required to
+return PGE.sub.2 synthesis to 50% of that obtained as compared to the uninhibited control.
+<BR><BR> A. Microsomal Cyclooxygenase Assay
+<BR><BR> Cox microsomal fractions are prepared as previously described (Percival et al., Arch.  Biochem.  Biophys.  (1994) 315:111-118).  The enzyme reactions are performed in 50 mM KPi pH 8.0, 1 .mu.M heme, 1 mM phenol supplemented with 10 .mu.g/ml of
+each Cox-1 or Cox-2 microsomal fractions.  1 .mu.l DMSO or test compound (100 fold stock concentrated in DMSO) are added to 100 .mu.l buffer.  The enzyme reaction is initiated 15 minutes later by the addition of 10 .mu.l of 100 .mu.M arachidonic acid. 
+The enzyme reaction is allowed to proceed for 5 minutes at room temperature before being stopped by the addition of 10 .mu.l 1 N HCl.  PGE.sub.2 levels are then determined by EIA (Assay Designs) using the manufacturer's instruction.
+<BR><BR> This assay may be used to demonstrate that the unconverted prodrugs of the instant invention are inactive against both COX-1 and COX-2.
+<BR><BR> B. Human Whole Blood Cyclooxygenase Assay
+<BR><BR> Rationale
+<BR><BR> Whole blood provides a protein and cell-rich milieu for the study of biochemical efficacy of anti-inflammatory compounds such as COX-2 inhibitors and NSAIDs.  To study the inhibitory activities of these compounds on the two isoforms of
+cyclooxygenase (COX-1 and COX-2), human blood is either stimulated with lipopolysaccharide (LPS) for 24 hours to induce COX-2 or the blood is allowed to clot spontaneously to activate COX-1.  The production of prostaglandin E.sub.2 (PGE.sub.2) and
+thromboxane B.sub.2 (TXB.sub.2) are measured by immunoassay at the end of the incubation as readouts of COX-2 and COX-1 activity, respectively.
+<BR><BR> Methods
+<BR><BR> Human whole blood assays for COX-1 and COX-2 activity, previously reported (Brideau et al, 1996) are performed as described below.
+<BR><BR> 1.  COX-2 (LPS-Induced PGE.sub.2 Production):
+<BR><BR> Fresh blood is collected in heparinized tubes by venipuncture from healthy male volunteers.  These subjects have no apparent inflammatory conditions and have not taken any NSAIDs for at least 7 days prior to blood collection.  The blood is
+initially pre-incubated with bacterial lipopolysaccharide (LPS) at 100 g/1 ml (Sigma Chem, #L-2630 from E. coli, serotype 0111:B4; diluted in 0.1% w/v bovine serine albumin in phosphate buffered saline).  Five minutes later, 500 .mu.L aliquots of the
+LPS-treated blood aree incubated with 2 .mu.L vehicle (DMSO) or 2 .mu.L of test compounds in DMSO for 24 hr at 37.degree.  C. (for induction of COX-2).  Unstimulated control blood at time zero (no LPS) is used as blank.  At the end of the 24 hr
+incubation, the blood is centrifuged at 3,000 rpms for 10 min at 40.degree.  C. to obtain plasma.  The plasma is assayed for PGE.sub.2 using an enzyme immunoassay kit (Assay Designs, 901-001) according to the manufacturer's instructions.
+<BR><BR> 2.  COX-1 (Clotting-Induced TXB2 Production):
+<BR><BR> Fresh blood from male or female volunteers is collected into vacutainers containing no anticoagulants.  These subjects have no apparent inflammatory conditions and have not taken any NSAIDs for at least 7 days prior to blood collection. 
+Aliquots of 500 L are immediately transferred to polypropylene tubes preloaded with 2 .mu.L of DMSO or 2 .mu.L of test compounds.  The tubes are vortexed and incubated at 37.degree.  C. for 1 h to allow the blood to clot.  At the end of the incubation,
+serum is obtained by centrifugation (3,000 rpm for 10 min at 40.degree.  C.).  The serum is obtained and is assayed for TXB.sub.2 using an enzyme immunoassay kit (Assay Designs, 901-002) according to the manufacturer's instructions.
+<BR><BR> Representative Rat Paw Edema Assay--Protocol
+<BR><BR> Rationale
+<BR><BR> The carrageenan-induced rat paw edema assay is an established assay for evaluating the efficacy of conventional, non-selective NSAIDs in acute inflammation (Winter and Flataker, 1965; Mukheijee et al., 1996; Vinegar et al., 1987).
+<BR><BR> Methods
+<BR><BR> Male Sprague-Dawley rats (200-250 g) are fasted for 16-18 h prior to oral administration of either the vehicle (0.5% methocel) or test compound.  One hour later, a line was drawn using a permanent marker at a level above the ankle in one hind
+paw to define the area of the paw to be monitored.  The paw volume (V.sub.0) is measured using a plethysmometer (Ugo-Basile, Italy) based on the Archimedes principle of water displacement.  The rats are then injected subplantarly with 0.05 mL of a 1%
+carrageenan (Sigma Chem.) solution in saline using a syringe with a 27-gauge needle (i.e. 500 .mu.g carrageenan per paw).  Three hours later, the paw volume (V.sub.3) is measured again and the increases in paw volume (V.sub.3-V.sub.0) is calculated.  Paw
+edema is compared with the vehicle-control group and the percent inhibition calculated taking the values in the control group as 0%.
+<BR><BR> NSAID-Induced Gastropathy in Rats
+<BR><BR> Rationale
+<BR><BR> The major side effect of conventional NSAIDs is their ability to produce gastric lesions in man.  Rats are sensitive to the actions of NSAIDs and have been used commonly in the past to evaluate the gastrointestinal side effects of current
+conventional NSAIDs.  In the present assay, NSAID-induced gastrointestinal damage is observed by measuring urinary .sup.51Cr excretion after oral dosing of 5.sup.1Cr-EDTA.  Urinary 5.sup.1Cr excretion is a well-established and sensitive technique to
+detect gastrointestinal integrity in animals and man.
+<BR><BR> Methods
+<BR><BR> Male Sprague-Dawley rats (150-200 g) are administered orally a test compound either once (acute dosing) or in multiple doses for a few days (chronic dosing).  Immediately after the administration of the last dose, the rats are given an oral dose
+of .sup.51Cr-EDTA (10 .mu.Ci/rat).  The animals are placed individually in metabolism cages with food and water ad lib.  Urine is collected for a 24 hr period and .sup.51Cr urinary excretion is calculated as a percent of total ingested dose.
+<BR><BR> Protein-Losing Gastrophathy in Squirrel Monkeys
+<BR><BR> Rationale
+<BR><BR> Protein-losing gastropathy (manifested as appearance of circulating cells and plasma proteins in the GI tract) is a significant and dose-limiting adverse response to NSAIDs.  This can be quantitatively assessed by intravenous administration or
+.sup.51CrCl.sub.3 solution.  This isotopic ion can avidly bind to cell and serum globins and cell endoplasmic reticulum.  Measurement of radioactivity appearing in feces collected for 24 hr after administration of the isotope thus provides a sensitive
+and quantitative index of protein-losing gastropathy.
+<BR><BR> Methods
+<BR><BR> Groups of male squirrel monkeys (0.8 to 1.4 kg) are treated by gavage with 1% methocel or a test compounds at multiple doses for a few days.  Intravenous .sup.51Cr (5 .mu.Ci/kg in 1 ml/kg PBS) is administered 1 hr after the last drug/vehicle
+dose, and feces collected for 24 hr in a metabolism cage and assessed for excreted .sup.51Cr by gamma-counting.  .sup.51Cr fecal excretion is calculated as a percent of total injected dose.
+<BR><BR> Rat Aortic Smooth Muscle Rings in Male Spargue-Dawley Rats
+<BR><BR> Preparation of Rat Aortic Smooth Muscle Rings Male Sprague-Dawley Rats (Charles River Laboratories (Wilmington, Mass.) are euthanized by intraperiton injection of a high dose of sodium pentobarbitone (80-100 mg/kg).  The thoracic aorta is
+rapidly excised and immediately placed in a Petri dish containing warm (37.degree.  C.) oxygenated (95% 0, and 5% C02) Kreb's buffer (composition per millimolar: NaCl (119); KCl (4.69); CaCl.sub.2.H.sub.2O (2.52); MgSO.sub.4.7H.sub.2O (0.57);
+NaHCO.sub.2, (25); NaH2PO.,.H.sub.2O (1.01) and glucose (11.1).  Under a stereoscopic dissecting microscope, the aorta is cleaned, freed from adhering fat and connective tissues.  The tissue is cut into ring segments, each approximately 2-3 mm in length.
+<BR><BR> For experiments to measure relaxation of the tissue under various conditions, a stainless steel tissue holder and an U-shaped stainless steel wire are inserted into the lumen of the aortic ring.  The tissue holder anchored the ring at the bottom
+of the organ bath whereas the end of the U-shaped steel wire is tied with fine silk thread so that it connected to the Fr-202 transducer.  The tissue holder and the steel wire along with the aortic ring are then suspended in a 5-ml, double-jacketed
+temperature-controlled glass organ bath (Radnoti Glass Technology, Inc., Monrovia, Calif.) filled with fresh Kreb's buffer.  A mixture of 95% O.sub.2 and 5% CO.sub.2 is bubbled through a porous sintered disc at the bottom of the bath.  The rings are
+given an initial resting tension of 1.5 g and the preparation is allowed to equilibrate at the initial tension for about 90 minutes.  During this equilibration period, the bath fluid is changed every 15 minutes and replaced with fresh prewarmed
+(37.degree.  C.) Kreb's buffer.  The isometric tension of the aortic muscle at rest and its response to different stimuli are recorded on a Power Macintosh 6100 computer via a MacLab 8/S computer interface (CB Sciences, Inc, Milford, Mass.) after an
+initial amplification through a low-noise EM-400 bioamplifier (CB Sciences, Inc, Milford, Mass.).  Contractile responsiveness of the tissue strips is established with 10 TM phenylephrine, and the strips are incubated with the drug for 20 minutes to
+establish a steady level of contraction.
+<BR><BR> To test the relaxation effects, test compounds can be added to the phenylephrine precontracted strips in the tissue bath at cumulative concentrations of 0.1 .mu.M to 0.1 mM.  Concentration of test compounds may be increased only after relaxation
+at the previous concentration had reached a plateau level.
+<BR><BR> Gastric Erosion Model in Rats
+<BR><BR> The gastric protective effects of the combination of the present invention co-administered with aspirin may be evaluated in the following assay.
+<BR><BR> Male Wistar rats (200-250 g) were fasted for 16-18 h prior to use for experiment.  Aspirin, rofecoxib in combination with aspirin (dosed separately), or test compound in combination with aspirin (dosed separately) were given on the morning of
+the experiment at a dosing volume of 1 ml/kg in 0.5% methocel.  Three hr later, the animals were euthanized by CO.sub.2 inhalation and the stomach removed, rinsed in saline and prepared for imaging processing.  Microscopic pictures of the stomach were
+taken using a digital camera and gastric erosions were measured using an imaging software by an observer unaware of the treatment groups.  The length of gastric erosions was measured in mm and the total length of all erosions from each stomach was
+obtained and used as gastric damage score.
+<BR><BR> This model is also described in S. Fiorucci, et al., Gastroenterology, vol. 123, pp.  1598-1606, 2002 and M. Souza, et al., Am.  J. Physiol.  Gastrointest.  Liver Physiol., vol. 285, pp.  G54-G61, 2003.
+<BR><BR>REPRESENTATIVE EXAMPLES
+<BR><BR> The invention will now be illustrated by the following non-limiting examples in which, unless stated otherwise:
+<BR><BR> all operations were carried out at room or ambient temperature, that is, at a temperature in the range 18-25.degree.  C.; evaporation of solvent was carried out using a rotary evaporator under reduced pressure (600-4000 pascals: 4.5-30 mm.  Hg)
+with a bath temperature of up to 60.degree.  C.; the course of reactions was followed by thin layer chromatography (TLC) and reaction times are given for illustration only; melting points are uncorrected and `d` indicates decomposition; the melting
+points given are those obtained for the materials prepared as described; polymorphism may result in isolation of materials with different melting points in some preparations; the structure and purity of all final products were assured by at least one of
+the following techniques: TLC, mass spectrometry, nuclear magnetic resonance (NMR) spectrometry or microanalytical data; yields are given for illustration only; when given, NMR data is in the form of delta (.delta.) values for major diagnostic protons,
+given in parts per million (ppm) relative to tetramethylsilane (TMS) as internal standard, determined at 300 MHz, 400 or 500 MHz using the indicated solvent; conventional abbreviations used for signal shape are: s. singlet; d. doublet; t. triplet; m.
+multiplet; br.  broad; etc.: in addition "Ar" signifies an aromatic signal; chemical symbols have their usual meanings; the following abbreviations have also been used v (volume), w (weight), b.p.  (boiling point), m.p.  (melting point), L (liter(s)), mL
+(milliliters), g (gram(s)), mg (milligrams(s)), mol (moles), inmol (millimoles), eq (equivalent(s)).
+<BR><BR> The following abbreviations have the indicated meanings: Ac=acetyl Boc-Glycine=N-tert-butoxycarbonyl-glycine DIBAL=diisobutylaluminum hydride DMAP=4-(dimethylamino)pyridine DMF=N,N-dimethylformamide
+EDCl=1-(3-dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride HF.pyr=hydrogen fluoride pyridine (70/30) TBS=tert-butyl(dimethyl)silyl TBSCl=tert-butyl(dimethyl)silyl chloride THF=tetrahydrofuran Alkyl Group Abbreviations
+<BR><BR> Me=methyl
+<BR><BR> Et=ethyl
+<BR><BR> t-Bu=tertiary butyl
+<BR><BR> The Dess-Martin reagent, having the following structure, is known in the art.
+<BR><BR> ##STR00005## See Dess, D. B.; Martin, J. C., J. Org. Soc., 1983, 48, 4155.
+<BR><BR>Example 1
+<BR><BR>5,6-bis(nitrooxy)hexyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00006## Step 1: (2Z)-2-[4-(methylsulfonyl)phenyl]-3-phenylbut-2-ene-1,4-diol
+<BR><BR> ##STR00007##
+<BR><BR> To a solution of 110 g of 4-(4-methanesulfonyl-phenyl)-3-phenyl-5H-furan-2-one in 1.5 L of dichloromethane stirred at -78.degree.  C., 150 mL of DIBAL was added dropwise.  The resulting mixture was warmed to room temperature and stirred
+overnight.  The reaction mixture was then cooled to -78.degree.  C., and 1.2 L of 1 M aqueous NaOH was added dropwise.  After the addition, the resulting mixture was warmed to room temperature and the organic phase was separated.  The aqueous phase was
+extracted with dichloromethane.  The organic phases were combined and dried over Na.sub.2SO.sub.4.  110 g of the titled compound was obtained after evaporation.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.69 (d, 2H), 7.36 (d, 2H), 7.16-7.05 (m, 5H),
+4.66 (d, 2H), 4.63 (d, 2H), 4.19 (t, 1H, OH), 4.17 (t, 1H, OH), 3.04 (s, 3H).
+<BR><BR> Step 2: (2Z).sub.4-{[tert-butyl(dimethyl)silyl]oxy}-2-[4-(methylsulfonyl)- phenyl]-3-phenylbut-2-en-1-ol
+<BR><BR> ##STR00008##
+<BR><BR> To a solution of 110 g of (2Z)-2-[4-(methylsulfonyl)phenyl]-3-phenylbut-2-ene-1,4-diol and 50 g of imidazole in 1 L of THF stirred at -78.degree.  C., a solution 51 g of TBSCl in 250 mL of dichloromethane was added dropwise.  The resulting
+mixture was stirred at -78.degree.  C. for 30 min. Brine was then added and warmed to room temperature.  The organic phase was separated and the aqueous phase was extracted with EtOAc.  The organic phases were combined and dried over Na.sub.2SO.sub.4 and
+evaporated.  The resulting crude material was purified by flash chromatography to afford 25.6 g of the title compound as a white solid.  .sup.1H NMR (acetone-d6, 500 MHz): a 7.69 (d, 2H), 7.37 (d, 2H), 7.18-7.04 (m, 5M), 4.77 (s, 2H), 4.65 (d, 2H), 3.96
+(t, 1H, OH), 3.03 (s, 3H), 0.84 (s, 9H), 0.01 (s, 6H).
+<BR><BR> Step 3: (2Z)-4-{[tert-butyl(dimethyl)silyl]oxy}-2-[4-(methylsulfonyl)phen- yl]-3-phenylbut-2-enyl acetate
+<BR><BR> ##STR00009##
+<BR><BR> To a solution of 46 g of (2Z)-4{[tert-butyl(dimethyl)silyl]oxy}-2-[4-(methylsulfonyl)phenyl]-3-phe- nylbut-2-en-1-ol with 120 mmol of DMAP in 1 L of dichloromethane, 120 mmol of acetic anhydride was added dropwise.  The resulted mixture was
+stirred at rt for 1 h. The reaction mixture was loaded on a silica gel column and eluted with EtOAc to afford 50.5 g of the titled compound as a white solid.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.68 (d, 2H), 7.33 (d, 2H), 7.15-7.04 (m, 5H), 5.16
+(s, 2H), 4.75 (s, 2H), 3.02 (s, 3H), 1.92 (s, 3H), 0.81 (s, 9H), -0.03 (s, 6H).
+<BR><BR> Step 4: (2Z)-4-hydroxy-2-[4-(methylsulfonyl)phenyl]-3-phenylbut-2-enyl acetate
+<BR><BR> ##STR00010##
+<BR><BR> To a solution of 50.5 g of (2Z)-4-{[tert-butyl(dimethyl)silyl]oxy}-2-[4-(methylsulfonyl)phenyl]-3-ph- enylbut-2-enyl acetate in 125 mL of MeCN, 10 mL of PyHF was added and the resulted mixture was stirred at rt for 1.5 h. The reaction mixture
+was diluted with 600 mL of toluene and then loaded on silica gel column and eluted with EtOAc.  The solvent was evaporated to afford 38.3 g of the titled compound.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.68 (d, 2H), 7.32 (d, 2H), 7.15-7.00 (m,
+5H), 5.20 (s, 2H), 4.62 (d, 2H), 4.09 (t, 1H, OH), 3.02 (s, 3H), 1.92 (s, 3H).
+<BR><BR> Step 5: (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-eno- ic acid
+<BR><BR> ##STR00011##
+<BR><BR> To a solution of 38.3 g of (2Z)-4-hydroxy-2-[4-(methylsulfonyl)phenyl]-3-phenylbut-2-enyl acetate in 500 mL of dichloromethane, 47 g of Dess-Martin reagent was added and the resulted mixture was stirred at rt for 2 h. Then 2 mL of water was
+added and the resulted mixture was stirred at rt for 1 h. Then the mixture was filtered and evaporated.  The crude thus obtained was dissolved in a solvent mixture of 200 mL of THF with 200 mL of t-BuOH.  To the resulted mixture, 30 mL of
+2-methyl-2-butene was added and followed by the addition of 200 mL of 1.2 M of phosphoric acid and 200 mL of 1 M of NaClO.sub.2.  The resulting mixture was stirred at rt for 30 nm in. The organic phase was separated and the aqueous phase was extracted
+with EtOAc.  The organic phase was combined, dried over Na.sub.2SO.sub.4, filtered, and then evaporated.  The crude was purified by recrystallization from ether to afford 37 g of the titled compound as white solids .sup.1H NMR (acetone-d6, 500 MHz):
+.delta.  7.76 (d, 2H), 7.43 (d, 2H), 7.18-7.12 (m, 3H), 7.12-7.08 (m, 2H), 5.24 (s, 2H), 3.05 (s, 3H), 1.88 (s, 3H).
+<BR><BR> Step 6: 5,6-dibromohexyl acetate
+<BR><BR> ##STR00012##
+<BR><BR> To a solution of hex-5-en-1-ol (30.9 g, 309 mmol) and DMAP (41.5 g, 340 mmol, 1.1 equiv) in CH.sub.2Cl.sub.2 (750 mL, 0.4 M) at -78.degree.  C., was added acetic anhydride (32.1 mL, 340 mmol, 1.1 equiv).  The reaction was stiffed at rt for 1 h.
+The product was passed through a plug of silica gel using 20% EA/Hex to afford the desired product (42.7 g, Yield=97%) as a colorless oil.  The compound was used directly for bromination.  To a solution of hex-5-en-1yl acetate (42.7 g, 300 mmol) in
+CH.sub.2Cl.sub.2 (600 mL, 0.5 M) at -78.degree.  C., was added bromine (330 mL, 330 mmol, 1.1 equiv).  The reaction was stirred at -78.degree.  C. for 15 min then warmed to rt.  The solvent was evaporated to afford the desired product (89 g, Yield 98%)
+as a yellowish oil.  .sup.1H NMR (500 MHz, acetone-d6): .delta.  4.38-4.32 (m, 1H), 4.04 (t, 2H), 3.95-3.93 (m, 1H), 3.84-3.80 (m, 1H), 2.16-2.10 (m, 1H), 1.98 (s, 3H), 1.90-1.82 (m, 1H), 1.72-1.62 (m, 3H), 1.56-1.48 (m, 1H).
+<BR><BR> Step 7: 5,6-bis(nitrooxy)hexyl acetate
+<BR><BR> ##STR00013##
+<BR><BR> To a solution of 5,6-dibromohexyl acetate (89 g, 295 mmol) in CH.sub.3CN (600 mL, 0.282 M) at rt was added silver nitrate (200 g, 1180 mmol, 4 equiv).  The reaction was stirred at 80.degree.  C. overnight then evaporated to dryness.  The residue
+was suspended in EtOAc, sonicated and filtered through a plug of silica gel and washed with EA.  The product was purified by combi-flash 3.times.120 g silica gel cartridge using gradient (0-5% in 5 min, 5-55% in 30 min, 55-70% EA/Hex in 10 min) to afford
+the desired product (65.2 g, Yield=83%) as a yellowish oil.  .sup.1H NMR (500 MHz, acetone-d6): .delta.  5.52-5.46 (m, 1H), 5.00 (dd, 1H), 4.72 (dd, 1H), 4.05-4.03 (m, 2H), 1.96 (s, 3H), 1.88-1.84 (m, 2H), 1.71-1.65 (m, 2H), 1.60-1.50 (m, 2H).
+<BR><BR> Step 8: 6-hydroxyhexane-1,2-diyl dinitrate
+<BR><BR> ##STR00014##
+<BR><BR> To a solution of 5,6-bis(nitrooxy)hexyl acetate (31.3 g, 118 mmol) in THF-EtOH (1:1, 0.492 M) at 0.degree.  C., was added a solution of sodium hydroxide (2 N, 126 mL, 251 mmol, 2.1 equiv) dropwise over 5 min. The reaction was stirred at rt for 2
+h. The reaction mixture was quenched with a saturated NaHCO.sub.3 solution and extracted 3 times with EA.  The combined organic layers were washed with brine, dried over Na.sub.2SO.sub.4, filtered and evaporated.  The product was purified by combi-flash
+2.times.120 g silica gel cartridge using gradient (0-5% in 5 min, 5-55% in 30 min, 55-70% BA/Hex in 10 min) to afford the desired product (24.5 g, Yield=92%) as a pale yellowish oil.  .sup.1H NMR (500 MHz, acetone-d6): .delta.  5.53-5.47 (m, 1H), 5.00
+(dd, 1H), 4.72 (dd, 1H), 3.55 (d, 2H), 3.50 (t, 1H), 1.88-1.80 (m, 2H), 1.58-1.51 (m, 4H).
+<BR><BR> Step 9: 5,6-bis(nitrooxy)hexyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00015##
+<BR><BR> A solution of 2.5 g of (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoic acid, 10 mmol of 5,6-bis(nitrooxy)hexan-1-ol, 15 mmol of DMAP and 10 mmol of EDCI was stirred at rt for 3 h. Then, AcOH (2-mL) was added and the mixture
+was filtered through a pad of silica gel and washed with EtOAc, evaporated, purified by flash chromatography (15-50% EtOAc/hexane) to afford 2.45 g of the desired compound as a white solid.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.79 (d, 2H), 7.45
+(d, 2H), 7.21-7.16 (m, 1H), 7.13-7.08 (m, 2H), 5.52-5.44 (m, 1H), 5.21 (s, 1H), 4.98 (dd, 1H), 4.72 (dd, 1H), 4.29 (t, 2H), 3.09 (s, 3H), 1.92 (s, 3H), 1.89-1.74 (m, 4H), 1.60-1.48 (m 2H).
+<BR><BR>Example 2
+<BR><BR>(5R)-5,6-bis(nitrooxy)hexyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00016## Step 1: hex-5-en-1-yl 4-nitrobenzoate
+<BR><BR> ##STR00017##
+<BR><BR> To a solution of hex-5-en-1-ol (20.0 g, 200 mmol) in CH.sub.2Cl.sub.2 (350 mL, 0.57 M) at 0.degree.  C. was added triethylamine (33.7 mL, 240 mmol, 1.2 equiv), DMAP (1.22 g, 10 mmol, 0.05 equiv) and then 4-Nitrobenzoyl chloride (39 g, 210 mmol,
+1.05 equiv.).  The reaction was stirred at rt for 2 h. The reaction mixture was quenched with a saturated NH.sub.4Cl solution and extracted 3 times with CH.sub.2Cl.sub.2.  The combined organic layers were washed with brine, dried over Na.sub.2SO.sub.4,
+filtered and evaporated.  The product was purified by combi-flash 2.times.120 g silica gel cartridge using gradient (0-5% in 5 min, 5-25% in 30 min, 25-40% EA/Hex in 10 min) to afford the desired product (35 g, Yield=70%) as a yellowish oil.  .sup.1H NMR
+(500 MHz, acetone-d6): .delta.  8.36 (d, 2H), 8.26 (d, 2H), 5.87-5.79 (m, 1H), 5.03 (d, 1H), 4.94 (d, 1H), 4.38 (t, 2H), 2.14 (m, 2H), 1.84-1.78 (m, 2H), 1.60-1.54 (m, 2H).
+<BR><BR> Step 2: (5R)-5,6-dihydroxyhexyl 4-nitrobenzoate
+<BR><BR> ##STR00018##
+<BR><BR> To a solution of AD-mix-beta (34 g) in t-BuOH--H.sub.2O (1:1, 0.077 M) at 0.degree.  C., was added hex-5-en-1-yl 4-nitrobenzoate (6 g, 24.07 mmol).  The reaction was stirred at 0.degree.  C. overnight.  The reaction mixture was diluted with 250
+mL of EA, quenched by addition of 10 g of sodium metabisulfite and stirred 30 min at 0.degree.  C. The mixture was allowed to stir at rt for 1 h then was extracted 3 times with EtOAc, washed with brine, dried over Na.sub.2SO.sub.4, filtered and
+evaporated.  The compound was recrystallized with ether and stirred in the cold room overnight for twice to afford 3.3 g of the titled compound as a white solid (greater than 99% in e.e.  by Mosher derivatives analysis).  .sup.1H NMR (500 MHz,
+acetone-d6): .delta.  8.36 (d, 2H), 8.27 (d, 2H), 4.38 (t, 2H), 3.62-3.54 (m, 3H), 3.49-3.45 (m, 1H), 3.41-3.35 (m, 1H), 1.87-1.77 (m, 2H), 1.69-1.62 (m, 1H), 1.59-1.49 (m, 2H), 1.46-1.40 (m, 1H).
+<BR><BR> Step 3: (5R)-5,6-bis(nitrooxy)hexyl 4-nitrobenzoate
+<BR><BR> ##STR00019##
+<BR><BR> To a solution of nitric acid (8 mL, 178 mmol, 15.75 equiv) in CH.sub.2Cl.sub.2 (20 mL, 0.565 M) at -78.degree.  C., was added sulfuric acid (2 mL, 37.5 mmol, 3.32 equiv) and then a solution of (5R)-5,6-dihydroxyhexyl nitrobenzoate (2.5 g, 8.83
+mmol) in CH.sub.2Cl.sub.2 (10 mL).  The reaction was stirred at 0.degree.  C. for 2 h. The reaction mixture was poured on ice (ca 200 g) and extracted 3 times with CH.sub.2Cl.sub.2.  The combined organic layers were washed with water, brine, dried over
+Na.sub.2SO.sub.4, filtered and evaporated.  The product was purified by combi-flash 120 g silica gel cartridge using gradient (0-5% in 5 nm in, 5-40% in 25 min, 40-70% EA/Hex in 10 nm in) to afford the desired product (3.1 g, Yield=91%) as a viscous
+yellowish oil.  .sup.1H NMR (500 MHz, acetone-d6): .delta.  8.35.  (d, 2H), 8.26 (d, 2H), 5.56-5.52 (m, 1H), 5.03 (dd, 1H), 4.75 (dd, 1H), 4.41 (t, 2H), 1.98-1.88 (m, 4H), 1.76-1.66 (m, 2H).
+<BR><BR> Step 4: (2R)-6-hydroxyhexane-1,2-diyl dinitrate
+<BR><BR> ##STR00020##
+<BR><BR> To a solution of (5R)-5,6-bis(nitrooxy)hexyl 4-nitrobenzoate (3.1 g, 8.3 mmol) in THF-EtOH (1:1, 0.5 M) at 0.degree.  C. was added sodium hydroxide 2N (10 mL, 20 mmol, 2 equiv) dropwise over 5 min. The reaction was stirred at rt for 2 h. The
+reaction mixture was quenched with a saturated NaHCO.sub.3 solution and extracted 3 times with EtOAc.  The combined organic layers were washed with brine, dried over Na.sub.2SO.sub.4, filtered and evaporated.  The product was purified by combi-flash 120
+g silica gel cartridge using gradient (0-5% in 5 min, 5-55% in 30 min, 55-70% EA/Hex in 10 min) to afford the desired product (1.51 g, Yield=81%) as a colorless oil.  .sup.1H NMR (500 MHz, acetone-d6): .delta.  5.52-5.48 (m, 1H), 5.01 (dd, 1H), 4.72 (dd,
+1H), 3.56-3.50 (m, 3H), 1.88-1.81 (m, 2H), 1.54-1.50 (m, 4H).
+<BR><BR> Step 5: (5R)-5,6-bis(nitrooxy)hexyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00021##
+<BR><BR> A solution of 3 g of (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoic acid, 1.7 g of (2R)-6-hydroxyhexane-1,2-diyl dinitrate, 10 mmol of DMAP and 10 mmol of EDCI was stirred in 40 mL of dichloromethane at rt for 2 h. Then,
+acetic anhydride (0.5 mL) was added and the mixture was filtered through a pad of silica gel and washed with EtOAc, evaporated, purified by flash chromatography (15-50% EtOAc/hexane) to afford 2.8 g of the desired compound as a white solid.  .sup.1H NMR
+(acetone-d6, 500 MHz): .delta.  7.79 (d, 2H), 7.45 (d, 2H), 7.21-7.16 (m, 1H), 7.13-7.08 (m, 2H), 5.52-5.44 (m, 1H), 5.21 (s, 1H), 4.98 (dd, 1H), 4.72 (dd, 1H), 4.29 (t, 2H), 3.09 (s, 3H), 1.92 (s, 3H), 1.89-1.74 (m, 4H), 1.60-1.48 (m 2H).
+<BR><BR>Example 3
+<BR><BR>4,5-bis(nitrooxy)pentyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00022## Step 1: 4,5-bis(nitrooxy)pentyl alcohol
+<BR><BR> ##STR00023##
+<BR><BR> To a solution of 18.7 g of 4,5-bis(nitrooxy)pentyl acetate in 150 mL of EtOH at 25.degree.  C. was added 2.96 g of NaOH.  The mixture was stirred for 90 min, quenched by addition of NaHCO.sub.3 sat., extracted with EtOAc, washed with brine and
+dried over sodium sulfate.  Purification by flash chromatography afforded 6.3 g of the desired compound as an orange oil.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  5.56 (m, 1H), 5.01 (dd, 1H), 4.73 (dd, 1H), 3.68 (t, 1H), 3.60 (m, 2H), 1.93-1.86 (m,
+2H), 1.69-1.64 (m, 2H).
+<BR><BR> Step 2: 4,5-bis(nitrooxy)pentyl (2Z)-4(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00024##
+<BR><BR> To a solution of 1.72 g of (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoic acid in 20 mL of CH.sub.2Cl.sub.2 at 0.degree.  C. was added 1.06 g of 4,5-bis(nitrooxy)pentyl alcohol, 225 mg of DMAP and 970 mg of EDCI.  The
+mixture was stirred at RT for 2 h then quenched by addition of NH.sub.4Cl sat., extracted with EtOAc, washed with NaHCO.sub.3 sat., brine and dried over sodium sulfate.  Purification by flash chromatography afforded 1 g of the titled compound as a white
+solid.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.77 (d, 2H), 7.43 (d, 2H), 7.18-7.16 (m, 3H), 7.08 (dd, 2H), 5.53-5.50 (m, 1H), 5.20 (s, 1H), 4.97 (dd, 1H), 4.69 (dd, 1H), 4.31 (m, 2H), 3.05 (s, 2H), 1.89 (m, 7H).
+<BR><BR>Example 4
+<BR><BR>3,4-bis(nitrooxy)butyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00025## Step 1: 3,4-bis(nitrooxy)butyl alcohol
+<BR><BR> ##STR00026##
+<BR><BR> To a solution of 27.8 g of butan-1,2,4-triol in 150 mL of acetone was added 27.3 mL of 2,2-dimethoxypropane and 10 mg of PTSA at RT.  The reaction was stirred for 3 h then quenched by addition of 200 mg of NaHCO.sub.3.  After stirring for 15
+min, the solvent was evaporated.  The crude compound was filtered through a pad of silica gel using 60% EtOAc/hexanes to afford 30 g of the desired compound as a colorless oil.  The compound was used directly in the next step.  To a solution of 20 g of
+2-(2,2-dimethyl-1,3-dioxolan-4-yl)ethanol in 200 mL of CH.sub.2Cl.sub.2 at 0.degree.  C. were added 33.5 g of DMAP and 26 mL of acetic anhydride.  The mixture was stirred 2 h at RT then quenched by filtration through a short pad of silica gel. 
+Purification by flash chromatography afforded 20.7 g of the desired compound as a colorless oil.  The compound was used directly for the next step.  Sulfuric acid (40 mL) was added to nitric acid (20 mL) at -78.degree.  C. and then stirred at 0.degree. 
+C. for 10 min. At -78.degree.  C., a solution of 10 g of 2-(2,2-dimethyl-1,3-dioxolan-4-yl)ethyl acetate in 20 mL of CH.sub.2Cl.sub.2 was added and the reaction was stirred for 1 h. Quenching was done by adding the reaction mixture to 500 g of ice in an
+1 L erlenmeyer flask.  The compound was then extracted with CH.sub.2Cl.sub.2, washed with NaHCO.sub.3, brine and dried over sodium sulfate.  The crude compound was used directly for the next step without further purification.  To a solution of 5.1 g of
+3,4-bis(nitrooxy)butyl acetate in 40 mL of EtOH at 25.degree.  C. was added 855 mg of NaOH.  The mixture was stirred for 1 h, quenched by addition of NaHCO.sub.3 sat., extracted with EtOAc, washed with brine and dried over sodium sulfate.  Purification
+by flash chromatography afforded 1 g of the desired compound as a yellowish oil.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  5.71-5.66 (m, 1H), 5.07 (dd, 1H), 4.76 (dd, 1H), 3.97 (t, 1H), 3.77-3.68 (m, 2H), 2.02-1.95 (m, 2H).
+<BR><BR> Step 2: 3,4-bis(nitrooxy)butyl (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoate
+<BR><BR> ##STR00027##
+<BR><BR> To a solution of 1.72 g of (2Z)-4-(acetyloxy)-3-[4-(methylsulfonyl)phenyl]-2-phenylbut-2-enoic acid in 30 mL of CH.sub.2Cl.sub.2 at 0.degree.  C. was added 750 mg of 3,4-bis(nitrooxy)butyl alcohol, 560 mg of DMAP and 880 mg of EDCI.  The mixture
+was stirred at RT for 2 h then quenched by addition of NH.sub.4Cl sat., extracted with EtOAc, washed with NaHCO.sub.3 sat., brine and dried over sodium sulfate.  Purification by flash chromatography afforded 930 mg of the titled compound as a white
+solid.  .sup.1H NMR (acetone-d6, 500 MHz): .delta.  7.77 (d, 2H), 7.43 (d, 2H), 7.17-7.15 (m, 3H), 7.08 (dd, 2H), 5.56-5.52 (m, 1H), 5.22 (s, 2H), 4.95 (dd, 1H), 4.69 (dd, 1H), 4.47-4.41 (m, 2H), 3.05 (s, 3H), 2.32-2.19 (m, 2H), 1.89 (s, 3H).
+<BR><BR><CENTER><b>* * * * *</b></CENTER>
+<HR>
+   <CENTER>
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=07622502&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D71%2526p%3D2%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+   <TABLE>
+   <TR><TD align="center"><A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D71%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207622502"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="m
+iddle" alt="[View Shopping Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=7622502&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D71%26p%3D2%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%207622502">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+     <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=1&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=71&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=70&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=72&p=2&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+   <A href="#top"><IMG valign="middle" src="/netaicon/PTO/top.gif" border="0" alt="[Top]"></A>
+   </TD></TR>
+   </TABLE>
+   <A name="bottom"></A>
+   <A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" alt="[Manual Search]" valign="middle"></A>
+   <A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/help/help.htm"><IMG border="0" src="/netaicon/PTO/help.gif" alt="[Help]" valign="middle"></A>
+   </CENTER>
+</BODY>
+</HTML>

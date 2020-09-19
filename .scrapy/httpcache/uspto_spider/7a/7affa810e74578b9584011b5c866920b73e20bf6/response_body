@@ -1,0 +1,643 @@
+<HTML>
+<HEAD>
+<BASE target="_top">
+<TITLE>United States Patent: 6670396</TITLE></HEAD>
+<!-BUF1=6670396
+BUF7=2003
+BUF8=97335
+BUF9=/1/
+BUF51=6
+-->
+<BODY bgcolor="#FFFFFF">
+<A name="top"></A>
+<CENTER>
+<IMG src="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<BR>
+<TABLE>
+<TR><TD align="center">
+<A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" ALT="[Manual Search]" valign="middle"></A>
+<A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+<A href="/netahtml/PTO/help/help.htm"><IMG border="0" valign="middle" src="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</TD></TR>
+<TR><TD align="center">
+   <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=4&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=114&p=3&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=116&p=3&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+<A href="#bottom"><IMG src="/netaicon/PTO/bottom.gif" alt="[Bottom]" valign="middle" border="0"></A>
+</TD></TR>
+   <TR><TD align="center">
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D115%26p%3D3%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%206670396"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="middle" alt="[View Shopp
+ing Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=6670396&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D115%26p%3D3%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%206670396">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=06670396&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D115%2526p%3D3%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+
+   </TD></TR>
+</TABLE>
+</CENTER>
+<TABLE width="100%">
+<TR><TD align="left" width="50%">&nbsp;</TD>
+<TD align="right" valign="bottom" width="50%"><FONT size="-1">( <STRONG>115</STRONG></FONT> <FONT size=-2>of</FONT> <STRONG><FONT size=-1>292</STRONG> )</FONT></TD></TR></TABLE>
+<HR>
+   <TABLE width="100%">
+   <TR>	<TD align="left" width="50%"><b>United States Patent </b></TD>
+   <TD align="right" width="50%"><b>6,670,396</b></TD>
+   </TR>
+     <TR><TD align="left" width="50%"><b>
+         Serhan
+, &nbsp; et al.</b>
+     </TD>
+     <TD align="right" width="50%"> <b>
+     December 30, 2003
+</b></TD>
+     </TR>
+     </TABLE>
+       <HR>
+       <FONT size="+1"> <B><I>Aspirin</I></B>-triggered lipid mediators
+</FONT><BR>
+       <BR><CENTER><b>Abstract</b></CENTER>
+       <p><B><I>Aspirin</I></B> triggered lipid mediators (ATLMs) are disclosed which are useful
+     for the treatment of prevention of inflammation associated with various
+     diseases, including ischemia.
+</p>
+       <HR>
+<TABLE width="100%"> <TR> <TH scope="row" valign="top" align="left" width="10%">Inventors:</TH> <TD align="left" width="90%">
+ <B>Serhan; Charles N.</B> (Wellsley, MA)<B>, Clish; Clary B.</B> (Medford, MA) </TD> </TR>
+<TR> <TH scope="row" valign="top" align="left" width="10%">Assignee:</TH>
+<TD align="left" width="90%">
+
+<B>Brigham and Women's Hospital</B>
+ (Boston, 
+MA)
+<BR>
+
+</TD>
+</TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Family ID:
+       </TD><TD align="left" width="90%">
+       <b>26878731
+</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%" nowrap>Appl. No.:
+       </TH><TD align="left" width="90%">
+       <b> 09/785,866</b></TD></TR>
+       <TR><TH scope="row" valign="top" align="left" width="10%">Filed:
+       </TH><TD align="left" width="90%">
+       <b>February 16, 2001</b></TD></TR>
+     </TABLE>
+     <HR>
+<p> <TABLE width="100%"> <TR><TD valign="top" align="left" width="30%"><b>Current U.S. Class:</b></TD> <TD valign="top" align="right" width="70%"><b>514/549</b>; 562/400; 562/579; 562/512 </TD></TR> 
+       <TR><TD valign="top" align="left" width="30%"><b>Current CPC Class: </b></TD>
+       <TD valign="top" align="right" width="70%">A61P 7/02&nbsp(20180101); A61P 27/02&nbsp(20180101); A61P 17/08&nbsp(20180101); C07C 69/732&nbsp(20130101); A61P 29/00&nbsp(20180101); C07C 59/42&nbsp(20130101); C12P 7/6472&nbsp(20130101); C12P 7/6436&nbsp(20130101); A61P 9/00&nbsp(20180101); C07C 59/58&nbsp(20130101); A61P 11/06&nbsp(20180101); A61P 17/00&nbsp(20180101); A61P 19/00&nbsp(20180101); A61P 37/08&nbsp(20180101); A61P 9/10&nbsp(20180101); A61P 19/02&nbsp(20180101); A61P 11/00&nbsp(20180101); A61P 17/02&nbsp(20180101); A61P 1/00&nbsp(20180101); A61P 43/00&nbsp(20180101); C12P 7/6427&nbsp(20130101); A61P 9/14&nbsp(20180101); A61P 1/04&nbsp(20180101); A61P 17/06&nbsp(20180101); A61P 17/04&nbsp(20180101); C07B 2200/07&nbsp(20130101); Y02P 20/55&nbsp(20151101)</TD></TR>
+         <TR><TD valign="top" align="left" width="30%"><b>Current International Class: </b></TD>
+         <TD valign="top" align="right" width="70%">C07C 69/732&nbsp(20060101); C07C 69/00&nbsp(20060101); C07C 59/58&nbsp(20060101); C07C 59/42&nbsp(20060101); C07C 59/00&nbsp(20060101); A01N 037/06&nbsp(); C07C 061/00&nbsp()</TD></TR>
+       <TR><TD valign="top" align="left" width="30%"><b>Field of Search: </b></TD>
+       <TD align="right" valign="top" width="70%">
+       
+
+
+
+ ;514/549 ;562/410,512,579
+       </TD></TR>
+     </TABLE>
+<HR><CENTER><b>References Cited  <A href="/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2Fsearch-adv.htm&r=0&f=S&l=50&d=PALL&Query=ref/6670396">[Referenced By]</A></b></CENTER>       <HR>
+       <CENTER><b>U.S. Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TH scope="col" width="33%"></TH> <TH scope="col" width="33%"></TH> <TH scope="col" width="34%"></TH></TR> <TR> <TD align="left">
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4201211">4201211</a></TD><TD align =left>
+May 1980</TD><TD align=left>
+Chandrasekaran et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F4666701">4666701</a></TD><TD align =left>
+May 1987</TD><TD align=left>
+Horrobin et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5409955">5409955</a></TD><TD align =left>
+April 1995</TD><TD align=left>
+Bockow et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5411988">5411988</a></TD><TD align =left>
+May 1995</TD><TD align=left>
+Bockow et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5709855">5709855</a></TD><TD align =left>
+January 1998</TD><TD align=left>
+Bockow</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5814599">5814599</a></TD><TD align =left>
+September 1998</TD><TD align=left>
+Mitragotri et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F5846974">5846974</a></TD><TD align =left>
+December 1998</TD><TD align=left>
+Kallman et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6117911">6117911</a></TD><TD align =left>
+September 2000</TD><TD align=left>
+Grainger et al.</TD></TR><TR><TD align=left>
+<a href="/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN%2F6201022">6201022</a></TD><TD align =left>
+March 2001</TD><TD align=left>
+Mease et al.</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+       <CENTER><b>Foreign Patent Documents</b></CENTER>
+<TABLE width="100%"> <TR><TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH> <TD></TD><TH scope="col"></TH></TR> <TR> <TD align="left">
+</TD><TD align=left>5186342</TD><TD></TD><TD align=left>
+Jul 1993</TD><TD></TD><TD align=left>
+JP</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 91/16914</TD><TD></TD><TD align=left>
+Nov 1991</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+</TD><TD align=left>WO 98/46588</TD><TD></TD><TD align=left>
+Oct 1998</TD><TD></TD><TD align=left>
+WO</TD></TR><TR><TD align=left>
+
+</TD>
+</TR> </TABLE>
+<TABLE width="90%"> <BR> <CENTER><b>Other References</b></CENTER> <TR><TD><align="left"><BR>Hill et al, Proc. R. Soc. London Ser. B., (1992) 247 (1318), 41-6.*
+.<BR>Takeshi Terano, Ensho (1987) 7 (1) pp63-71; Chemical Abstract 107:22439 (1987).*
+.<BR>Miller et al, Lipids, (1989) 24, 12 pp998-1003; chemical abstract 112: 117061.*
+.<BR>Hill EM , Proc R. Soc. London Ser. B., (1992) 247 (1318) pp41-46.*
+.<BR>PCT/US01/05196 International Search Report.
+.<BR>J.W. Karanian et al., "Physiological functions of hydroxy--docosahexaenoic acid", Abstract, XP-002200246, 1993.
+.<BR>E.M. Hill, et al. "Identification and egg hatching activity of monohydroxy fatty acid eicosanoids in the barnacle Balanus balanoides", Abstract, XP-002200247, 1992.
+.<BR>L. De Montarby, et al. "Synthesis stereoselectives de metabolites hydroxyles d'acides gras polinsatures", Bulletin De La Societe Chimique de France, No. 3, pp. 419-432, 1989.
+.<BR>M. Yamane, et al. "Docosahexaenoc/arachidonic acid .omega.-hydroxylation system and differentiation in the human clonic adenocarcinoma cell line, Caco-2", Cancer Letters, vol. 122, pp. 51-59, 1998.
+.<BR>T. Kato, et al., "Production of Hydroxy Unsaturated Fatty Acids Using Crude Lipoxygenase Obtained from Infected Rice Plants", Bull. Chem. Soc. Jpn. vol. 69, pp. 1663-1666, 1996.
+.<BR>W.E.M. Lands, "Proceedings of the AOCS Short Course on Polyunsaturated Fatty Acids and Eicosanoids", American Oil Chemists' Society 1987. Reference Not Found.
+.<BR>M. ligo et al., "Inhibitory effects of docosahexaenoic acid on colon carcinoma 26 metastasis to the lung", Br. J. Cancer, 1997, pp. 650-655.
+.<BR>G.E. Billman et al., "Prevention of sudden cardiac death by dietary pure .omega.-3 polyunsaturated fatty acids in dogs", Circulation 99 1999, pp. 2452-2457.
+.<BR>A.P. Simopoulos, "Workshop on the essentiality of an recommended dietary intakes for omega-6 and omega-3 fatty acids", J. Am. Coll. Nutr. 1999, pp. 487-489.
+.<BR>R. Marchioloi, "Dietary supplementation with n-3 polyunsaturated fatty acids and vitamin E after myocardial infarction: results of the GISSI-Prevenzione trial", Lancet 1999, pp. 447-455.
+.<BR>G. Weissmann, "Aspirin", Sci. Am. 1991, pp. 84-90.
+.<BR>A.J. Marcus, "Platelets: their role in hemostasis, thrombosis, and inflammation", Inflammation: Basic Principles and Clinical Correlates 1999, pp. 77-95.
+.<BR>J. Claria et al., "Aspirin triggers previously undescribed bioactive eicosanoids by human endothelial cell-leukocyte interactions", Proc. Natl. Acad. Sci. USA 1995, pp. 9475-9479.
+.<BR>C.N. Serhan et al, "Design of lipoxin A4 stable analogs that block transmigration and adhesion of human neutrophils", Biochemistry 1995, pp. 14609-14615.
+.<BR>N. Chiang et al., "Leukotriene B4 receptor transgenic mice reveal novel protective roles for lipoxins and aspirin-triggered lipoxins in reperfusion", J. Clin. Invest. 1999, pp. 309-316.
+.<BR>H.R. Herschman, "Recent progress in the cellular and molecular biology of prostaglandin synthesis", Trends Cardiovasc. Med. 1998, pp. 145-150.
+.<BR>P. Needleman et al., "The discovery and function of COX-2", J. Rheumatol 1997, pp. 6-8.
+.<BR>N. Chiang et al., "Aspirin-triggered 15-epi-lipoxin A4 (ATL) generation by human leukocytes and murine peritonitis exudates: Development of a specific 15-epi-LXA4 ELISA", J. Pharmacol. Exp. Ther. 1998, pp. 779-790.
+.<BR>G. Xiao et al., "Analysis of hydroperoxide-induced tyrosyl radicals and lipoxygenase activity in aspirin-treated human prostaglandin H synthase-2", Biochemistry 1997, pp. 1836-1845.
+.<BR>K. Node et al., "Anti-inflammatory properties of cytochrome P450 epoxygenase-derived eicosanoids", Science 1999, pp. 1276-1279.
+.<BR>S. Sethi et al., "Inhibition of phagocyte-endotheliuam interactions by oxidized fatty acids: A natural anti-flammatory mechanism?", J. Lav. Clin. Med. 1996, pp. 27-38.
+.<BR>G.N. Levy, "Prostaglandin H synthases, nonsteroidal anti-inflammatory drugs, and colon cancer", FASEB J. 1997, pp. 234-247.
+.<BR>K. Gronert, et al., "Transcellular regulation of eicosanoid biosynthesis", Eicosanoid Protocols 1999, pp. 119-144.
+.<BR>H.J. George et al., "Expression purification and characterization of recombinant human inductible prostaglandin G/H synthase from baculovirus-infected insect cells", Protein Expres. Purif. 1996, pp. 19-26.
+.<BR>J.H. Capdevila et al., "The highly stereoselective oxidation of polyunsaturated fatty acids by cytochrome P450BM-3", J. Biol. Chem. 1996, pp. 22663-22671.
+.<BR>R.T. Ruettinger et al., "Epoxidation fatty acids by a soluble cytochrome P-45-dependent system from bacillus medaterium", J. Biol. Chem. 1981, pp. 5728-5734.
+.<BR>T.H. Lee et al., "Characterization and biologic properties of 5,12-dihydroxy derivatives of eicosapentaenoic acid, including leukotriene B5 and the double lipoxygenase product", J. Biol. Chem. 1984, pp. 2383-2389.
+.<BR>C.N. Serhan et a;., "Nomenclature of lipoxins and related compounds dervived from arachidonic acid and eicosapentaenoic acid", Prostaglandins 1987, pp. 201-204.
+.<BR>D.J. Hill et al., "Trout thrombocytes contain 12-but not 5-lipoxygenase activity", Biochim. Biophys. Acta 1999, pp. 63-70.
+.<BR>B.N. Cronstein et al., "A mechanism for the anti-inflammatory effects of corticosteroids: The glucocorticoid receptor regulates leukocyte adhesion to endotheliasl cells and expression of endothelial-leukocyte adhesion molecule 1 and intercellular
+adhesion molecule 1", Proc. Natl. Acad. Sci. 1992, pp. 9991-9995.
+.<BR>T. Yokomizo et al., "A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis", Nature 1997, pp. 620-624.
+.<BR>M.R. Buchanan et al., "Regulation of endothelial cell and platelet receptor-ligand binding by the 12- and 15-lipoxygenase monohydroxides, 12-, 15-HETE and 13-HODE", Prostaglandins Leukot. Essent. Fatty Acids 1998, pp. 339-346.
+.<BR>P.M. Ridker et al., "Inflammation, aspirin, and the risk of cardiovascular disease in apparently healthy men", N. Engl. J. Med. 1997, pp. 973-979.. </TD></TR> </TABLE> <BR>
+       <i>Primary Examiner:</i>  Rotman; Alan L.
+<BR>
+       <i>Assistant Examiner:</i>  Reyes; Hector M
+<BR>
+       <i>Attorney, Agent or Firm:</i> <coma><coma>Dorsey & Whitney LLP
+Rothenberger; Scott D.
+<BR>
+       <HR>
+       <CENTER><b><i>Government Interests</b></i></CENTER>
+       <HR>
+       <BR><BR>STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH
+<BR><BR>The U.S. government may have rights in this invention pursuant to National
+     Institute of Health grants GM38765, HL60569, and P01-DE13499.
+       <HR>
+       <CENTER><b><i>Parent Case Text</b></i></CENTER>
+       <HR>
+       <BR><BR>CROSS-REFERENCE TO RELATED APPLICATIONS
+<BR><BR>This application claims priority to U.S. Provisional Application Ser. No.
+     60/183,078, filed Feb. 16, 2000, entitled "Aspirin-Triggered Lipid
+     Mediators" by Charles N. Serhan and U.S. Provisional Application Ser. No.
+     60/238,814, filed Oct. 6, 2000, entitled "Aspirin-Triggered Lipid
+     Mediators" by Charles N. Serhan, the contents of which are incorporated
+     herein by reference in their entirety.
+         <HR>
+<CENTER><b><i>Claims</b></i></CENTER> <HR> <BR><BR>What is claimed is: <BR><BR>1.  A compound having the formula: ##STR12##
+<BR><BR>wherein R is a hydrogen atom or a pharmaceutically acceptable salt, ester, amide or prodrug and wherein P is a hydrogen atom or a protecting group.
+<BR><BR>2.  The compound of claim 1, wherein the C-18 carbon has an R configuration.
+<BR><BR>3.  The compound of claim 1, wherein the C-18 carbon has an S configuration. <HR> <CENTER><b><i>Description</b></i></CENTER> <HR> <BR><BR>BACKGROUND
+<BR><BR>Numerous reports of the past 25 years suggest that supplementation of dietary omega-3 polyunsaturated fatty acids (w-3 PUFA) with linseed, canola, or fish oils has beneficial effects in human discases and laboratory animals (1.  De Caterina, R.,
+S. Endres, S. D. Kristensen, and E. B. Schmidt, editors.  1993.  n-3 Fatty Acids and Vascular Disease.  Springer-Verlag, London and 2.  Lands, W. E. M., editor.  1987.  Proceedings of the AOCS Short Course on Polyunsaturated Fatty Acids and Eicosanoids. 
+American Oil Chemists' Society, Champaign, Ill.).  These have included lively discussions of potential antithrombotic, immunoregulatory, and antiinflammatory responses relevant in arteriosclerosis, arthritis, and asthma as well as antitumor and
+antimetastratie effects (Ref. 1 and Iigo, M., T. Nakagawa, C. Ishikawa, Y. Iwahori, M. Asamoto, K. Yazawa, E. Araki, and H. Tsuda.  1997.  Inhibitory effects of docosahexaenoic acid on colon carcinoma 26 metastasis to the lung.  Br.  J. Cancer
+75:650-655.).  Their potential for preventative actions in cardiovascular diseases was recently bolstered with the finding that major dietary .omega.-3 PUFAs, eicosapentaenoic acid (C20:5 .omega.-3; EPA) and docosahexaenoic acid (C22:6 .omega.-3; DHA),
+have a dramatic effect on ischemia-induced ventricular fibrillation and can protect against sudden cardiac death in dogs (4.  Billman, G. E. et al. 1999 Prevention of sudden cardiac death by dietary pure .omega.-3 polyunsaturated fatty acids in dogs. 
+Circulation.  99:2452-2547.).  Emergence of such possible preventative and/or therapeutic actions of .omega.-3 PUFA supplementation in infant nutrition, cardiovascular diseases, and mental health has led to a call for recommended dietary intakes by an
+international workshop (5.  Simopoulous, A. P. et al. 1999.  Workshop on the Essentiality of and Recommended Dietary Intakes for Omega-6 and Omega-3 Fatty Acids.  J. Am.  Coll.  Nutr.  18:487-489.).  Also, the Gruppo Italiano per lo Studio della
+Sopravvivense nell'Infarto Miocardio (GISSI) Prevenzione trial evaluated the effects of .omega.-3 PUFA supplementation with &gt;11,300 patients surviving myocardial infarction taking .about.1 g of .omega.-3 PUFA daily (n=2,836) along with recommended
+preventive treatments including aspirin, and reported a significant benefit with a decrease in cardiovascular death (6.  Marchioloi, R. 1999.  Dietary supplementation with n-3 polyunsaturated fatty acids and vitamin E after myocardial infarction: results
+of the GISSI-Prevenzione trial.  Gruppo Italiano per lo Studio della Sopravvivenza nell'Ifarto miocardioco.  Lancet.  354:447-455.).  However, the cellular and molecular mechanism(s) for dietary .omega.-3 protective actions in all of the studies
+including those with neural tissues (Parkinson's disease and Alzheimer's disease and other known to involve inflammation in the brain) to date remain largely unexplained.
+<BR><BR>It is believed that the actions of the major lipid of fish oil, C20:5, are based upon (a) preventing conversion of arachidonic acid (C20:4 .omega.-6; AA) to proinflammatory eicosanoids (i.e. prostaglandins [PGs] and leukotrienes [LTS]); (b)
+serving as an alternate substrate producing 5-series LTS that are less potent; and/or (c) conversion by cyclooxygenase (COX) to 3-series prostanoids (i.e., PGI.sub.3) with potencies equivalent to their 4-series PG counterparts to maintain antithrombotic
+actions (References 1, 3 and 4).  These and other explanations offered have not been generally accepted because of the lack of molecular evidence in vivo and high concentrations of .omega.-3 PUFA required to achieve putative "beneficial actions" in vitro
+(References 1-5).
+<BR><BR>Although the proinflammatory roles of LT and PG are appreciated, there is new evidence that other eicosanoids derived from arachidonate, namely lipoxins (LXs) and their endogenous analogues, the aspirin-triggered 15 epimer LXs (ATLs), are potent
+counterregulators of PMN-medicated injury and acute inflammation (7.  Weissmann, G. 1991.  Aspirin.  Sci.  Am.  264:84-90; 8.  Marcus, A. J. 1999.  Platelets: their role in hemostasis, thrombosis, and inflammation.  In Inflammation: Basic Principles and
+Clinical Correlates.  J. I. Gallin and R. Snyderman, editors.  Lippincott Williams & Wilkins, Philadelphia.  77-9; 9.  Claria, J., and C. N. Serhan.  1995.  Aspirin triggers previously undescribed bioactive eicosanoids by human endothelial cell-leukocyte
+interactions.  Proc.  Natl.  Acad.  Sci.  USA 92:9475-9479; 10.  Serhan, C. N., J. F. Maddox, N. A. Petasis, I. Akritopoulou-Zanze, A. Papayianni, H. R. Brady, S. P. Colgan, and J. L. Madara.1995.  Design of lipoxin A.sub.4 stable analogs that block
+transmigration and adhesion of human neutrophils.  Biochemistry 34:14609-14615; and 11.  Chiang, N., K. Gronert, C. B. Clish, J. A. O'Brien, M. W. Freeman, and C. N. Serhan.  1999.  Leukotriene B.sub.4 receptor transgenic mice reveal novel protective
+roles for lipoxins and aspirin-triggered lipoxins in reperfusion.  J. Clin. Invest.  104:309-316.).  At least two isoforms for COX, the classic site of action for nonsteroidal antiinflammatory drugs (NSAIDs), have been uncovered (COX-1 and 2) that appear
+to serve separate physiologic and pathophysiologic roles in humans (12.  Herschman, H. R. 1998.  Recent progress in the cellular and molecular biology of prostaglandin synthesis.  Trends Cardiovasc.  Med.  8:145-150.).  Each COX isoform carries dual
+enzymatic activities, a bisoxygenase and a peroxidase.  Inhibition of COX-2 is the current focus of several pharmaceutical companies, as selective inhibition of COX-2 without blocking COX-1 could reduce unwanted side effects associated with traditional
+NSAIDs (13.  Needleman, P., and P. C. Isakson.  1997.  The discovery and function of COX-2.  J. Rheumatol.  24 (Suppl.  49):6-8.).  In this regard, acetylation of COX-2 by the classic NSAID, aspirin (ASA), prevents the formation of prostanoids, but the
+acetylated enzyme remains active in situs to generate 15R-hydroxyeicosatetraenoic acid (15R-HETE) from C20:4 that is released and converted by activated inflammatory cells to the 15-epimeric LXs (14.  Chiang, N., T. Takano, C. B. Clish, N. A. Petasis,
+H.-H. Tai, and C. N. Serhan.  1998.  Aspirin-triggered 15-epi-lipoxin A.sub.4 (ATL) generation by human leukocytes and murine peritonitis exudates: Development of a specific 15-epi-LXA.sub.4 ELISA.  J. Pharmacol Exp.  Ther.  287:779-790 and 15.  Xiao,
+G., A.-L. Tsai, G. Palmer, W. C. Boyar, P. J. Marshall, and R. J. Kulmacz.  1997.  Analysis of hydroperoxide-induced tyrosyl radicals and lipoxygenase activity in aspirin-treated human prostaglandin H synthase-2.  Biochemistry 36:1836-1845.).  Synthetic
+analogues of these natural local mediators with prolonged biological half-life display potent antiinflammatory properties providing evidence that cell-cell interactions can be responsible for conversion of AA (and/or other lipids and PUFA see FIG. 1) to
+mediators that possess antiiflammatory properties by regulating signaling events important to host defense (Reference 11 and 16.  Clish, C. B., J. A. O'Brien, K. Gronert, G. L. Stahl, N. A. Petasis, and C. N. Serhan.  1999.  Local and systemic delivery
+of a stable aspirin-triggered lipoxin prevents neutrophil recruitment in vivo.  Proc.  Nad.  Acad.  Sci.  USA 96:8247-8252.).
+<BR><BR>SUMMARY OF THE INVENTION
+<BR><BR>Aspirin therapy inhibits prostaglandin biosynthesis without directly acting on lipoxygenases, yet via acetylation of cyclooxygenase 2 (COX-2) it leads to bioactive lipoxins (LXs) epimeric at carbon 15 (15-epi-LX, also termed aspirin-triggered LX
+[ATL]).  The present invention provides that inflammatory exudates from mice treated with .omega.-3 polyunsaturated fatty acid and aspirin (ASA) generate a novel array of bioactive lipid signals.  Human endothelial cells with upregulated COX-2 treated
+with ASA converted C20:5 w-3 to 18R-hydroxyeicosapentaenoic acid (HEPE) AND 15R-HEPE.  Each was used by polymorphonuclear leukocytes to generate separate classes of novel trihydroxy-containing mediators, including 5-series 15R-LX and 5, 12, 18R-triHEPE. 
+These new compounds proved to be potent inhibitors of human polymorphonuclear leukocyte transendothelial migration and infiltration in vivo (ATL analogue&gt;5, 12, 18R-triHEPE&gt;18R-HEPE).  Acetaminophen and indomethacin also permitted 18R-HEPE and
+15R-HEPE generation with recombinant COX-2 as well as .omega.-5 and .omega.-9 and other novel oxygenations of polyunsaturated fatty acids (e.g., C18:3, C22:6) that act on vascular, brain, inflammatory and hematologic cells.  These findings establish new
+transcellular routes for producing arrays of bioactive lipid mediators via COX-2-nonsteroidal antiinflammatory drug-dependent oxygenations and cell-cell interactions that impact microinflammation.  The generation of these and related compounds, provides
+a novel mechanism(s) for the therapeutic benefits of w-3 dietary supplementation, which are important in inflammation, neoplasis, and vascular diseases.
+<BR><BR>Oxidation of C20:4 via P450 in endothelial cells (ECs) also leads to 11, 12-epoxyeicosatetraenoic acid that appears to block EC activation, while nonenzymatic oxidation of EPA can down regulate EC adhesion molecules (17.  Node, K., Y. Huo, X.
+Ruan, B. Yang, M. Spiecker, K. Ley, D. C. Zeldin, and J. K. Liao.  1999.  Anti-inflammatory properties of cytochrome P450 epoxygenase- derived eicosanoids.  Science 285:1276-1279 and 18.  Sethi, S., A. Y. Eastman, and J. W. Eaton.  1996.  Inhibition of
+phagocyte-endothelium interactions by oxidized fatty acids: A natural anti-inflammatory mechanism? J. Lab. Clin. Med.  128:27-38.).  As PMN-vessel interactions are pivotal to recruitment and PMN-dependent tissue injury, the local signals involved in
+their "cross talk dialogue" are of interest.  The present invention provides that aspirin-acetylated COX-2 remains active in vivo to generate specific ATLs that can be effector of well established antiinflammatory reactions offers a mechanism for
+beneficial effects of ASA that cannot be attributed to inhibition of prostanoids alone (References 8, 12, 14).  New therapeutic application for ASA and related NSAIDs continue to emerge.  However, they usually require molecular definition to provide a
+rationale.  This includes the reported prophylactic benefit of ASA in colorectal cancer and the lower risk of a second myocardial infarction (Reviewed in 19.  Levy, G. N. 1997.  Prostaglandin H synthases, nonsteroidal anti-inflammatory drugs, and colon
+cancer.  FASEB J. 11:234-247.).  In view of the qualitatively overlapping beneficial profiles assigned to dietary (.omega.)-3 PUFA in human disease (References 1-6), the present invention is directed toward novel pathways for lipid-derived signals that
+provide a molecular basis and also serve as markers for these beneficial actions.
+<BR><BR>The present invention is drawn to methods for treating or preventing inflammation in a mammal by administration of a combination of a polyunsaturated fatty acid(s) (PUFA(s)) and aspirin, i.e., polyunsaturated fatty acids including C18:3, C20:4
+and C22:6.  In one embodiment, the omega fatty acid, e.g., C18:3 or C22:6, and aspirin are administered at two different times.  The present invention is also drawn to methods for treating arterial inflammation, arthritis, psoriasis, urticara,
+vasculitis, asthma, ocular inflammation, pulmonary inflammation, pulmonary fibrosis, seborrheic dermatitis, pustular dermatosis, or cardiovascular diseases in a mammal by administration of a combination of an omega fatty acid and aspirin to the mammal.
+<BR><BR>In another embodiment, the present invention is drawn to methods for treating or preventing inflammation in a mammal by administration of an anti-inflammatory of the natural class of ASA-triggered lipid (.omega.-3) mediators having one of the
+following formulae: ##STR1##
+<BR><BR>and their steroisomers, e.g., enantiomers, diastereomers, racemates, wherein R is a hydrogen atom or a pharmaceutically acceptable salt, ester, amide or prodrug, e.g., pharmaceutically acceptable analogues thereof.  Preferred analogues include
+methyl, ethyl and glycerol esters.  P is H (hydroxyl) or a suitable protecting group or groups where there are multiple hydroxyl groups, such as those known in the art.  These hydroxyl protecting group(s) include esters (acetate, ethylacetate), ethers
+(methyl, ethyl), ethoxylated derivatives (ethylene glycol, propylene glycol) and silylated groups (TMS or TIPPS).
+<BR><BR>In another embodiment, the present invention is drawn to compositions and methods for treating or preventing inflammation in a mammal by administration of an anti-inflammatory of the natural class of ASA-triggered lipid (.omega.-2, .omega.-3 or
+.omega.-4) mediators that are monohydroxylated docosahexaenoic acids (DHA) (C22:6), i.e., 13-hydroxy-DHA, 14-hydroxy-DHA, 16-hydroxy-DHA, 17-hydroxy-DHA, 19-hydroxy-DHA or 20-hydroxy-DHA, wherein the carboxylic acid can be functionalized as a hydrogen
+atom or a pharmaceutically acceptable salt, ester, amide or prodrug, e.g., pharmaceutically acceptable analogues thereof.  Preferred analogues include methyl, ethyl and glycerol esters.  The hydroxyl groups of the mono-hydroxylated DHA compounds can also
+be protected as described herein.  Suitable protecting group or groups, such as those known in the art.  These include esters (acetate, ethylacetate), ethers (methyl, ethyl), ethoxylated derivatives (ethylene glycol, propylene glycol) and silyl ether
+groups (TMS or TIPPS).
+<BR><BR>In one aspect of the invention, the compound(s) of the invention are substantially purified and isolated by techniques known in the art.  The purity of the purified compounds is generally at least about 90%, preferably at least about 95%, and
+most preferably at least about 99% by weight.
+<BR><BR>In still another embodiment, the invention is drawn to methods for treating arterial inflammation, arthritis, or cardiovascular diseases in a mammal, comprising administering to the mammal one or more of the above-described compounds.
+<BR><BR>Surprisingly, it has been unexpectedly discovered that the interaction between aspirin, COX-II and omega-3 and omega-6 fatty acids have an anti-inflammatory effect upon tissue(s).  Moreover, this combination produces unique compounds having the
+above-identified formulae.  These compounds have anti-inflammatory properties and can be used as anti-inflammatory agents for treatment of disease states or conditions which have inflammation associated with these diseases or conditions.
+<BR><BR>Advantageously, the compounds and methods of the invention have minimal side effects.  Targeting of neutrophils by the compounds of the invention, prevents typical side effects associated with NSAIDs.  NSAIDs have a broad range of
+biological/physiological actions whereas the compounds of the invention are more selective for neutrophils.  As these compounds are neutrophil directed therapeutics to alleviate inflammation, side effects are decreased dramatically in comparison to
+typical NSAIDs.  The compounds of the invention have minimal unwanted side effects, if any, in terms of constipation, renal toxicity and gastro-intestinal ulcerations or bleeding.  These advantages provide useful alternatives for patients seeking relief
+from inflammatory conditions that would otherwise needlessly suffer from one or more of the typical side effects associated with NSAIDs. <BR><BR>BRIEF DESCRIPTION OF THE DRAWINGS
+<BR><BR>The invention will be more fully understood from the following detailed description taken in conjunction with the accompanying drawings, in which:
+<BR><BR>FIG. 1 depicts transcellular lipid mediator (LM) biosynthesis.
+<BR><BR>FIG. 2A depicts a thin layer chromatogram of products generated from .sup.14 C-labled arachidonic acid (AA, .omega.-6) by cyclooxygenase 2 (COX-2).
+<BR><BR>FIG. 2B depicts a thin layer chromatogram of products generated from .sup.14 C-labled AA (.omega.-6) by aspirin acetylated-COX-2.
+<BR><BR>FIG. 2C depicts a thin layer chromatogram of products generated from .sup.14 C-labled eicosapentaenoic acid (EPA, .omega.-3) by cyclooxygenase II (COX-2).
+<BR><BR>FIG. 2B depicts a thin layer chromatogram of products generated from .sup.14 C-labled EPA (.omega.-3) by aspirin acetylated-COX-2.
+<BR><BR>FIG. 3 depicts conversion of EPA (.omega.-3) by B. megaterium via LC/MS ion chromatogram and mass spectral analysis.
+<BR><BR>FIG. 4A is an LC/MS ion chromatogram of monohydroxy products generated from EPA in aspirin-treated murine dorsal air pouch inflammatory exudates.
+<BR><BR>FIG. 4B is a mass spectral analysis of 18R-HEPE generated from EPA in aspirin-treated murine dorsal air pouch inflammatory exudates.
+<BR><BR>FIG. 4C is a mass spectral analysis of 5S-HEPE generated from EPA in aspirin-treated murine dorsal air pouch inflammatory exudates.
+<BR><BR>FIG. 4D is a mass spectral analysis of 5, 12, 18R-triHEPE generated from EPA in aspirin-treated murine dorsal air pouch inflammatory exudates.
+<BR><BR>FIG. 5 depicts an LC/MS ion chromatogram of 5, 12, 18-triHEPE isomers generated from 5S, 12R-dihydroxy-6Z, 8E, 14Z, 17Z-eicosapentaenoic acid (.omega.-3) by B. megaterium and with mass spectral analyses.
+<BR><BR>FIG. 6 depicts a murine dorsal air pouch treated with tumor necrosis factor-alpha (TNF-.alpha.) and aspirin.
+<BR><BR>FIG. 7A depicts an LC/MS ion chromatogram of 18R-HEPE generated from IL-1.beta.-stimulated human umbilical cord endothelial cells (HUVEC) treated aspirin and EPA.
+<BR><BR>FIG. 7B depicts an LC/MS ion chromatogram of triHEPEs generated from EPA by aspirin acetylated-COX-2 and serum treated zymosan (STZ)-stimulated human PMN.
+<BR><BR>FIG. 7C depicts a mass spectral analysis of triHEPE product I, 5, 12, 18R-triHEPE, in FIG. 7B.
+<BR><BR>FIG. 7D depicts a mass spectral analysis of triHEPE product II, 15-epi-LXA.sub.5, in FIG. 7B.
+<BR><BR>FIG. 8 depicts and selected ion monitoring LC/MS/MS chromatograms of monhydroxy products generated from EPA by aspirin acetylated-COX-2 with mass spectral analyses of 18-HEPE, 15-HEPE, and 11-HEPE.
+<BR><BR>FIG. 9A shows inhibition of LTB.sub.4 -stimulated PMN transendothelial migration by 18R-HEPE (open circles), 5, 12, 18R-triHEPE (closed circles), and an aspirin-triggered lipoxin (ATL) analog reference compound (closed square).
+<BR><BR>FIG. 9B shows competition binding between either 18R-HEPE (open circles), 5, 12, 18R-triHEPE (closed circles), LTB.sub.5 (open square), or homoligand LTB.sub.4 (closed square) with .sup.3 H-LTB.sub.4 on recombinant human LTB.sub.4 receptor stably
+expressed in HEK-293 cells.
+<BR><BR>FIG. 9C depicts the inhibition of TNF-.alpha.  induced leukocyte trafficking into the murine dorsal air pouch following intravenous injection of 100 ng of either 18R-HEPE, 5, 12, 18R-triHEPE, or an ATL analog reference compound (analog
+15(S)-16(para-fluoro)-phenoxy-LXA.sub.4 used for comparison, results represent N=4.
+<BR><BR>FIG. 10A depicts LC/MS/MS ion chromatograms and mass spectral analyses of monohydroxy products generated from dihomo-.gamma.-linoleic acid (C20:3, .omega.-3) and aspirin acetylated-COX-2.
+<BR><BR>FIG. 10B depicts LC/MS/MS ion chromatograms and mass spectral analyses of monohydroxy products generated from linolenic acid (C18:3, .omega.-3) and aspirin acetylated-COX-2.
+<BR><BR>FIG. 10C depicts LC/MS/MS ion chromatograms and mass spectral analyses of monohydroxy products generated from linoleic acid (C18:2, .omega.-6) and aspirin acetylated-COX-2.
+<BR><BR>FIG. 11 Proposed Scheme for Generating Functional Arrays of Lipid Signals from .omega.-3 PUFA via Transcellular Processing: Endogenous Inhibitors of Microinflammation.  At sites where COX-2 is upregulated and treated with NSAIDs, prostaglandin
+formation from C20:4 is blocked.  Systemic .omega.-3 PUFA are converted via a COX-2-NSAID lipoxygenase-type mechanism that stereospecific hydrogen abstraction at (Panel A) C16 or C13 in EPA (C20:5) to give R insertions of molecular O.sub.2 to
+yield15R-H(p)EPE or 18R-H(p)EPE from epoxides or are reduced to alcohols or similarly at (Panel B) C13 or C17 in DHA (C22:6) to give insertions of molecular O.sub.2 to yield13-hydroxy-DHA or 17-hydroxy-DHA.  The complete stereochemistry of the
+trihydroxy- compounds remain to be determined and is depicted in their likely configuration.  These compounds interact with cells in the local microenvironment, inhibiting PMN recruitment.  COX-2-NSAID-dependent hydrogen abstraction and insertion of
+molecular oxygen occur with all .omega.-3 PUFA containing 1,4-cis pentadiene units.
+<BR><BR>FIG. 12 depicts aspirin acetylated-COX-2 dependent pathways for generating novel lipid mediators that are also markers for aspirin treatment.
+<BR><BR>FIG. 13 depicts the structures of the major and minor products generated from docosahexaenoic acid (DHA, C22:6, .omega.-3) and aspirin acetylated-COX-2.
+<BR><BR>FIG. 14A depicts the DHA product profile switch triggered via acetylation of COX-2 by aspirin.  The LC/MS ion chromatograms in the left panels show that, in the absence of aspirin, 13-hydroxy-DHA is the dominant product.  With acetylation of
+COX-2 by aspirin, 13-hydroxy-DHA generation is suppressed and, shown in the right panel, 17-hydroxy-DHA generation is becomes the major product.
+<BR><BR>FIG. 14B depicts an LC/MS/MS ion chromatogram and mass spectral analysis of 13-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 14C depicts an LC/MS/MS ion chromatogram and mass spectral analysis of 14-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 14D depicts an LC/MS/MS ion chromatogram and mass spectral analysis of 16-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 14E depicts an LC/MS/MS ion chromatogram and mass spectral analysis of 17-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 14F depicts an LCIMS/MS ion chromatogram and mass spectral analysis of 19-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 14G depicts an LC/MS/MS ion chromatogram and mass spectral analysis of 20-hydroxy-DHA generated from DHA by aspirin acetylated-COX-2.
+<BR><BR>FIG. 15 shows the regioselectivity for oxygenation in .omega.-3 and .omega.-6 PUFA by aspirin acetylated-COX-2. <BR><BR>DETAILED DESCRIPTION OF THE INVENTION
+<BR><BR>The features and other details of the invention will now be more particularly described and pointed out in the claims.  It will be understood that the particular embodiments of the invention are shown by way of illustration and not as limitations
+of the invention.  The principle features of this invention can be employed in various embodiments without departing from the scope of the invention.
+<BR><BR>Abbreviations used throughout the present application include the following and are included here for convenience.  NSAI), nonsteroidal anti-inflammatory drug; PUFA, polyunsaturated fatty acid(s); ALXR, LXA.sub.4 receptor; ASA, aspirin; ATL,
+aspirin-triggered 15-epi-LX, 15 R-LX; ATLM, aspirin-triggered lipid mediators; COX, cyclooxygenase I, II (isoforms); EC, endothelial cells; HUVEC, human umbilical vascular endothelial cells; LC/MS/MS, liquid chromatography tandem mass spectrometry; LM,
+lipid-derived mediators; LO, lipoxygenase; LT, leukotriene; LX, lipoxin; PG, prostaglandins; PMN, polymorphonuclear leukocyte; EPA eicosapentaenoic acid; HEPE, hydroxyeicosapentaenoic acid; HETE, hydroxyeicosatetraenoic acid; LXA.sub.4, 5S, 6R,
+15S-trihydroxy-7, 9, 13-trans-11-cis-eicosatetraenoic acid; 15-epi-LXA.sub.4 5S, 6R, 15R-trihydroxy-7, 9, 13-trans-11-cis-eicosatetraenoic acid; C20:5 (eicosapentanoic acid, EPA, an .omega.-3 fatty acid); C20:4 (arachidonic acid, AA, an .omega.-6 fatty
+acid); and C22:6 (docosahexaenoic acid, DHA, an .omega.-3 fatty acid ).
+<BR><BR>The present invention is drawn to methods for treating or preventing inflammation in a mammal by administration of a combination of an omega-3 (.omega.-3) fatty acid and aspirin.  In one embodiment, the omega fatty acid, e.g., EPA, or DHA and
+aspirin are administered at two different times.  The present invention is also drawn to methods for treating arterial inflammation, arthritis, or cardiovascular diseases in a mammal by administration of a combination of an omega fatty acid, such as EPA
+or DHA, and aspirin to the mammal.
+<BR><BR>In another embodiment, the present invention is drawn to compositions and methods for treating or preventing inflammation in a mammal by administration of an anti-inflammatory having one of the following formulae.  Compound 1 has the formula:
+##STR2##
+<BR><BR>In a preferred embodiment, the hydroxyl at the carbon 15 position has an R configuration.  In another embodiment, the hydroxyl at the carbon 15 position has an S configuration.  Alternatively, the hydroxyl at the carbon 15 position is an R/S
+racemic mixture.
+<BR><BR>Compound 2 has the formula: ##STR3##
+<BR><BR>In a preferred embodiment, the hydroxyl at the carbon 18 position has an R configuration.  In another embodiment, the hydroxyl at the carbon 18 position has an S configuration.
+<BR><BR>Alternatively, the hydroxyl at the carbon 18 position is an R/S racemic mixture.
+<BR><BR>Compound 3 has the formula: ##STR4##
+<BR><BR>In one embodiment, the hydroxyl at the carbon 5 position has an S configuration, the hydroxyl at the carbon 6 position has an R configuration and the hydroxyl at the carbon 15 position has an R configuration.  In another embodiment, the hydroxyl
+at the carbon 5 position has an R/S configuration, the hydroxyl at the carbon 6 position has an R/S configuration and the hydroxyl at the carbon 15 position has an R/S configuration.
+<BR><BR>Compound 4 has the formula: ##STR5##
+<BR><BR>In one embodiment, the 5-hydroxyl has an S configuration, the 12-hydroxyl has an R configuration and the 18-hydroxyl has an R configuration.  In another embodiment, the 5-hydroxyl has an R/S configuration, the 12-hydroxyl has an R/S configuration
+and the 18-hydroxyl has an R/S configuration.
+<BR><BR>Compound 5 has the formula ##STR6##
+<BR><BR>designated as 13-hydroxy-DHA, where P=H (hydroxyl).  In one embodiment, the 13-hydroxyl has an S configuration.  In another embodiment, the 13-hydroxyl has an R configuration.  In still another embodiment, the 13-hydroxyl is a racemic mixture,
+e.g., an R/S configuration.
+<BR><BR>Compound 6 has the formula ##STR7##
+<BR><BR>designated as 14-hydroxy-DHA, where P=H (hydroxyl).  In one embodiment, the 14-hydroxyl has an S configuration.  In another embodiment, the 14-hydroxyl has an R configuration.  In still another embodiment, the 14-hydroxyl is a racemic mixture,
+e.g., an R/S configuration.
+<BR><BR>Compound 7 has the formula ##STR8##
+<BR><BR>designated as 16-hydroxy-DHA, where P=H. In one embodiment, the 16-hydroxyl has an S configuration.  In another embodiment, the 16-hydroxyl has an R configuration.  In still another embodiment, the 16-hydroxyl is a racemic mixture, e.g., an R/S
+configuration.
+<BR><BR>Compound 8 has the formula ##STR9##
+<BR><BR>designated as 17-hydroxy-DHA, where P=H. In one embodiment, the 17-hydroxyl has an S configuration.  In another embodiment, the 17-hydroxyl has an R configuration.  In still another embodiment, the 17-hydroxyl is a racemic mixture, e.g., an R/S
+configuration.
+<BR><BR>Compound 9 has the formula ##STR10##
+<BR><BR>designated as 19-hydroxy-DHA, where P=H. In one embodiment, the 19-hydroxyl has an S configuration.  In another embodiment, the 19-hydroxyl has an R configuration.  In still another embodiment, the 19-hydroxyl is a racemic mixture, e.g., an R/S
+configuration.
+<BR><BR>Compound 10 has the formula ##STR11##
+<BR><BR>designated as 20-hydroxy-DHA, where P=H. In one embodiment, the 20-hydroxyl has an S configuration.  In another embodiment, the 20-hydroxyl has an R configuration.  In still another embodiment, the 20-hydroxyl is a racemic mixture, e.g., an R/S
+configuration.
+<BR><BR>In compounds 1 through 10, R is a hydrogen atom or is a pharmaceutically acceptable salt, ester, e.g, methyl ester, amide or prodrug.  Preferred analogues include methyl, ethyl and glycerol esters.
+<BR><BR>In compounds 1 through 10, it should be understood that reference to "hydroxyl" stereochemistry is exemplary, and that the term is meant to include protected hydroxyl groups as well as the free hydroxyl group.
+<BR><BR>The hydroxyl(s) in compounds 1 through 10 can be protected by various protecting groups, such as those known in the art.  An artisan skilled in the art can readily determine which protecting group(s) may be useful for the protection of the
+hydroxyl group(s).  Standard methods are known in the art and are more fully described in literature.  For example, suitable protecting groups can be selected by the skilled artisan and are described in Green and Wuts, "Protecting Groups in Organic
+Synthesis", John Wiley and Sons, Chapters 5 and 7, 1991, the teachings of which are incorporated herein by reference.  Preferred protecting groups include methyl and ethyl ethers, TMS or TIPPS groups, acetate or proprionate groups and glycol ethers, such
+as ethylene glycol and propylene glycol derivatives.
+<BR><BR>For example, one or more hydroxyl groups can be treated with a mild base, such as triethylamine in the presence of an acid chloride or silyl chloride to facilitate a reaction between the hydroxyl ion and the halide.  Alternatively, an alkyl
+halide can be reacted with the hydroxyl ion (generated by a base such as lithium diisopropyl amide) to facilitate ether formation.
+<BR><BR>It should also be understood that for compounds 3 and 4, not all hydroxyl groups need be protected.  One, two or all three hydroxyl groups can be protected.  This can be accomplished by the stoichiometric choice of reagents used to protect the
+hydroxyl groups.  Methods known in the art can be used to separate the mono, di- or tri-protected hydroxy compounds, e.g., HPLC, LC, flash chromatography, gel permeation chromatography, crystallization, distillation, etc.
+<BR><BR>It should be understood that there are one or more chiral centers in each of the above-identified compounds.  It should understood that the present invention encompasses all stereochemical forms, e.g., enantiomers, diastereomers and racemates of
+each compound.
+<BR><BR>The term "pharmaceutically acceptable salts, esters, amides, and prodrugs" as used herein refers to those carboxylate salts, amino acid addition salts, esters, amides, and prodrugs of the compounds of the present invention which are, within the
+scope of sound medical judgment, suitable for use in contact with the tissues of patients without undue toxicity, irritation, allergic response, and the like, commensurate with a reasonable benefit/risk ratio, and effective for their intended use, as
+well as the zwitterionic forms, where possible, of the compounds of the invention.  The term "salts" refers to the relatively non-toxic, inorganic and organic acid addition salts of compounds of the present invention.  These salts can be prepared in situ
+during the final isolation and purification of the compounds or by separately reacting the purified compound in its free base form with a suitable organic or inorganic acid and isolating the salt thus formed.  These may include cations based on the
+alkali and alkaline earth metals, such as sodium, lithium, potassium, calcium, magnesium and the like, as well as non-toxic ammonium, quaternary ammonium, and amine cations including, but not limited to ammonium, tetramethylammonium, tetraethylammonium,
+methylamine, dimethylamine, trimethylamine, triethylamine, ethylamine, and the like.  (See, for example, Berge S. M., et al., "Pharmaceutical Salts," J. Pharm.  Sci., 1977;66:1-19 which is incorporated herein by reference).
+<BR><BR>The term "prodrug" refers to compounds that are rapidly transformed in vivo to yield the parent compound of the above formulae, for example, by hydrolysis in blood.  A thorough discussion is provided in T. Higuchi and V. Stella, "Pro-drugs as
+Novel Delivery Systems," Vol. 14 of the A.C.S.  Symposium Series, and in Bioreversible Carriers in Drug Design, ed.  Edward B. Roche, American Pharmaceutical Association and Pergamon Press, 1987, both of which are hereby incorporated by reference.  As
+used herein, a prodrug is a compound that, upon in vivo administration, is metabolized or otherwise converted to the biologically, pharmaceutically or therapeutically active form of the compound.  To produce a prodrug, the pharmaceutically active
+compound is modified such that the active compound will be regenerated by metabolic processes.  The prodrug may be designed to alter the metabolic stability or the transport characteristics of a drug, to mask side effects or toxicity, to improve the
+flavor of a drug or to alter other characteristics or properties of a drug.  By virtue of knowledge of pharmacodynamic processes and drug metabolism in vivo, once a pharmaceutically active compound is identified, those of skill in the pharmaceutical art
+generally can design prodrugs of the compound [see, e.g., Nogrady (1985) Medicinal Chemistry A Biochemical Approach, Oxford University Press, N.Y., pages 388-392].  Conventional procedures for the selection and preparation of suitable prodrug derivatives
+are described, for example, in "Design of Prodrugs," ed.  H. Bundgaard, Elsevier, 1985.  Suitable examples of prodrugs include methyl, ethyl and glycerol esters of the corresponding acid.  Additionally, the protecting groups of the hydroxyl(s)
+functionality are considered as desirable as they can be metabolized to the parent compound, i.e., to the native hydroxyl functionality.
+<BR><BR>The compounds of the invention can be formulated into pharmaceutical compositions as described, infra.  In a preferred embodiment, the compound can be administered over an extended period of time in a sustained release composition.  Sustained
+release compositions are known in the art and one skilled in the art can formulate an acceptable composition based on generally recognized parameters in the art.  In a most preferred embodiment, the glycerol ester can be used in the treatment of
+inflammatory conditions, described herein, in sustained release compositions, i.e., a transdermal patch, as known in the art.  Suitable methods to prepare a transdermal patch can be found in U.S.  Pat.  No., 5,814,599, 5,846,974 or 4,201,211, the
+contents of which are incorporated herein by reference.  More particularly, the compounds can be delivered transdermally using the types of patch technologies available from Ciba-Geigy Corporation and Alza Corporation.  The administration of the
+pharmaceutical compositions of the present invention can be intermittent, or at a gradual, continuous, constant or controlled rate to a warm-blooded animal, such as a human being.  In addition, the time of day and the number of times per day that the
+pharmaceutical formulation is administered can vary.  Administration preferably is such that the active ingredients of the pharmaceutical formulation interact with the inflammatory condition.
+<BR><BR>In still another embodiment, the invention is drawn to methods for treating arterial inflammation, arthritis, or cardiovascular diseases in a mammal, comprising administering to the mammal one or more of the above-described compounds.
+<BR><BR>The term "subject" as used herein refers to any living organism in which an, immune response, e.g., an antiinflammatory response is elicited.  The term subject includes, but is not limited to, humans, nonhuman primates such as chimpanzees and
+other apes and monkey species; farm animals such as cattle, sheep, pigs, goats and horses; domestic mammals such as dogs and cats; laboratory animals including rodents such as mice, rats and guinea pigs, and the like.  The term does not denote a
+particular age or sex.  Thus, adult and newborn subjects, as well as fetuses, whether male or female, are intended to be covered.
+<BR><BR>The term "mammal" as used herein refers to a living organism capable of eliciting an immune response to an antigen.  The term subject includes, but is not limited to, nonhuman primates such as chimpanzees and other apes and monkey species, sheep,
+pigs, goats, horses, dogs, cats, mice, rats and guinea pigs, and the like.
+<BR><BR>The pharmaceutical compositions of the invention may include a "therapeutically effective amount" or a "prophylactically effective amount" of an antiinflammatory of the invention.  A "therapeutically effective amount" refers to an amount
+effective, at dosages and for periods of time necessary, to achieve the desired therapeutic result, e.g., a diminishment or prevention of inflammation associated with various disease states or conditions.  A therapeutically effective amount of the
+antiinflammatory may vary according to factors such as the disease state, age, sex, and weight of the individual, and the ability of the antiinflammatory to elicit a desired response in the individual.  A therapeutically effective amount is also one in
+which any toxic or detrimental effects of the antibody or antibody portion are outweighed by the therapeutically beneficial effects.  A "prophylactically effective amount" refers to an amount effective, at dosages and for periods of time necessary, to
+achieve the desired prophylactic result.  Typically, since a prophylactic dose is used in subjects prior to or at an earlier stage of disease, the prophylactically effective amount will be less than the therapeutically effective amount.
+<BR><BR>Dosage regimens may be adjusted to provide the optimum desired response (e.g., a therapeutic or prophylactic response).  For example, a single bolus may be administered, several divided doses may be administered over time or the dose may be
+proportionally reduced or increased as indicated by the exigencies of the therapeutic situation.  It is especially advantageous to formulate parenteral compositions in dosage unit form for ease of administration and uniformity of dosage.  Dosage unit
+form as used herein refers to physically discrete units suited as unitary dosages for the mammalian subjects to be treated; each unit containing a predetermined quantity of active compound calculated to produce the desired therapeutic effect in
+association with the required pharmaceutical carrier.  The specification for the dosage unit forms of the invention are dictated by and directly dependent on (a) the unique characteristics of the active compound and the particular therapeutic or
+prophylactic effect to be achieved, and (b) the limitations inherent in the art of compounding such an active compound for the treatment of sensitivity in individuals.
+<BR><BR>An exemplary, non-limiting range for a therapeutically or prophylactically effective amount of an antiinflammatory of the invention is 0.1-20 mg/kg, more preferably 1-10 mg/kg.  It is to be noted that dosage values may vary with the type and
+severity of the condition to be alleviated.  It is to be further understood that for any particular subject, specific dosage regimens should be adjusted over time according to the individual need and the professional judgment of the person administering
+or supervising the administration of the compositions, and that dosage ranges set forth herein are exemplary only and are not intended to limit the scope or practice of the claimed composition.
+<BR><BR>The antiinflammatory compounds of the invention, e.g., compounds 1 through 10, can be incorporated into pharmaceutical compositions suitable for administration to a subject.  Typically, the pharmaceutical composition comprises an antiinflammatory
+of the invention and a pharmaceutically acceptable carrier.  As used herein, "pharmaceutically acceptable carrier" includes any and all solvents, dispersion media, coatings, antibacterial and antifungal agents, isotonic and absorption delaying agents,
+and the like that are physiologically compatible.  Examples of pharmaceutically acceptable carriers include one or more of water, saline, phosphate buffered saline, dextrose, glycerol, ethanol and the like, as well as combinations thereof.  In many
+cases, it will be preferable to include isotonic agents, for example, sugars, polyalcohols such as mannitol, sorbitol, or sodium chloride in the composition.  Pharmaceutically acceptable carriers may further comprise minor amounts of auxiliary substances
+such as wetting or emulsifying agents, preservatives or buffers, which enhance the shelf life or effectiveness of the antiinflammatory.
+<BR><BR>The antiinflammatories of the invention can be incorporated into a pharmaceutical composition suitable for parenteral administration.  Other suitable buffers include but are not limited to, sodium succinate, sodium citrate, sodium phosphate or
+potassium phosphate.  Sodium chloride can be used to modify the toxicity of the solution at a concentration of 0-300 mM (optimally 150 mM for a liquid dosage form).  Cryoprotectants can be included for a lyophilized dosage form, principally 0-10% sucrose
+(optimally 0.5-1.0%).  Other suitable cryoprotectants include trehalose and lactose.  Bulking agents can be included for a lyophilized dosage form, principally 1-10% mannitol (optimally 2-4%).  Stabilizers can be used in both liquid and lyophilized
+dosage forms, principally 1-50 mM L-Methionine (optimally 5-10 mM).  Other suitable bulking agents include glycine, arginine, can be included as 0-0.05% polysorbate-80 (optimally 0.005-0.01%).  Additional surfactants include but are not limited to
+polysorbate 20 and BRIJ surfactants.
+<BR><BR>The compositions of this invention may be in a variety of forms.  These include, for example, liquid, semi-solid and solid dosage forms, such as liquid solutions (e.g., injectable and infusible solutions), dispersions or suspensions, tablets,
+pills, powders, liposomes and suppositories.  The preferred form depends on the intended mode of administration and therapeutic application.  Typical preferred compositions are in the form of injectable or infusible solutions, such as compositions
+similar to those used for passive immunization of humans.  The preferred mode of administration is parenteral (e.g., intravenous, subcutaneous, intraperitoneal, intramuscular).  In a preferred embodiment, antiinflammatory is administered by intravenous
+infusion or injection.  In another preferred embodiment, the antiinflammatory is administered by intramuscular or subcutaneous injection.  In the most preferred embodiment, antiinflammatory is administered orally.
+<BR><BR>Therapeutic compositions typically must be sterile and stable under the conditions of manufacture and storage.  The composition can be formulated as a solution, microemulsion, dispersion, liposome, or other ordered structure suitable to high drug
+concentration.  Sterile injectable solutions can be prepared by incorporating the active compound (i.e., antigen, antibody or antibody portion) in the required amount in an appropriate solvent with one or a combination of ingredients enumerated above, as
+required, followed by filtered sterilization.
+<BR><BR>Generally, dispersions are prepared by incorporating the active compound into a sterile vehicle that contains a basic dispersion medium and the required other ingredients from those enumerated above.  In the case of sterile, lyophilized powders
+for the preparation of sterile injectable solutions, the preferred methods of preparation are vacuum drying and spray-drying that yields a powder of the active ingredient plus any additional desired ingredient from a previously sterile-filtered solution
+thereof.  The proper fluidity of a solution can be maintained, for example, by the use of a coating such as lecithin, by the maintenance of the required particle size in the case of dispersion and by the use of surfactants.  Prolonged absorption of
+injectable compositions can be brought about by including in the composition an agent that delays absorption, for example, monostearate salts and gelatin.
+<BR><BR>The antiinflammatory of the present invention can be administered by a variety of methods known in the art.  As will be appreciated by the skilled artisan, the route and/or mode of administration will vary depending upon the desired results.  In
+certain embodiments, the active compound may be prepared with a carrier that will protect the compound against rapid release, such as a controlled release formulation, including implants, transdermal patches, and microencapsulated delivery systems. 
+Biodegradable, biocompatible polymers can be used, such as ethylene vinyl acetate, polyanhydrides, polyglycolic acid, collagen, polyorthoesters, and polylactic acid.  Many methods for the preparation of such formulations are patented or generally known
+to those skilled in the art.  See, e.g., Sustained and Controlled Release Drug Delivery Systems, J. R. Robinson, ed., Marcel Dekker, Inc., N.Y., 1978.
+<BR><BR>In certain embodiments, an antiinflammatory of the invention may be orally administered, for example, with an inert diluent or an assimilable edible carrier.  The compound (and other ingredients, if desired) may also be enclosed in a hard or soft
+shell gelatin capsule, compressed into tablets, or incorporated directly into the subject's diet.  For oral therapeutic administration, the compounds may be incorporated with excipients and used in the form of ingestible tablets, buccal tablets, troches,
+capsules, elixirs, suspensions, syrups, wafers, and the like.  To administer a compound of the invention by other than parenteral administration, it may be necessary to coat the compound with, or co-administer the compound with, a material to prevent its
+inactivation.
+<BR><BR>As mentioned hereinbefore, compounds 1-10 described herein and pharmaceutically acceptable analogues thereof have use in the prevention and treatment of clinical conditions that involve the COX enzyme(s) that result in an inflammatory condition. 
+For example, the ability of the compounds of invention to interact with the COX enzyme(s), renders them useful for the prophylaxis and treatment of inflammatory states associated with spasmogenic conditions, allergic conditions, conditions involving
+blood platelet aggregation, and more generally recognized inflammatory conditions.
+<BR><BR>Examples of spasmogenic conditions are those involving smooth muscle tissue, especially airway smooth muscle constriction such as asthma (including idiopathic bronchial asthma), bronchitis and arterial smooth muscle constriction such as coronary
+spasm (including that associated with myocardial infarction, which may or may not lead to left ventricular failure resulting in cardiac asthma), ischemia-induced myocardial injury, and cerebral spasm or stroke (which may lead to central nervous
+pathophysiology).  Other examples include bowel disease caused by abnormal colonic muscular contraction such as the conditions known as inflammatory bowel disorder, spastic colon and mucous colitis.
+<BR><BR>Examples of allergic conditions are extrinsic asthma, allergic skin diseases having a total or partial allergic origin, such as eczema, allergic bowel diseases (including coeliac disease), allergic eye conditions, such as hayfever (which may
+additionally or alternatively affect the upper respiratory tract), allergic rhinitis, and allergic conjunctivitis.
+<BR><BR>Examples of conditions involving blood platelet aggregation are those resulting from thrombosis, including strokes having a total or partial thrombotic origin, coronary thrombosis, phlebitis and phlebothrombosis (the latter two conditions also
+possibly being associated with inflammation).
+<BR><BR>Examples of inflammatory conditions are those of the lungs, joints, eyes, bowel, skin, and heart; particularly those associated with the infiltration of leucocytes into inflamed tissue.  Inflammatory lung conditions include asthma, adult
+respiratory distress syndrome, bronchitis and cystic fibrosis (which may additionally or alternatively involve the bowel or other tissue(s)).  Inflammatory joint conditions include rheumatoid arthritis, rheumatoid spondylitis, osteoarthritis, gouty
+arthritis and other arthritic conditions.  Inflammatory eye conditions include uveitis (including iritis) and conjunctivitis.  Inflammatory bowel conditions include Crohn's disease, ulcerative colitis and distal proctitis.
+<BR><BR>Inflammatory skin diseases include those associated with cell proliferation, such as psoriasis, eczema, dermatitis, including eczematous dermnatitides, such as atopic and seborrheic dermatitis, allergic or irritant contact dermatitis, eczema
+craquelee, photoallergic dermatitis, phototoxic dermatitis, phytophotodermatitis, radiation dermatitis, and stasis dermatitis.  Inflammatory skin diseases also include, but are not limited to, ulcers and erosions resulting from trauma, bums, bullous
+disorders, or ischemia of the skin or mucous membranes; several forms of ichthyoses; epidermolysis bullosae; hypertrophic scars and keloids; cutaneous changes of intrinsic aging and photoaging; frictional blistering caused by mechanical shearing of the
+skin; and cutaneous atrophy resulting from the topical use of corticosteroids.  Additionally, inflammatory skin conditions include inflammation to mucous membranes, such as cheilitis, chapped lips, nasal irritation and vulvovaginitis.
+<BR><BR>Inflammatory conditions of the heart include coronary infarct damage.  Other inflammatory conditions include tissue necrosis in chronic inflammation, endotoxin shock, smooth muscle proliferation disorders (for example, restenosis following
+angioplasty), and tissue rejection following transplant surgery.
+<BR><BR>Additional examples of disease states associated with inflammation are included, as described below.  All examples of disease states that exhibit an inflammatory state or condition cited throughout this specification are included within the
+concept of the invention to treat inflammation.  Further, these lists of inflammatory conditions are exemplary, and are not exhaustive.  Those skilled in the art would recognize additional inflammatory conditions that fall within the concept of
+alleviating inflamed conditions wherein PMNs and/or leukocytes are locally increased, relative to baseline conditions, due to an injury, an insult, or a stimulant to the subject's physiology.
+<BR><BR>Accordingly, the present invention provides a method for the prevention or treatment of a clinical condition in a subject is indicated, such as, a spasmogenic condition, an allergic condition, a condition involving blood platelet aggregation, or
+an inflammatory condition.  The treatment includes administration of a therapeutically effective amount of one or more of compounds 1 through 10 of the invention, or a pharmaceutically acceptable analogue as described herein.  The present invention still
+further provides a method for the prevention or treatment of neurodegeneration or dementia associated with HIV infection in a subject that includes administration of a therapeutically effective amount of one or more of compounds 1 through 10 of the
+invention, or a pharmaceutically acceptable analogue as described herein.
+<BR><BR>In one embodiment, the antiinflammatories of the invention can be incorporated into a shampoo or a body cleansing product, e.g., a soap, for cleansing of the scalp and/or body.  The use of these compounds in a shampoo or soap product can be used
+to treat psoriasis, seborrheic dermatitis, pustular dermatosis and dandruff.  Additionally, the antiiinflammatories of the invention, e.g. compound 1 through 10, and combinations thereof, can be used in topical lotions to treat the above-mentioned
+diseases as well as sunburn, poison ivy, dermatitis, and to slow the growth of metastatic cancers.  Alternatively, the compounds of the invention can be used to treat Alzheimer's disease, where it is known that the action of antiinflammatories helps to
+reduce the long term effect(s) of plaquing.  In an alternative embodiment, the compounds of the invention can be used in an aerosol or spray to treat airway inflammation, e.g., bronchitis, asthma, pneumonia, emphysema, and upper respiratory illnesses in
+general.
+<BR><BR>Supplementary active compounds can also be incorporated into the compositions.  In certain embodiments, an antiinflammatory of the invention is coformulated with and/or coadministered with one or more additional therapeutic agents that are useful
+for treating disorders in which inflammation is detrimental.  For example, an antiinflammatory of the invention may be coformulated and/or coadministered with one or more additional antiinflammatory compounds that bind other targets, e.g., receptors. 
+Furthermore, one or more antiinflammatories of the invention may be used in combination with two or more of the foregoing therapeutic agents.  Such combination therapies may advantageously utilize lower dosages of the administered therapeutic agents,
+thus avoiding possible toxicities or complications associated with the various monotherapies.
+<BR><BR>Surprisingly, it has been unexpectedly discovered that the interaction between aspirin, COX-II and omega-3 fatty acids has an anti-inflammatory effect upon tissue(s).  Moreover, this combination produces unique compounds having the
+above-identified formulae.  These compounds have anti-inflammatory properties and can be used as anti-inflammatory agents for treatment of disease states or conditions which have inflammation associated with these diseases or conditions.
+<BR><BR>Two classes of eicosanoids, namely LT and certain PG, mediate important actions relevant to human disease.  Although the pro-inflammatory roles of LT and PG are established (See FIG. 1), the present invention provides new evidence that previously
+unknown LM and their stable analogs have potent counterregulatory actions in PMN-mediated tissue injury and acute inflammation.  Along these lines, it is known that the oxidation of arachidonic acid in endothelial cells (EC) can lead to 11, 12-EET via
+p450 displaying antiinflammatory properties blocking leukocyte adhesion molecules, and non-enzymatic oxidation of EPA also gives products yet to be identified that downregulate EC.
+<BR><BR>The present findings provide that the integrated host response, recognized as human diseases such as arterial inflammation, arthritis, cardiovascular diseases, geriatric inflammatory disorder, irritable bowel (colon), erysipelos, eczematoas,
+psoriasis, urticara, vasculitis, AIDS associated inflammation, ocular inflammation, asthma, pulmonary inflammation, pulmonary fibrosis, in part, reflects an overall balance between "pro" and "anti"-inflammatory signals".  Among such signals, the role of
+LM remained to be established, likely because these products are rapidly generated, often via transcellular biosynthesis, are short-lived and act locally.  In this regard, the lipoxins (LX) and recently elucidated aspirin-triggered LX (ATL) from
+arachidonic and their metabolically stable analogs have been of interest because prolonging their bio-half life enhances their in vivo beneficial actions.
+<BR><BR>Because ASA triggers formation of epimeric forms of naturally occurring bioactive eicosanoids (Reference 9), the concept that NSAIDs might promote the formation of novel mediators from .omega.-3 PUFAs was tested.  Inflammatory exudates formed in
+murine air pouches via intrapouch injections of TNF-.alpha.  with .omega.-3 and ASA on board (2 h) generated several novel compounds (FIG. 4).  These mice were fed a standard rodent diet containing 0.26% .omega.-3 PUFA.  LC/MS/MS analyses of the
+exudate-derived-materials demonstrated monohydroxy acids, depicted in selected ion chromatograms from acquired results recalled at m/z 317 (FIG. 4A), i.e., 18-hydroxy-EPA (18-HEPE) and 5-HEPE, which coeluted with synthetic 5S-HEPE as well as novel
+trihydroxy-containing compounds derived from C20:5.  LC retention times and MS/MS spectra (FIG. 4B and 4C) gave product ions consistent with structures shown in the respective insets, namely m/z 317=(M-H).about.--H.sub.2 O--CO.sub.2.  Diagnostic ions
+consistent with 18-HEPE identification were present at m/z 259 (FIG. 4B) and 5-HEPE at m/z 115 (FIG. 4C).  These criteria were used throughout for identification.  The stereochemistry of the alcohol at carbon 18 was established for exudate-derived
+18-HEPE using a chiral column, and a reference 18R-HEPE was prepared via biogenic synthesis using B. megaterium (see FIG. 5, Materials and Methods).  This microbe monoxygenates fatty acids and, for example, converts C20:4 to 18R-HETE (22.  Capdevila, J.
+H., S. Wei, C. Helvig, J. R. Falck, Y. Belosludtsev, G. Truan, S. E. Graham-Lorence, and J. A. Peterson.  1996.  The highly stereoselective oxidation of polyunsaturated fatty acids by cytochrome P450BM-3.  J. Biol.  Chem. 271:22663-22671; and 23. 
+Ruettinger, R. T., and A. J. Fulco.  1981.  Epoxidation of unsaturated fatty acids by a soluble cytochrome P-450-dependent system from Bacillus megaterium.  J. Biol.  Chem. 256:5728-5734.).  The alcohol configuration at position 18 proved to be &gt;98%
+R. These findings indicated that murine inflammatory exudates exposed in vivo to C20:5, .omega.3 and ASA produced 5-lipoxygenase pathway 5-series 5S-HEPE, a product also identified with human PMNs, as well as a novel 18R-HEPE, whose route of formation
+was determined (vide infra) (24.  Lee, T. H., J. M. Menica-Huerta, C. Shih, E. J. Corey, R. A. Lewis, and K. F. Austen.  1984.  Characterization and biologic properties of 5,12-dihydroxy derivatives of eicosapentaenoic acid, including leukotriene B5 and
+the double lipoxygenase product.  J. Biol.  Chem. 259:2383-2389.).  Air pouch inflammatory exudate cells from these ASA- and EPA-treated mice contained predominantly PMN (as in FIG. 4), which were 25-50% lower in number than in exudates formed with
+TNF-.alpha.  alone (n=3 illustrated in FIG. 6).  Also, these exudates, when activated with ionophore A.sub.23187 (4 .mu.M), generated essentially equivalent amounts of 18R-HEPE (10.2.+-.4.3 ng/10.sup.4 cells) and 5S-HEPE (10.9 .+-.2.9 ng/10.sup.4 cells). FIGS. 4A-D depict inflammatory exudates from Murine Dorsal Pouches treated with Aspirin to generate novel compounds shown by LC/MS/MS; TNF.alpha.-induced leukocyte exudates were collected at 6 h from FVB mice given ASA (3.5 h at 500 .mu.g/air pouch) and
+EPA (4 h at 300 .mu.g/pouch), contained 2.3+/-0.5.times.10.sup.6 leukocyts/pouch) (See Methods);
+<BR><BR>Evidence for novel trihydroxy-containing products was also obtained in these inflammatory exudates (FIG. 4D).  Ions present within MS/MS were consistent with a trihydroxy-containing product from 20:5 with a parent ion at m/z 349=(M-H)-- and
+product ions of structural significance present at m/z 291 and 195 that are consistent with fragmentation denoted in the inset (FIG. 4D).  Also, an observed 270 nm UV absorbance maximum indicative of a conjugated triene, together with the presence of the
+m/z 291 (cleavage C17-C18 positions) as well as the 20-carbon structure, implicated that 18R-HEPE and the triHEPE were biosynthetically related.
+<BR><BR>It was of interest to determine whether these new compounds were also generated by human cells and if they possess bioactivities.  To this end, human ECs known to induce COX-2 with IL-1.beta.  or hypoxia (not shown) were pulsed with EPA and
+treated with ASA, and extracted materials were subject to LC/MS/MS analysis (FIG. 7A).  Selected ion monitoring at m/z 259 revealed that HUVECs treated with ASA converted EPA to 18R-HEPE (FIG. 7A).  Also, HMVECs created with ASA and EPA generated 18-HEPE
+(10.6 ng/10.sup.4 cells) and 15-HEPE (6.0 ng/10.sup.6 cells)(n=2, four determinations; data now shown).  These observations implicated the involvement of COX-2 in the generation of these compounds, which proved to be the case with recombinant human COX-2
+exposure to ASA and .omega.-3 PUFA (FIG. 8 and Table 1), findings that are of clinical significance.
+<BR><BR>As shown in Table 1, linoleic acid (C18:2) was converted to both 13-hydroxy-9Z, 11E-octadocadienoic acid (13-HODE; n-5 oxygenation) and 9-HODE (.omega.-9), which were greatly diminished by ASA but not completely abolished.  AA was converted to
+15R-HETE (n-5) as well as 11R-HETE (n-9), consistent with earlier findings.  ASA triggered the appearance of lipoxygenase activity that switched to 15R-HETE production by acetylated COX-2 (References 9, 14, 15), which did not appear to influence 11R-HETE
+formation (Table 1 and FIG. 8).  11R-HEPE was the major product with EPA and COX-2, with lesser amounts of 15R-HEPE (n-5) and 18R-HEPE (n-2).  1-.sup.14 C-labeled EPA was used to confirm precursor-product relationships (n=3 as in FIG. 2 in Methods).  ASA
+acetylation of COX-2 (FIG. 8 for identification of each of the novel reaction products and indicated within their respective mass spectrum) led to an approximately twofold increase in 18R-HEPE (n-2), with a &gt;85% reduction in 11R-HEPE (the ratio of
+positional oxygenation with C20:5 was 1:1:0.3, with 18R.about.15R&gt;11R).  Hence, together they suggested that acetylated COX-2 in ECs (FIG. 7) was a dominant source of 18R-HEPE and 15R-HEPE.
+<BR><BR>Interestingly and unlike the isolated COX-2 product profiles, neither 11R-HEPE (from C20:5) nor 11R-HETE (from C20:4) were major products of the vascular ECs (Table 1 and FIG. 7).  With the selective COX-2 inhibitor NS398, these oxygenation were
+reduced, and only 18R-HEPE formation from EPA appeared to escape inhibition (Table 1).  These results suggest that ASA treatment at local sites of inflammation along with .omega.-3 PUFA (i.e., EPA; C20:5, .omega.-3) administration, as exemplified by
+cytosine-drive acute inflammation (FIG. 4 and FIG. 6), can convert EPA via COX-2 to 18R-HEPE and 15R-HEPE.
+<BR><BR>Because human PMNs convert ASA-triggered, COX-2-derived 15R-HETE to 15-epi-LXA.sub.4 (Reference 9) and EPA is converted to 5-series LX (25.  Serhan, C. N., P. Y. Wong, and B. Samuelsson.  1987.  Nomenclature of lipoxins and related compounds
+derived from arachidonic acid and eicosapentaenoic acid.  Prostaglandins 34:201-204.) by human leukocytes as well as trout macrophage (26.  Hill, D. J., D. H. Griffiths, and A. F. Rowley.  1999.  Trout thrombocytes contain 12- but not 5-lipoxygenase
+activity.  Biochim.  Biophys.  Acta 1437:63-70.), activated human PMNs engaged in phagocytosis handle acetylated COX-2-derived C20:5, .omega.-3 products 18R-HEPE and 15R-HEPE were evaluated.  Serum treated zymosan (STZ), a phagocytic stimulus, indicated
+the utilization and conversion of acetylated COS-2 C20:5-derived products to two classes of tri-hydroxy-continuing EPE, determined again by selected ion monitoring at m/z 349.5 (M-H)--, the base peak molecular ion for these products (FIG. 7B).  One,
+shown in FIG. 7C, gave essentially the same MS/MS observed in FIG. 4D from murine cells and was consistent with the 5, 12, 18R-triHEPE structure depicted in the inset giving diagnostic ions (FIG. 7C) as m/z 305, 233, 195, and 291 (FIG. 4D).
+<BR><BR>This product is an 18R-hydroxy-carrying "LTB.sub.5 -like" structure (see FIG. 7D, inset).  Indeed, when isolated 18R-HEPE was incubated as above with activated PMNs, it was converted to several compounds, including this product.  Also, synthetic
+LTB.sub.5 incubated with B. megaterium homogenate and NADPH at pH 8.0 to facilitate hydroxylations (Reference 23) was transformed to a trihydroxy product (n=3) with an m/z 291 ion characteristic for the presence of the 18R alcohol group (FIG. 5) as
+obtained from human PMNs show in FIG. 7C.  These independent lines of evidence indicated that PMNs take up 18R-HEPE, which is converted by their 5-lipoxygenase, to insert molecular oxygen and in subsequent steps to 5-hydro(peroxy)-18R-DiH(p)EPE and
+5(6)epoxide formation to 5, 12, 18R-triHEPE (an 18R-carrying LTB.sub.5 -like product) that is likely to posses the stereochemistry of LTB.sub.5, retaining the 18R chirality of the precursor.
+<BR><BR>In an analogous biosynthetic fashion, 15R-HEPE was converted by PMN via 5-lipoxygenation to a 5-series LXA.sub.5 analogue (FIG. 7D) that also retains their C15 configuration.  Its MS/MS gave prominent ions, m/z 305, 233, and 251, depicted in the
+MS/MS spectrum, namely 15-epi-LXA.sub.5, consistent with 15S-containing LX.sub.5 structures (5-series) observed from endogenous sources of EPA in trout macrophages.  In this case, the chirality of the precursor 15R is retained by human PMN to give
+15-epi-LXA.sub.5 (FIG. 7D), which is the 5-series .omega.-3 analogue of 15-epi-LXA.sub.4.  As with LX biosynthesis, conversion of both 18R- and 15R-HEPE by activated PMNs with 5-lipoxygenation was accompanied with a reduction in LTB.sub.4, formation (not
+shown).  Together, these results indicate that isolated human ECs and PMNs (FIG. 7) can generate the novel products observed with inflammatory exudates (FIGS. 1-4 and Table 1 and 2).
+<BR><BR>Transendothielial migration is a pivotal event in PMN recruitment and inflammation and a recognized locus of action for traditional antiinflammatory therapies (27.  Cronstein, B. N., S. C. Kimmel, R. I. Levin, F. Martiniuk, and G. Weissmann. 
+1992.  A mechanism for the antiinflammatory effects of corticosteroids: The glucocorticoid receptor regulates leukocyte adhesion to endothelial cells and expression of endothelial-leukocyte adhesion molecule 1 and intercellular adhesion molecule 1. 
+Proc.  Natl.  Acad.  Sci.  USA 89:9991-9995.).  Endogenous lipid mediators that can control these cell-cell interactions are of interest.  Therefore, 5, 12, 18R-triHEPE and in precursor 18R-HEPE on human PMN transmigration were evaluated and assessed. 
+Both compounds inhibited LTB.sub.4 -stimulated PMN transendothelial migration (FIG. 9A) with an apparent IC.sub.50 for 5-50 nM for 5, 12, 18R-triHEPE and IC.sub.50 &gt;1.0 .mu.M for 18R-HEPE.  Thus, the new 5-series members, namely, 18R-carrying
+trihydroxy-HEPE and 18R-HEPE, inhibited PMN migration, as did 15-epi-LXA.sub.4, and in omega and analogue, tested in parallel for direct comparison (FIG. 10A, Table 1 and Table 2).  Their rank order of potency was 15-epi-LXA.sub.4 stable analogue&gt;5,
+12, 18R-tri-HEPE&gt;18R-HEPE.
+<BR><BR>The G protein-coupled receptor for LTB.sub.4 was identified (28.  Yokomizo, T., T. Izumi, K. Chang, T. Takuwa, and T. Shimizu.  1997.  A G-protein-coupled receptor for leukotriene B4 that mediates chemotaxis.  Nature 387:620-624.), and to
+determine whether these 18R-containing products interact with human LTB.sub.4 receptors to block PMNs, this receptor was cloned (Reference 11) from reported sequences and stably expressed in HEK293 cells for competition binding experiments (FIG. 10B). 
+The homoligand LTB.sub.4, effectively competed (IC.sub.50.about.2.5 nM).  18R-HEPE did not, while both LTB.sub.5 and 5, 12, 18R-triHEPE competed (IC.sub.50 0.5 .mu.M), giving a trend with LTB.sub.5 &gt;5, 12, 18R-triHEPE.
+<BR><BR>Although the 5, 12, 18R-triHEPE and a related structure (i.e., LTB.sub.5) were substantially less effective than 4-series LTB.sub.4, consistent with the reduced PMN activity of LTB.sub.5 (Reference 24), their potency for displacing [.sup.3
+H]LTB.sub.4 was in the range of currently available synthetic LTB.sub.4 receptor antagonists (not shown).  These findings suggest that 5, 12, 18R-triHEPE serves as a damper for LT-mediated responses in vivo if generated in appropriate quantities within
+the microenvironment as well as a biotemplate (FIG. 12) for total synthesis of new classes of receptor antagonists.
+<BR><BR>When administered intravenously into tail at low levels (100 ng), 5, 12, 18R-triHEPE was a potent inhibitor of PMN infiltration into murine dorsal air pouches (FIG. 10C), as was a 15-epi-LX stable analogue given at equivalent doses for the
+purposes of direct comparison.  18R-HEPE also carried some activity in vivo (&lt;5, 12, 18R-triHEPE), whereas it was far less effective with isolated human PMNs in transendothelial migration and apparently did not interact with recombinant LTB.sub.4
+receptors at these concentrations.
+<BR><BR>Other widely used NSAIDs (i.e., acetaminophen and indomethacin) were also tested (Table 2) with recombinant COX-2 and C20:5 as in Table 1 to determine whether they altered conversion to HEPE.  Each inhibited 11-HEPE by &gt;95%.  Interestingly,
+18R-HEPE and 15R-HEPE formation persisted (.about.1:1 ratio) in the presence of either acetaminophen or indomethacin as concentrations as high as 2 mM, even though the levels of 15R- and 18R-HEPE were reduced by three to eight times their levels in the
+absence of inhibitors (n=3).  These findings indicate that the oxygenation of .omega.3 fatty acids to R-containing monohydro(peroxy)-containing products is not restricted to ASA treatment and arachidonate.  Indeed, C18:2, C18:3 and C22:6 were also
+convereted by NSAID-COX-2 complexes to novel reaction products (See FIGS. 11A, B and C).  Hence, these commonly used NSAIDs and selective COX-2 inhibitors (Table 1 and Table 2) still permit PUFA oxygenation by activated ECs exposed to NSAIDs (FIG. 7) and
+at sites of inflammation where the degree of COX-2 interactions with drugs to permit the generation of novel oxygenated forms of PUFAs.
+<BR><BR>Despite the reports of .omega.-3 PUFAs (i.e., C20:5) possible beneficial impact in humans (References 1-6), oxygenation by COX-2 to generate novel bioactive compounds that has not been addressed in humans or isolated cells.  In fish, both C20:5
+and C20:4 are mobilized in macrophages and platelets to produce 5- and 4-series eicosanoids including PG, LT, and LX, with essentially equal abundance (Reference 26).  The present invention provides that inflammatory exudates from mice treated with ASA
+and EPA generate novel compounds (FIG. 4) that are also produced by human ECs, recombinant COX-2, and PMNs (FIG. 5).  Given the milligram to gram amounts of .omega.-3 PUFA taken as dietary supplements (References 1-6) and the large area of
+microvasculature that can carry upregulated COX-2, the conversion of EPA by ECs and neighboring cells as observed in the present experiments (FIGS. 4-8) represent a significant amount at local microenvironments.  These COX-2-NSAID-dependent conversions
+of .omega.-3 PUFA are likely to be elevated within inflamed or diseased tissues where COX-2 is upregulated and a determinant that impacts fatty acid metabolism when NSAIDs is of therapeutic benefit, namely with microinflammation.
+<BR><BR>Analogous to 15-epi LX biosynthesis, EPA COX-2-derived 15R-HEPE was converted by 5-lipoxygenation with 5(6)-epoxied formation in leukocytes to give the 15-epi-LX.sub.5 series (FIG. 11).  The stable analogues of 15-epi-LXA.sub.4, modified at their
+C15 position through position 20 with bulk groups, resist inactivating enzymes and are more potent in vivo, inhibiting PMN traffic as well as formation and actions of key proinflammatory cytokines (References 10 and 16).  Hence, 5-series 15-epi-LXs
+should act in a similar fashion, as they possess a .gradient.17-18 double bond and thus could function as an .omega.-3-derived 15-epi-LX analogue.
+<BR><BR>Because COX-2-NSAID-dependent oxygenation (e.g., 18R and 15R) led to bioactive compounds in vivo that block PMN transendothelial migration and infiltration, the findings provide a basis for novel mechanism of action of NSAIDs and dietary
+.omega.-3 supplementation, namely the generation of endogenous functional arrays of lipid signals (Table 1 and FIGS. 4 and 7) that could, by dampening key events in microinflammation, mediate some of the beneficial actions noted for .omega.-3 therapies
+in human trials.  In this context, 13-HODE, a recognized lipoxygenase product that downregulates platelet-EC interactions (29.  Buchanan, M. R., P. Horsewood, and S. J. Brister.  1998.  Regulation of endothelial cell and platelet receptor-ligand binding
+by the 12- and 15-lipoxygenase monohydroxides, 12-, 15-HETE and 13-HODE.  Prostaglandins Leukot.  Essent.  Fatty Acids 58:339-346.), is also generated by COX-2 (Table 1 and 2) and joins as does DHA (C22:6) (FIG. 10C) this pathway array and class of
+mediators (FIG. 12).  DHA was also converted to novel reaction products (FIG. 13).  In addition, ASA treatment of COX-2 gave different ratios of C17 versus C13 products (FIGS. 14B-G).  These new COX-2 products are likely to play roles in the brain
+vasculature where COX-2 and DHA are elevated.  Hence these compounds could be used to treat inflammatory disorders in neuronal tissues (i.e., Parkinson's disease, Alzheimer's disease, etc.).  Hence, it has been surprisingly discovered that COX-2
+interactions with NSAIDS lead to novel oxygenations of a wide range of lipid precursors to produce bioactive compounds as illustrated in FIG. 15 and can be used in therapeutic treatment.
+<BR><BR>As inappropriate inflammatory responses are now recognized as contribution to cardiovascular disease (Ridker, P. M., M. Cushman, M. J. Stampfer, R. P. Tracy, and C. H. Hennekens.  1997.  Inflammation, aspirin, and the risk of cardiovascular
+disease in apparently healthy men.  N. Engl.  J. Med.  336:973-979.) as well as in clinical syndromes where PMN-mediated tissue injury is important (Reference 11), the identification of these novel .omega.-3 PUFA processing pathways evoked by cell-cell
+interactions and the unexpected impact of NSAIDs opens new avenues for considering the potential clinical protection provided by .omega.-3 PUFA-based supplementation and mechanisms to generate potent local endogenous mediation that control
+microinflammation (FIGS. 4-11).  Moreover, the present invention provides a basis to circumvent unwanted effects of current antiinflammatory therapies as well as potential biochemical indices and/or markers of effective dietary .omega.-3 supplementation.
+<BR><BR> TABLE I  Hydroxy Compounds Generated from PUFA and Recombinant  Human COX-2 with ASA or a Selective COX-2 Inhibitor  Hydroxy-containing compounds  (ng/incubation)  PUFA NSAID .omega.-2 .omega.-5 .omega.-9  13-HODE 9-HODE  C18:2 ASA -- 2.9 .+-.
+0.6 25.2 .+-. 17.8  C18:2 Vehicle alone -- 55.0 .+-. 18.7 243.0 .+-. 68.6  15R-HETE 11R-HETE  C20:4 ASA -- 234.0 .+-. 112.5 1.4 .+-. 1.6  C20:4 Vehicle alone -- 11.5 .+-. 8.2 1.8 .+-. 1.0  C20:4 Selective -- 5.5 .+-. 0.8 0.9 .+-. 0.1  Inhibitor  18R-HEPE
+15R-HEPE 11R-HEPE  C20:5 ASA 16.2 .+-. 3.3 16.8 .+-. 5.8 5.4 .+-. 3.3  C20:5 Vehicle alone 7.0 .+-. 3.3 17.9 .+-. 5.2 40.7 .+-. 10.3  C20:5 Selective 5.8 .+-. 2.6 0.0 .+-. 0.6 0.0 .+-. 0.3  Inhibitor  Results are the mean .+-. SEM, 3. The selective COX-2
+Inhibitor NS398 was  used at 100 uM. All products were extracted, identified, and quantitated  using Internal standards and LC/MS/MS. Compounds of interest are shown in  bold type.
+<BR><BR> TABLE 2  NSAID - Human Recombinant COX 2 (Conversion of n-3 C20:5)  NSAID 18R-HEPE 15R-HEPE 11R-HEPE  ASA 12.2 +/- 4.6 8.0 +/- 5.6 5.5 +/- 2.3  Indomethacin 3.0 +/- 1.4 2.6 +/- 1.4 3.3 +/- 1.8  Acetaminophen 5.5 +/- 2.4 4.6 +/- 1.2 6.7 +/- 3.0 
+COX-2 alone 18.3 +/- 11.2 42.0 +/- 23.8 90 +/- 43.0  values are the mean amount in ng +/- SEM, n = 3
+<BR><BR>Experimental
+<BR><BR>Materials and Methods
+<BR><BR>Zymosin, hematin, NADPH, and ASA were from Sigma-Aldrich.  EPA (Cayman Chemical) and other synthetic standards, hydroxy fatty acids, and intermediates used for identification were purchased from Cascade Biochem Ltd.  Bacillus megaterium was from
+American Type Culture Collection.  Materials used in liquid chromatography random mass spectrometry (LC/MS/MS) analyses were from vendors given in (20.  Gronert, K., C. B. Clish, M. Romano, and C. N. Serhan.  1999.  Transcellular regulation of eicosanoid
+biosynthesis.  In Eicosanoid Protocols.  E. A. Lianos, editor.  Humana Press, Totowa, N.J.  119-144.).
+<BR><BR>Human PMNs were freshly isolated from venous blood of healthy volunteers (that declined taking medication for 2 wk before donation; Brigham and Women's Hospital protocol no. 88-02642) by Ficoll gradient and enumerated.  Human umbilical vein or
+microvascular ECs (HUVECs or HMVECs, respectively) were cultured for transendothelial migration (Reference 10), HMVEC monolayers (one, two, or three passages) were seeded (.about.2.times.10.sup.5 cells/cm.sup.2) on polycarbonate permeable supports
+precoated with 0.1% gelatin for incubations with NSAIDs and PUFA.
+<BR><BR>Inflammatory exudates were initiated with intrapouch injection of TNF-.alpha.(R&D Systems) into 6 d dorsal air pouches with (Reference 16) 6-8-wk-old male FVB mice (fed standard rodent diet 5001 containing 0.26% n-3 fatty acids) followed by ASA
+(500 .mu.g) at 3.5 h and 300 .mu.ug C20:5/pouch at 4 h. At 6 h, pouches were lavaged (3 ml saline), and exudate cells were enumerated and activated 94 .mu.M A.sub.23187, 37.degree.  C., 20 min).  Inhibition of TNF-.alpha.-stimulated (100 ng/pouch, FVB
+strain) PMN infiltration with intravenous tail injection of either 18 R-hydroxyeicosapentaenoic acid (HEPE), 5, 12, 18R-HEPE, or 15-epi-LXA, analogue was determined (Reference 16) with pouch lavages taken at 4 h.
+<BR><BR>Specific [.sup.3 H]LTB.sub.4, (NEN Life Science Products) binding was performed with human embryonic kidney (HEK)293 cells stably transfected with human LTB.sub.4 receptor (Chiang, N., K. Groner, C. B. Clish, J. A. O'Brien, M. W. Freeman, and C.
+N. Serban.  1999, Leukotriene B.sub.4 receptor transgenic mice reveal novel protective roles for lipoxius and aspirin-triggered lipoxins in reperfusion.  J. Clin. Invest.  104:309-316).  Human recombinant COX-2 (a gift from Dr. R. A. Copeland, DuPont
+Merck, Wilmington, Del.) was overexpressed in 5/9 insect cells (American Type Culture Collection) with microsomal fractions (.about.8 .mu.l) suspended in Tris (100 mM, pH 8.0) as in Reference 21.  George, H. J., D. E. Van Dyk, R. A. Straney, J. M.
+Trzaskos, and R. A. Copeland.  1996.  Expression purification and characterization of recombinant human inducible prostaglandin G/H synthase from baculovirus-infected insect cells.  Protein Expres.  Purif 7:19-26.  NSAIDs were incubated (i.e.,
+ASA.about.1 mM) at 37.degree.  C. for 30 min before addition of PUFA (20 .mu.M), and conversions were also monitored using 1-.sup.14 C-labeled C20:4 (See FIGS. 2A and 2B) or C20:5 (NEN Life Science Products) (See FIGS. 2C and 2D).
+<BR><BR>For biogenic synthesis of intermediates and reference compounds, B. megaterium was grown in Bacto Nutrient Broth (Fisher Scientific) at 30.degree.  C. with shaking.  To prepare standards for 18R-HEPE, a biogenic synthesis was used with B.
+megaterium sonicates incubated with NADPH (2mM) and C20:5 (EPA) (330 .mu.M) in 2 M Tris buffer.  pH 8.1.  Similar conditions were employed to convert LTB.sub.5 (15 .mu.M) to novel products; see Results.  Incubations were extracted with deuterium-labeled
+internal standards (15-HETE and C20:4) for LC/MS/MS analysis using a Finnigan LCQ equipped with a LUNA C18-2 (150.times.2 mm; 5 .mu.M) column and a rapid spectra scanning UV/Vis detector.  Also, a Chiralcel CB-H column (J. T. Baker) was used to determine
+R and S alcohol configurations of monohydroxy-PUFA using isocratic (hexane/isopropanol 96:4 vol/vol).  Detailed procedures for isolation, quantification, and structural determination of lipid-derived mediators were recently reported and used here
+essentially as described for the elucidation of the novel products.
+<BR><BR>Preparation of Hydroxy-DHA Compounds
+<BR><BR>Hydroxy-DHA compounds were prepared in vitro using recombinant COX-II, both in the presence and absence of aspirin acetylation.  Briefly, an incubation mixture was prepared using recombinant human COX-II that was purified as a membrane
+preparation from SF9 cells expressing the enzyme.  The enzyme was suspended in 400 .mu.l of 1 M Tris buffer (pH 8.0) containing 5 mM phenol.  For aspirin acetylation of COX-II, aspirin (2 mM) was added to the mixture and incubated at 37.degree.  C. for
+30 minutes.  DHA (5 .mu.M) was then added and the incubated for 5 minutes at 37 .degree.  C. The reaction was stopped with the addition of 400 .mu.l of chilled methanol.  The products were then extracted using solid phase extraction cartridges (SepPak
+C18).
+<BR><BR>The novel DHA compounds, 13-hydroxy-DHA, 14-hydroxy-DHA, 16-hydroxy-DHA, 17-hydroxy-DHA, 19-hydroxy-DHA or 20-hydroxy-DHA, have potencies equivalent to those described above for the compounds derived from EPA, i.e., for example, similar to those
+results depicted in FIGS. 9A and 9C.
+<BR><BR>Those skilled in the art will know, or be able to ascertain, using no more than routine experimentation, many equivalents to the specific embodiments of the invention described herein.  These and all other equivalents are intended to be
+encompassed by the following claims.  All publications and references cited herein, including those in the background section, are expressly incorporated herein by reference in their entirety.
+<BR><BR><CENTER><b>* * * * *</b></CENTER>
+<HR>
+   <CENTER>
+   <a href=http://pdfpiw.uspto.gov/.piw?Docid=06670396&homeurl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%2526r%3D115%2526p%3D3%2526f%3DG%2526l%3D50%2526d%3DPTXT%2526S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%2526OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))%2526RS%3D(TTL%2Faspirin%252BOR%252BABST%2Faspirin)&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page><img src="/netaicon/PTO/image.gif" alt="[Image]" border="0" valign="middle"></A>
+   <TABLE>
+   <TR><TD align="center"><A href="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D115%26p%3D3%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%206670396"><IMG border="0" src="/netaicon/PTO/cart.gif" border="0" valign="m
+iddle" alt="[View Shopping Cart]"></A>
+   <A href="https://certifiedcopycenter.uspto.gov/other/patft/order.html?docNumber=6670396&backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-adv.htm%26r%3D115%26p%3D3%26f%3DG%26l%3D50%26d%3DPTXT%26S1%3D(aspirin.TI.%252BOR%252Baspirin.ABTX.)%26OS%3D%252B((ttl%2Faspirin%252Bor%252Babst%2Faspirin))&backLabel1=Back%20to%20Document%3A%206670396">
+   <IMG border="0" src="/netaicon/PTO/order.gif" valign="middle" alt="[Add to Shopping Cart]"></A>
+   </TD></TR>
+   <TR><TD align="center">
+     <A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=2&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=3&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/hitlist.gif border=0 ALT=[HIT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=115&p=4&f=S&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&Query=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextlist.gif border=0 ALT=[NEXT_LIST]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=114&p=3&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/prevdoc.gif border=0 ALT=[PREV_DOC]></A>
+<A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=116&p=3&f=G&l=50&d=PTXT&S1=(aspirin.TI.+OR+aspirin.ABTX.)&OS=+((ttl/aspirin+or+abst/aspirin))><IMG VALIGN=MIDDLE SRC=/netaicon/PTO/nextdoc.gif border=0 ALT=[NEXT_DOC]></A>
+
+   <A href="#top"><IMG valign="middle" src="/netaicon/PTO/top.gif" border="0" alt="[Top]"></A>
+   </TD></TR>
+   </TABLE>
+   <A name="bottom"></A>
+   <A href="/netahtml/PTO/index.html"><IMG src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-bool.html"><IMG src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/search-adv.htm"><IMG border="0" src="/netaicon/PTO/manual.gif" alt="[Manual Search]" valign="middle"></A>
+   <A href="/netahtml/PTO/srchnum.htm"><IMG src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign="middle"></A>
+   <A href="/netahtml/PTO/help/help.htm"><IMG border="0" src="/netaicon/PTO/help.gif" alt="[Help]" valign="middle"></A>
+   </CENTER>
+</BODY>
+</HTML>

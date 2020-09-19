@@ -1,0 +1,176 @@
+<HTML>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Patent Database Search Results:  ((ttl/chloroquine or abst/chloroquine)) in US Patent Collection</TITLE>
+<script language="javascript">
+var clicked = false;
+// Shamelessly adapted from http://www.randomsnippets.com/2008/02/21/how-to-dynamically-add-form-elements-via-javascript/ 09-04-14. jh
+function addInput(divName,btnName,btnLabel) {
+   var newdiv = document.createElement('div');
+   newdiv.innerHTML = "<input type='hidden' name='" + btnName +
+			"' value='" + btnLabel + "'>";
+   divName.appendChild(newdiv);
+}
+// -- 09-04-14.
+function check(form1,formBtn) {
+   // if submitted by <enter> key, add a submit button lookalike to prevent
+   // 1003 errs from BRS. 9-4-14 jh
+   if (!clicked)
+      addInput (form1,formBtn.name,formBtn.value);
+   return true;
+}
+function unesc(){
+   srchForm.Srch1.value = unescape(srchForm.Srch1.value);
+   if (srchForm.Srch2)
+      srchForm.Srch2.value = unescape(srchForm.Srch2.value);
+}
+function unesc2(){
+   srchForm2.Srch1.value = unescape(srchForm2.Srch1.value);
+   if (srchForm2.Srch2)
+      srchForm2.Srch2.value = unescape(srchForm2.Srch2.value);
+}
+function decod(){
+   document.title = decodeURIComponent(document.title);
+   refine.Query.value = decodeURIComponent(refine.Query.value);
+   var x = document.getElementById("srchtext").childNodes[0];
+   x.data = decodeURIComponent(x.data);
+}
+</script>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" onload="decod()">
+<center>
+<IMG SRC="/netaicon/PTO/patfthdr.gif" alt="[US Patent & Trademark Office, Patent Full Text and Image Database]">
+<br>
+<a name="top">
+<table>
+<tr><td>
+<a href="/netahtml/PTO/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0"></a>
+<a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0"></a>
+<A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0"></A>
+<a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0"></a>
+<A HREF="/netahtml/PTO/help/help.htm"><IMG BORDER="0"SRC="/netaicon/PTO/help.gif" ALT="[Help]"></A>
+</td></tr>
+</table>
+<A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&Page=Prev&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<a href="#bottom"><img src="/netaicon/PTO/bottom.gif" alt="[Bottom]" align=middle border="0"></a>
+<A HREF="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26p%3D2%26f%3DS%26l%3D50%26d%3DPTXT%26S1%3D(chloroquine.TI.%252BOR%252Bchloroquine.ABTX.)%26Page%3DNext%26OS%3D%252B((ttl%2Fchloroquine%252Bor%252Babst%2Fchloroquine))%26RS%3D(TTL%2Fchloroquine%252BOR%252BABST%2Fchloroquine)&backLabel1=Back%20to%20Document%3A%20 ((ttl/chloroquine or abst/chloroquine))"><img src="/netaicon/PTO/cart.gif" align=middle border=0 alt="[View Shopping Cart]"></A>
+</center>
+<p>
+<i>Searching US Patent Collection...</i><BR></p>
+<B>Results of Search in US Patent Collection db for:<BR> <span id="srchtext">(TTL/chloroquine OR ABST/chloroquine)</span></B>: 58 patents.
+<BR><I>Hits <strong>51</strong> through <strong>58
+</strong> out of <strong>58</strong>
+</I><p>
+
+<BR>
+<form name="srchForm" action="/netacgi/nph-Parser" method="GET" onsubmit="unesc()">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="OS" VALUE=" ((ttl/chloroquine or abst/chloroquine))">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/chloroquine OR ABST/chloroquine)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE=" ((ttl/chloroquine or abst/chloroquine))">
+<INPUT TYPE=submit NAME=PrevList1 VALUE="Prev. 50 Hits"><BR><BR>
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="58">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(chloroquine.TI. OR chloroquine.ABTX.)">
+
+</FORM>
+<form name="srchForm2" action="/netacgi/nph-Parser" method="GET"
+	onsubmit="unesc2();check(this,this.StartAt)">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/chloroquine OR ABST/chloroquine)">
+    <INPUT TYPE="HIDDEN" NAME="Query" VALUE=" ((ttl/chloroquine or abst/chloroquine))">
+<INPUT TYPE="HIDDEN" NAME="TD" VALUE="58">
+<INPUT TYPE="HIDDEN" NAME="Srch1" VALUE="(chloroquine.TI. OR chloroquine.ABTX.)">
+
+<INPUT TYPE=submit name=StartAt VALUE="Jump To" onclick="clicked=true;">
+&nbsp;
+<INPUT size=6 name="StartNum" title="Record Number">	<!-- 2/21/14 508 -->
+</form>
+<BR><BR>
+<form name="refine" action="/netacgi/nph-Parser" method="GET" onsubmit="check(this,this.Refine)">
+    <INPUT TYPE="HIDDEN" NAME="Sect1" VALUE="PTO2">
+    <INPUT TYPE="HIDDEN" NAME="Sect2" VALUE="HITOFF">
+    <INPUT TYPE="HIDDEN" NAME="u" VALUE="/netahtml/PTO/search-adv.htm">
+    <INPUT TYPE="HIDDEN" NAME="r" VALUE="0">
+    <INPUT TYPE="HIDDEN" NAME="f" VALUE="S">
+    <INPUT TYPE="HIDDEN" NAME="l" VALUE="50">
+    <INPUT TYPE="HIDDEN" NAME="d" VALUE="PTXT">
+    <INPUT TYPE="HIDDEN" NAME="RS" VALUE="(TTL/chloroquine OR ABST/chloroquine)">
+<INPUT type="submit" name="Refine" value="Refine Search" onclick="clicked=true;">
+<INPUT size=50 name="Query" value=" ((ttl/chloroquine or abst/chloroquine))" title="Query">	<!-- 2/21/14 508 -->
+</FORM>
+<TABLE><TR><TD></TD><TH scope="col">PAT. NO.</TH><TD></TD><TH scope="col">Title</TH></TR>
+<TR><TD valign=top>51</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=51&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>5,068,197</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=51&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Fecal occult blood test methods
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>52</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=52&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>5,053,342</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=52&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Fecal occult blood test reagents
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>53</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=53&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,946,849</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=53&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Method for the treatment of malaria
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>54</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=54&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,939,097</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=54&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Fecal occult blood test methods
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>55</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=55&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,287,202</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=55&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Treatment and/or prophylaxis of spasms of coronary arteries
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>56</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=56&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,284,627</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=56&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Antimalarial compositions
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>57</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=57&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,260,615</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=57&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Antimalarial compositions
+</A></TD>
+<DOCS: 58>
+<TR><TD valign=top>58</TD>
+<TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=58&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)>4,181,725</A></TD>
+     <TD valign=baseline><IMG border=0 src="/netaicon/PTO/ftext.gif" alt="Full-Text"></TD>
+     <TD valign=top><A  HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=58&p=2&f=G&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)> Method for alleviating psoriasis
+</A></TD>
+   </TABLE><HR><br>
+   <center>
+   <table>
+   <tr><td><A HREF=/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&d=PTXT&S1=(chloroquine.TI.+OR+chloroquine.ABTX.)&Page=Prev&OS=+((ttl/chloroquine+or+abst/chloroquine))&RS=(TTL/chloroquine+OR+ABST/chloroquine)><IMG ALIGN=MIDDLE SRC=/netaicon/PTO/prevlist.gif border=0 ALT=[PREV_LIST]></A>
+<a name="bottom"><a href="#top"><img src="/netaicon/PTO/top.gif" alt="[Top]" border="0" align=middle></a>
+   <A HREF="https://certifiedcopycenter.uspto.gov/other/patft/view.html?backUrl1=http%3A//patft.uspto.gov/netacgi/nph-Parser?Sect1%3DPTO2%26Sect2%3DHITOFF%26u%3D%252Fnetahtml%252FPTO%252Fsearch-adv.htm%26r%3D0%26p%3D2%26f%3DS%26l%3D50%26d%3DPTXT%26S1%3D(chloroquine.TI.%252BOR%252Bchloroquine.ABTX.)%26Page%3DNext%26OS%3D%252B((ttl%2Fchloroquine%252Bor%252Babst%2Fchloroquine))%26RS%3D(TTL%2Fchloroquine%252BOR%252BABST%2Fchloroquine)&backLabel1=Back%20to%20Document%3A%20 ((ttl/chloroquine or abst/chloroquine))"><img border=0 src="/netaicon/PTO/cart.gif" alt="[View Shopping Cart]" border = "0" align
+=middle></A>
+   </td></tr>
+   </table>
+   <a href="/netahtml/PTO/index.html"><img src="/netaicon/PTO/home.gif" alt="[Home]" border="0" valign=baseline></a>
+   <a href="/netahtml/PTO/search-bool.html"><img src="/netaicon/PTO/boolean.gif" alt="[Boolean Search]" border="0" valign=baseline></a>
+   <A HREF="/netahtml/PTO/search-adv.htm"><img src="/netaicon/PTO/manual.gif" alt="[Manual Search]" border="0" valign=baseline></A>
+   <a href="/netahtml/PTO/srchnum.htm"><img src="/netaicon/PTO/number.gif" alt="[Number Search]" border="0" valign=baseline></a>
+   <A HREF="/netahtml/PTO/help/help.htm"><img border="0" src="/netaicon/PTO/help.gif" ALT="[Help]" border="0" valign=baseline></A>
+   </center>
+   </HTML>
