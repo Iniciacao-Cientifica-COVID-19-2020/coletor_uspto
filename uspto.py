@@ -11,9 +11,32 @@ import re
 
 class UsptoSpider(scrapy.Spider):
     name = 'uspto_spider'
-    medicamento = input("Digite um medicamento para busca: ")
+    termo = input("Digite um termo para busca: ")
     
-    start_urls = ['http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28ttl%2F' + medicamento + '+or+abst%2F' + medicamento + '%29%29&d=PTXT']
+    stringUrl = ''
+    tit = input("Se você deseja pesquisar em 'title' digite 's', caso contrário digite 'n': ")
+    abst = input("Se você deseja pesquisar em 'abstract' digite 's', caso contrário digite 'n': ")
+    clm = input("Se você deseja pesquisar em 'claims' digite 's', caso contrário digite 'n':  ")
+    
+    start_urls = []
+    
+    if tit == 's' and abst == 's' and clm == 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28ttl%2F' + termo + '+or+abst%2F' + termo + '+or+aclm%2F' + termo + '%29%29&d=PTXT'
+    elif tit == 's' and abst == 's' and clm != 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28ttl%2F' + termo + '+or+abst%2F' + termo + '%29%29&d=PTXT'
+    elif tit == 's' and abst != 's' and clm == 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28ttl%2F' + termo + '+or+aclm%2F' + termo + '%29%29&d=PTXT'
+    elif tit != 's' and abst == 's' and clm == 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28abst%2F' + termo + '+or+aclm%2F' + termo + '%29%29&d=PTXT'
+    elif tit == 's' and abst != 's' and clm != 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28ttl%2F' + termo + '%29%29&d=PTXT'
+    elif tit != 's' and abst == 's' and clm != 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28abst%2F' + termo + '%29%29&d=PTXT'
+    elif tit != 's' and abst != 's' and clm == 's':
+        stringUrl = 'http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&p=1&f=S&l=50&Query=%28%28aclm%2F' + termo + '%29%29&d=PTXT'
+    
+        
+    start_urls.append(stringUrl)
     
     def parse(self, response):   # Função para parsear os links
         links = response.xpath(
